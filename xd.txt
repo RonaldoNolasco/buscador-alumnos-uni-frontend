@@ -1,0 +1,26 @@
+export default {
+  name: 'app', 
+  data(){
+    return{
+      codigo:"",
+      datos:[
+        {
+          id: "1",
+          codigo: "lol"
+        },
+        {
+          id:"2",
+          codigo:"lel"
+        }
+      ]
+    }
+  },
+  components: {
+    HelloWorld
+  },
+  computed: {
+    validar:function(){
+      return this.datos;
+    }
+  }
+}
