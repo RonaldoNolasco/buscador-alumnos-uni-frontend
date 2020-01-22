@@ -1,19 +1,25 @@
 <template>
   <div id="app">
-    <input v-model="codigo" @keyup.enter="buscar">
-    <button @click="buscar">Buscar</button>
+    <div class="field is-grouped">
+      <input class="input is-info" type="text" placeholder="Info input" v-model="codigo" @keyup.enter="buscar">
+      <button class="button is-info is-expanded" @click="buscar">Buscar</button>
+    </div>
     <br>
-    <table class="center">
-        <tr v-if="validos.length>0">
+    <table class="table center">
+      <thead  v-if="validos.length>0">
+        <tr>
           <td><strong>Codigo</strong></td>
           <td><strong>Especialidad</strong></td>
           <td><strong>Nombre</strong></td>
         </tr>
-      <tr v-for="valido in validos" v-bind:key="valido.codigo">
-        <td>{{valido.codigo}}</td>
-        <td>{{valido.especialidad}}</td>
-        <td>{{valido.nombre}}</td>
-      </tr>
+      </thead>
+      <tbody>
+        <tr v-for="valido in validos" v-bind:key="valido.codigo">
+          <td>{{valido.codigo}}</td>
+          <td>{{valido.especialidad}}</td>
+          <td>{{valido.nombre}}</td>
+        </tr>
+      </tbody>
     </table>
     
   </div>
