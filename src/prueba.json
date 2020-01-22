@@ -1,382 +1,6182 @@
 [
     {
-      "codigo": "20199502J",
-      "especialidad": "M6",
-      "nombre": "FLORES-HINOJOSA-MARKO JHAMIL"
+      "codigo": "20191608C",
+      "especialidad": "N2",
+      "nombre": "MACEDO-CORDOVA-HAROLD ALEXANDER"
     },
     {
-      "codigo": "20199501C",
-      "especialidad": "M4",
-      "nombre": "SARMIENTO-BELTRAN-RAFAEL JUNIOR"
-    },
-    {
-      "codigo": "20199006B",
-      "especialidad": "I1",
-      "nombre": "HUAMANI-RAMOS-CELSO JULIAN"
-    },
-    {
-      "codigo": "20199005F",
-      "especialidad": "C1",
-      "nombre": "ESCOBEDO-RODRIGUEZ-KENNEDYN EDILBERTO"
-    },
-    {
-      "codigo": "20199004J",
-      "especialidad": "Q1",
-      "nombre": "ALARCÓN-ALIAGA-CHRISTOPHER DAVID"
-    },
-    {
-      "codigo": "20199003C",
-      "especialidad": "C1",
-      "nombre": "MAQUERA-MURRUGARRA-EDUARDO MARTÍN JESÚS"
-    },
-    {
-      "codigo": "20199002G",
-      "especialidad": "M6",
-      "nombre": "CASTILLO-TARAZONA-MAXIMO ALEJANDRO"
-    },
-    {
-      "codigo": "20199001K",
-      "especialidad": "N6",
-      "nombre": "LÁPIZ-PINEDO-EMMANUEL FAUSTINO"
-    },
-    {
-      "codigo": "20197507D",
-      "especialidad": "S1",
-      "nombre": "PALACIOS-SILVERA-RONALD JOSE"
-    },
-    {
-      "codigo": "20197506H",
-      "especialidad": "M3",
-      "nombre": "QUISPE-PILLACA-RICHARD"
-    },
-    {
-      "codigo": "20197505A",
-      "especialidad": "I1",
-      "nombre": "ROSALES-RODRIGUEZ-FELIX ALFREDO"
-    },
-    {
-      "codigo": "20197504E",
-      "especialidad": "M6",
-      "nombre": "GAMARRA-CHAPOÑAN-ALEJANDRO DAVID"
-    },
-    {
-      "codigo": "20197503I",
-      "especialidad": "G3",
-      "nombre": "QUISPE-PONCE-RAUL AUGUSTO"
-    },
-    {
-      "codigo": "20197502B",
-      "especialidad": "G1",
-      "nombre": "VALENCIA-DAVALOS-JOSE ANTONIO"
-    },
-    {
-      "codigo": "20197501F",
-      "especialidad": "I2",
-      "nombre": "GONZALES-LOZANO-GREGOR GERARDO"
-    },
-    {
-      "codigo": "20197015D",
-      "especialidad": "I1",
-      "nombre": "HUAMANI-MACHACA-MARIA FELIPA"
-    },
-    {
-      "codigo": "20197014H",
-      "especialidad": "M4",
-      "nombre": "ESPINOZA-HUAMANI-ANTONY EDWIN"
-    },
-    {
-      "codigo": "20197013A",
-      "especialidad": "N1",
-      "nombre": "SALAZAR-MACALUPU-MARTIN SANTOS"
-    },
-    {
-      "codigo": "20197012E",
+      "codigo": "20191607G",
       "especialidad": "P2",
-      "nombre": "SAAVEDRA-MARTINEZ-PEDRO JAVIER"
+      "nombre": "HINOSTROZA-MORI-DANIELA INES"
     },
     {
-      "codigo": "20197011I",
-      "especialidad": "M5",
-      "nombre": "CHAVEZ-BONILLA-LUZ ROSAURA"
-    },
-    {
-      "codigo": "20197010B",
-      "especialidad": "G3",
-      "nombre": "GONZA-GONZA-JOSE LUIS"
-    },
-    {
-      "codigo": "20197009D",
-      "especialidad": "G1",
-      "nombre": "LAURENTE-HUAMAN-ELEF JOEL"
-    },
-    {
-      "codigo": "20197008H",
-      "especialidad": "I2",
-      "nombre": "BERRIOS-BEJAR-JORGE ALEJANDRO"
-    },
-    {
-      "codigo": "20197007A",
-      "especialidad": "S3",
-      "nombre": "OSCCO-HUAMANÌ-PABLO JULIÀN"
-    },
-    {
-      "codigo": "20197006E",
-      "especialidad": "M3",
-      "nombre": "MENDEZ-CÁRDENAS-EDUARD"
-    },
-    {
-      "codigo": "20197005I",
-      "especialidad": "C1",
-      "nombre": "QUILLA-LAURENTE-OSCAR JUNIOR"
-    },
-    {
-      "codigo": "20197004B",
-      "especialidad": "C1",
-      "nombre": "ESTUCO-TICONA-JESUS ANGEL"
-    },
-    {
-      "codigo": "20197003F",
-      "especialidad": "M6",
-      "nombre": "VARGAS MACHUCA-DIONICIO-FRANK LUIS"
-    },
-    {
-      "codigo": "20197002J",
-      "especialidad": "C1",
-      "nombre": "MENDOZA-QUISPE-JOSE JUNIOR"
-    },
-    {
-      "codigo": "20197001C",
-      "especialidad": "C1",
-      "nombre": "ALBORNOZ-GAGO-RENZO WILLIAM"
-    },
-    {
-      "codigo": "20195516F",
-      "especialidad": "G3",
-      "nombre": "YUMANGA-BRAVO-PERCY"
-    },
-    {
-      "codigo": "20195515J",
-      "especialidad": "L1",
-      "nombre": "TORRES-APAZA-CARLOS MANUEL"
-    },
-    {
-      "codigo": "20195514C",
-      "especialidad": "E1",
-      "nombre": "ROJAS-GUERRERO-RONALD BARONI"
-    },
-    {
-      "codigo": "20195513G",
-      "especialidad": "M4",
-      "nombre": "DE LA CRUZ-ANTAURCO-MARVIN JOSEPH"
-    },
-    {
-      "codigo": "20195512K",
+      "codigo": "20191606K",
       "especialidad": "S1",
-      "nombre": "RAMIREZ-PADILLA-JUAN MIGUEL"
+      "nombre": "MEZA-CASTRO-WILSON ABEL"
     },
     {
-      "codigo": "20195511D",
+      "codigo": "20191605D",
+      "especialidad": "Q2",
+      "nombre": "LIÑAN-OBREGON-ROSARIO BEATRIZ"
+    },
+    {
+      "codigo": "20191604H",
+      "especialidad": "N5",
+      "nombre": "CORI-CAMPERON-TAHIRIH GIANELLA"
+    },
+    {
+      "codigo": "20191603A",
+      "especialidad": "S1",
+      "nombre": "FERNANDEZ-DORIA-JOEL NAHUM"
+    },
+    {
+      "codigo": "20191602E",
+      "especialidad": "S1",
+      "nombre": "TORO-ALARCON-CHRISTIAN ARTURO"
+    },
+    {
+      "codigo": "20191601I",
+      "especialidad": "N2",
+      "nombre": "BUSTOS-ROMERO-LEONARDO FREDDY"
+    },
+    {
+      "codigo": "20191600B",
       "especialidad": "S2",
-      "nombre": "QUINTO-LEON-JULIO ANGEL"
+      "nombre": "HUAMAN-YARANGA-ANTONELLA BRISHEL"
     },
     {
-      "codigo": "20195510H",
-      "especialidad": "M5",
-      "nombre": "PEREZ-PEÑA-LEONIDAS ISRAEL"
+      "codigo": "20191599D",
+      "especialidad": "Q2",
+      "nombre": "GUERRERO-PUELLES-SHEILY JUDITH"
     },
     {
-      "codigo": "20195509J",
-      "especialidad": "I2",
-      "nombre": "NATIVIDAD-ALVARADO-HENRY ALEX"
-    },
-    {
-      "codigo": "20195508C",
-      "especialidad": "M6",
-      "nombre": "MEDINA-TABER-CARLOS MARTIN"
-    },
-    {
-      "codigo": "20195507G",
-      "especialidad": "E1",
-      "nombre": "LAZARO-FERRER-RAFAEL ARTURO"
-    },
-    {
-      "codigo": "20195506K",
-      "especialidad": "I1",
-      "nombre": "HURTADO-CHUMPITAZI-JOSÉ LUIS"
-    },
-    {
-      "codigo": "20195505D",
-      "especialidad": "L1",
-      "nombre": "GARRAFA-AYQUIPA-CELIA ROMINA"
-    },
-    {
-      "codigo": "20195504H",
-      "especialidad": "E1",
-      "nombre": "DOLORES-CACHAY-FERNANDO EDUARDO"
-    },
-    {
-      "codigo": "20195503A",
-      "especialidad": "I1",
-      "nombre": "DIAZ-PARIONA-JEAN ROBERTO"
-    },
-    {
-      "codigo": "20195502E",
-      "especialidad": "L1",
-      "nombre": "CARDENAS-IPARRAGUIRRE-HANS BRYAN"
-    },
-    {
-      "codigo": "20195501I",
-      "especialidad": "N6",
-      "nombre": "CACERES-NAUPARI-JORGE LUIS"
-    },
-    {
-      "codigo": "20195023J",
-      "especialidad": "M4",
-      "nombre": "TAYPE-AMANCAY-RAUL ALBERTO"
-    },
-    {
-      "codigo": "20195022C",
-      "especialidad": "M4",
-      "nombre": "SANCHEZ-SILVA-RONALD MISCAEL"
-    },
-    {
-      "codigo": "20195021G",
-      "especialidad": "L1",
-      "nombre": "SAAVEDRA-PEÑA-JOEL CONSTANTINO"
-    },
-    {
-      "codigo": "20195020K",
-      "especialidad": "I2",
-      "nombre": "RODRIGUEZ-AYQUIPA-JULIO CESAR"
-    },
-    {
-      "codigo": "20195019B",
-      "especialidad": "I2",
-      "nombre": "PILA-HUANCACHOQUE-RUSSOU ADRIEL"
-    },
-    {
-      "codigo": "20195018F",
-      "especialidad": "C1",
-      "nombre": "NIEVA-CHAVARRIA-BRYAN FRANS"
-    },
-    {
-      "codigo": "20195017J",
-      "especialidad": "I1",
-      "nombre": "MIRANDA-CHURA-EDSON ROBERTHO"
-    },
-    {
-      "codigo": "20195016C",
-      "especialidad": "L2",
-      "nombre": "MENDOZA-ANGELES-JOE CRISTHIAN"
-    },
-    {
-      "codigo": "20195015G",
-      "especialidad": "I1",
-      "nombre": "MEJIA-RAMIREZ-KARIBEL"
-    },
-    {
-      "codigo": "20195014K",
-      "especialidad": "C1",
-      "nombre": "LUYO-MAMANI-SERGIO MARTIN"
-    },
-    {
-      "codigo": "20195013D",
-      "especialidad": "G3",
-      "nombre": "LANDEO-RAMOS-DIEGO ANGEL"
-    },
-    {
-      "codigo": "20195012H",
-      "especialidad": "C1",
-      "nombre": "GOMEZ-ANGELES-ROLANDO LUCIO"
-    },
-    {
-      "codigo": "20195011A",
-      "especialidad": "I1",
-      "nombre": "FERNANDEZ-QUISPE-JONATHAN WILSON"
-    },
-    {
-      "codigo": "20195010E",
-      "especialidad": "M3",
-      "nombre": "FELIPE-GASPAR-WALTER SULLIVAN"
-    },
-    {
-      "codigo": "20195009G",
-      "especialidad": "L1",
-      "nombre": "ESTRADA-FLORES-JORGE ANGHELO"
-    },
-    {
-      "codigo": "20195008K",
-      "especialidad": "C1",
-      "nombre": "DAMIAN-MAMANI-EDWIN JONATAN"
-    },
-    {
-      "codigo": "20195007D",
-      "especialidad": "M4",
-      "nombre": "CORTEZ-BERROSPI-ERIK"
-    },
-    {
-      "codigo": "20195006H",
-      "especialidad": "C1",
-      "nombre": "CARUAJULCA-GAMBOA-JORGE LUIS"
-    },
-    {
-      "codigo": "20195005A",
-      "especialidad": "G3",
-      "nombre": "BRUNO-VILLUGAS-PERCY WALTER"
-    },
-    {
-      "codigo": "20195004E",
-      "especialidad": "I1",
-      "nombre": "AYQUIPA-MERINO-LUIS ALBERTO"
-    },
-    {
-      "codigo": "20195003I",
-      "especialidad": "C1",
-      "nombre": "AYMA-VISA-CESAR AUGUSTO"
-    },
-    {
-      "codigo": "20195002B",
-      "especialidad": "C1",
-      "nombre": "ANHUAMAN-CORDOVA-VICTOR ELIAS"
-    },
-    {
-      "codigo": "20195001F",
-      "especialidad": "G1",
-      "nombre": "ALARCON-ALVARADO-JULIO ENRIQUE"
-    },
-    {
-      "codigo": "20194548A",
-      "especialidad": "G3",
-      "nombre": "SILVESTRE-GÜERE-DAYANNA MARIA"
-    },
-    {
-      "codigo": "20194547E",
-      "especialidad": "M4",
-      "nombre": "SOLANO-CAPCHA-RUSSELL BRUCE"
-    },
-    {
-      "codigo": "20194546I",
-      "especialidad": "P2",
-      "nombre": "HUAMAN-ROMERO-KEVIN JESUS"
-    },
-    {
-      "codigo": "20194545B",
-      "especialidad": "L1",
-      "nombre": "PUMARRUMI-MEDINA-LESLY ARACELI"
-    },
-    {
-      "codigo": "20194544F",
+      "codigo": "20191598H",
       "especialidad": "E3",
-      "nombre": "ISPILCO-QUIROZ-ELIANA ELIZABETH"
+      "nombre": "CCORA-YUPANQUI-STEVE EDDINGTON"
     },
     {
-      "codigo": "20194543J",
+      "codigo": "20191597A",
+      "especialidad": "P2",
+      "nombre": "TAPIA-TIPULA-NEYRA ANTONIA"
+    },
+    {
+      "codigo": "20191596E",
+      "especialidad": "N3",
+      "nombre": "FERMIN-VEGA-BRYAN JOEL"
+    },
+    {
+      "codigo": "20191595I",
+      "especialidad": "N2",
+      "nombre": "RAMIREZ-CELLO-PEDRO ALEXANDER"
+    },
+    {
+      "codigo": "20191594B",
+      "especialidad": "S1",
+      "nombre": "CORONEL-YLLAHUAMAN-ADOLFO JAIR"
+    },
+    {
+      "codigo": "20191593F",
+      "especialidad": "S1",
+      "nombre": "ESPINOZA-CRISTOBAL-ROSMERY FLORA"
+    },
+    {
+      "codigo": "20191592J",
+      "especialidad": "G2",
+      "nombre": "LUNA-CHAISA-OSCAR"
+    },
+    {
+      "codigo": "20191591C",
+      "especialidad": "N2",
+      "nombre": "TEMOCHE-LEYVA-ISRAEL CALEB"
+    },
+    {
+      "codigo": "20191590G",
+      "especialidad": "S2",
+      "nombre": "ALBINO-CHAVA-DIEGO ANTONIO"
+    },
+    {
+      "codigo": "20191589I",
+      "especialidad": "E1",
+      "nombre": "OLIVARES-QUISPE-JEAM POOL"
+    },
+    {
+      "codigo": "20191588B",
+      "especialidad": "P2",
+      "nombre": "ACOSTA-CASIQUE-LUIS FERNANDO JUNIOR"
+    },
+    {
+      "codigo": "20191587F",
+      "especialidad": "G2",
+      "nombre": "MARCOS-BRAVO-DAVID"
+    },
+    {
+      "codigo": "20191586J",
+      "especialidad": "E1",
+      "nombre": "ROSSELLO-CHURQUIPA-JAVIER ELIAS"
+    },
+    {
+      "codigo": "20191585C",
+      "especialidad": "E1",
+      "nombre": "PACOMPIA-MAMANI-KAREN MILAGROS"
+    },
+    {
+      "codigo": "20191584G",
+      "especialidad": "Q2",
+      "nombre": "RAMIREZ-ALVAREZ-CHRISTIAN VIDAL"
+    },
+    {
+      "codigo": "20191583K",
+      "especialidad": "Q2",
+      "nombre": "CARHUAMACA-RIVERA-STEFANY MILUSKA"
+    },
+    {
+      "codigo": "20191582D",
+      "especialidad": "P2",
+      "nombre": "CASTILLEJO-MENDEZ-RONALDO ROBINSON"
+    },
+    {
+      "codigo": "20191581H",
+      "especialidad": "G2",
+      "nombre": "ROMERO-VELAZQUE-CARLA DIANA"
+    },
+    {
+      "codigo": "20191580A",
+      "especialidad": "N2",
+      "nombre": "CASAFRANCA-VILCA-DEYVIS"
+    },
+    {
+      "codigo": "20191579C",
+      "especialidad": "S2",
+      "nombre": "ESPINOZA-SAYAS-RAUL ROLANDO"
+    },
+    {
+      "codigo": "20191578G",
+      "especialidad": "S2",
+      "nombre": "PUCHOC-VALLEJO-GABRIELA ALEXANDRA"
+    },
+    {
+      "codigo": "20191577K",
+      "especialidad": "S1",
+      "nombre": "ANDRADE-ORDOÑEZ-PAMELA NATALY"
+    },
+    {
+      "codigo": "20191576D",
+      "especialidad": "G2",
+      "nombre": "AQUINO-OSORIO-JENNIFER COREY"
+    },
+    {
+      "codigo": "20191575H",
+      "especialidad": "E1",
+      "nombre": "MORALES-ACERO-WILLIAM ARNOLD"
+    },
+    {
+      "codigo": "20191574A",
+      "especialidad": "G2",
+      "nombre": "VILLANUEVA-JULCA-LEVI DEIVI"
+    },
+    {
+      "codigo": "20191573E",
+      "especialidad": "E1",
+      "nombre": "RODRIGUEZ-GONZALES-GERALDINE JUSTINA"
+    },
+    {
+      "codigo": "20191572I",
+      "especialidad": "E3",
+      "nombre": "GIRALDO-ZELA-JOSE EDUARDO"
+    },
+    {
+      "codigo": "20191571B",
+      "especialidad": "E1",
+      "nombre": "BUSTAMANTE-HUAMAN-GOHAN ALBERTO"
+    },
+    {
+      "codigo": "20191570F",
+      "especialidad": "S3",
+      "nombre": "GARAY-SANTA CRUZ-MAYVA YADIRA"
+    },
+    {
+      "codigo": "20191569H",
+      "especialidad": "N3",
+      "nombre": "CHAVEZ-LOAYZA-JOSEPH STEVEN"
+    },
+    {
+      "codigo": "20191568A",
+      "especialidad": "M5",
+      "nombre": "ZUÑIGA-RUIZ-CRISTIAN DAVID"
+    },
+    {
+      "codigo": "20191567E",
+      "especialidad": "N5",
+      "nombre": "CRISOSTOMO-VILLAVERDE-LUIS ALBERTO"
+    },
+    {
+      "codigo": "20191566I",
+      "especialidad": "E3",
+      "nombre": "CONTRERAS-FUENTES-URIEL PAUL"
+    },
+    {
+      "codigo": "20191565B",
+      "especialidad": "N3",
+      "nombre": "SARMIENTO-ROJAS-JAVIER DAVID"
+    },
+    {
+      "codigo": "20191564F",
+      "especialidad": "G2",
+      "nombre": "CASTILLO-VERDE-JUAN GUSTAVO"
+    },
+    {
+      "codigo": "20191563J",
+      "especialidad": "M5",
+      "nombre": "CARHUANCHO-FABIAN-MARCO AURELIO"
+    },
+    {
+      "codigo": "20191562C",
+      "especialidad": "M5",
+      "nombre": "HUANCA-QUISPE-ALEX RONALD"
+    },
+    {
+      "codigo": "20191561G",
+      "especialidad": "E1",
+      "nombre": "SIME-GARCIA-GIAMARCO HILARIO"
+    },
+    {
+      "codigo": "20191560K",
+      "especialidad": "G2",
+      "nombre": "ROSAS-CHAVEZ-EMERSON"
+    },
+    {
+      "codigo": "20191559B",
+      "especialidad": "N3",
+      "nombre": "GAMARRA-MEZA-IMANOL ALEXANDRO"
+    },
+    {
+      "codigo": "20191558F",
+      "especialidad": "P2",
+      "nombre": "QUENAYA-DIAZ-RICARDO PAUL"
+    },
+    {
+      "codigo": "20191557J",
+      "especialidad": "P2",
+      "nombre": "JUIPA-NATIVIDAD-MONICA EDITH"
+    },
+    {
+      "codigo": "20191556C",
+      "especialidad": "N3",
+      "nombre": "BALDERA-CABREJOS-JOSUE MANUEL"
+    },
+    {
+      "codigo": "20191555G",
+      "especialidad": "M5",
+      "nombre": "BAUTISTA-CARAY-SPENCER DAVID"
+    },
+    {
+      "codigo": "20191554K",
+      "especialidad": "S3",
+      "nombre": "SOLORZANO-VILLANUEVA-VIVIAM MERCEDES"
+    },
+    {
+      "codigo": "20191553D",
+      "especialidad": "N6",
+      "nombre": "ORTEGA-TURPO-JUNIOR"
+    },
+    {
+      "codigo": "20191552H",
+      "especialidad": "E1",
+      "nombre": "TACUSI-SUAÑA-ERICK ISAC"
+    },
+    {
+      "codigo": "20191551A",
+      "especialidad": "N5",
+      "nombre": "ALIAGA-FLORES-FAVIO ANDREE"
+    },
+    {
+      "codigo": "20191550E",
+      "especialidad": "S2",
+      "nombre": "GRANDEZ-GASLAC-MANUEL ANTONIO"
+    },
+    {
+      "codigo": "20191549G",
+      "especialidad": "E1",
+      "nombre": "CALAGUA-HUAYAMARES-BRUNO SEBASTIAN"
+    },
+    {
+      "codigo": "20191548K",
+      "especialidad": "N2",
+      "nombre": "HINOSTROZA-OLIVERA-ARTURO MEDARDO"
+    },
+    {
+      "codigo": "20191547D",
+      "especialidad": "N2",
+      "nombre": "FARFAN-ALHUAY-ROBERT MANUEL"
+    },
+    {
+      "codigo": "20191546H",
+      "especialidad": "E1",
+      "nombre": "POMA-HOYOS-WILMER DANIEL"
+    },
+    {
+      "codigo": "20191545A",
+      "especialidad": "P3",
+      "nombre": "RUDAS-NINANYA-LIZBETH"
+    },
+    {
+      "codigo": "20191544E",
+      "especialidad": "S3",
+      "nombre": "MAMANI-PALAZUELOS-BRAYAN"
+    },
+    {
+      "codigo": "20191543I",
+      "especialidad": "P2",
+      "nombre": "LLAMOCCA-MANCO-MARIA ELENA"
+    },
+    {
+      "codigo": "20191542B",
+      "especialidad": "S1",
+      "nombre": "PORTOCARRERO-MORENO-EVELY"
+    },
+    {
+      "codigo": "20191541F",
+      "especialidad": "G2",
+      "nombre": "QUISPE-OLORTEGUI-ROGGER HANDS"
+    },
+    {
+      "codigo": "20191540J",
+      "especialidad": "N6",
+      "nombre": "DAVILA-SANTOS-AARON"
+    },
+    {
+      "codigo": "20191539A",
+      "especialidad": "G2",
+      "nombre": "ARISTA-TUESTA-PEDRITO ANTONIO"
+    },
+    {
+      "codigo": "20191538E",
+      "especialidad": "E3",
+      "nombre": "CHATTEN-RODRIGUEZ-ALEXIS ADRIAN"
+    },
+    {
+      "codigo": "20191537I",
+      "especialidad": "N3",
+      "nombre": "TUMBAY-TENAZOA-FERNANDO ENRIQUE"
+    },
+    {
+      "codigo": "20191536B",
+      "especialidad": "E1",
+      "nombre": "RIVERA-RUBIO-JORGE LUIS"
+    },
+    {
+      "codigo": "20191535F",
+      "especialidad": "E1",
+      "nombre": "QUISPE-FELICES-JAIR JUNIOR"
+    },
+    {
+      "codigo": "20191534J",
+      "especialidad": "E3",
+      "nombre": "VILLAR-VASQUEZ-JESUS ALBERTO"
+    },
+    {
+      "codigo": "20191533C",
+      "especialidad": "N2",
+      "nombre": "GONZALES-RAMIREZ-MICHAELL JORDAN"
+    },
+    {
+      "codigo": "20191532G",
+      "especialidad": "S2",
+      "nombre": "GUERRA-GUARDIA-PROMISTO ROLANDO"
+    },
+    {
+      "codigo": "20191531K",
+      "especialidad": "S1",
+      "nombre": "JUAREZ-LOZANO-JUAN ANTONIO"
+    },
+    {
+      "codigo": "20191530D",
+      "especialidad": "E3",
+      "nombre": "QUIÑONES-MAMANI-LEONARDO CESAR"
+    },
+    {
+      "codigo": "20191529F",
+      "especialidad": "N5",
+      "nombre": "CARLOS-SALVADOR-ALEXANDRA C."
+    },
+    {
+      "codigo": "20191528J",
+      "especialidad": "E1",
+      "nombre": "FLORES-COLCA-MARKS ANTONY"
+    },
+    {
+      "codigo": "20191527C",
+      "especialidad": "Q1",
+      "nombre": "GAMARRA-GARCIA-SARA MERCEDES"
+    },
+    {
+      "codigo": "20191526G",
+      "especialidad": "M5",
+      "nombre": "QUISPE-SALLO-EDY BRAHYAN"
+    },
+    {
+      "codigo": "20191525K",
+      "especialidad": "P3",
+      "nombre": "DIAZ-GUTIERREZ-DANIEL ANTONIO"
+    },
+    {
+      "codigo": "20191524D",
+      "especialidad": "Q1",
+      "nombre": "TORRES-SALVADOR-MILKO SAUL"
+    },
+    {
+      "codigo": "20191523H",
+      "especialidad": "G2",
+      "nombre": "HERRERA-DIAZ-FELIX FERNANDO"
+    },
+    {
+      "codigo": "20191522A",
+      "especialidad": "S3",
+      "nombre": "PAREDES-NAJARRO-RODRIGO ALEXIS"
+    },
+    {
+      "codigo": "20191521E",
+      "especialidad": "M5",
+      "nombre": "ROJAS-SINGUÑA-ROBERTO CARLOS"
+    },
+    {
+      "codigo": "20191520I",
+      "especialidad": "G2",
+      "nombre": "ANCCARI-MONTES-FAVIA MARIA"
+    },
+    {
+      "codigo": "20191519K",
+      "especialidad": "E1",
+      "nombre": "ANDIA-ROMERO-GENARO"
+    },
+    {
+      "codigo": "20191518D",
+      "especialidad": "Q1",
+      "nombre": "POPAYAN-YNGA-EDWIN YEFERSON"
+    },
+    {
+      "codigo": "20191517H",
+      "especialidad": "N6",
+      "nombre": "LAGO-CARDENAS-JOSE CARLOS"
+    },
+    {
+      "codigo": "20191516A",
+      "especialidad": "N3",
+      "nombre": "GARRIDO-MANSILLA-MALIN ALESSANDRA"
+    },
+    {
+      "codigo": "20191515E",
+      "especialidad": "E1",
+      "nombre": "RIVERA-ESCALANTE-MANUEL ANDRE AGUSTIN"
+    },
+    {
+      "codigo": "20191514I",
+      "especialidad": "G2",
+      "nombre": "GONZALES-VIDAL-JOSE ARMANDO"
+    },
+    {
+      "codigo": "20191513B",
+      "especialidad": "E3",
+      "nombre": "PANTIGOSO-INFANTES-BRITNEY SELOMITH"
+    },
+    {
+      "codigo": "20191512F",
+      "especialidad": "N6",
+      "nombre": "COLQUE-UNOCC-GABRIELA KATHERINE"
+    },
+    {
+      "codigo": "20191511J",
+      "especialidad": "Q1",
+      "nombre": "MOLINA-HUERTA-ALBERT LINN"
+    },
+    {
+      "codigo": "20191510C",
+      "especialidad": "Q1",
+      "nombre": "FERNANDEZ-ESPINOZA-JAHAIRO JESUS"
+    },
+    {
+      "codigo": "20191509E",
+      "especialidad": "G3",
+      "nombre": "NAMUCHE-MENDOZA-EDUARDO ALONSO"
+    },
+    {
+      "codigo": "20191508I",
+      "especialidad": "N2",
+      "nombre": "MONTOYA-SANTIAGO-LUIS ALBERTO"
+    },
+    {
+      "codigo": "20191507B",
+      "especialidad": "G1",
+      "nombre": "CASO-TOLENTINO-JACK LENIN"
+    },
+    {
+      "codigo": "20191506F",
+      "especialidad": "G2",
+      "nombre": "ZULUETA-PARDO-RENZO FIDEL"
+    },
+    {
+      "codigo": "20191505J",
+      "especialidad": "N1",
+      "nombre": "SANCHEZ-ALCARRAZ-ANGELICA DEL ROSARIO"
+    },
+    {
+      "codigo": "20191504C",
+      "especialidad": "E3",
+      "nombre": "ARANGO-HUAMAN-LESLIE CONSUELO"
+    },
+    {
+      "codigo": "20191503G",
+      "especialidad": "N1",
+      "nombre": "HUAPAYA-CORCUERA-JHONNATAN ALBERTO"
+    },
+    {
+      "codigo": "20191502K",
+      "especialidad": "G2",
+      "nombre": "PINARES-CASTILLO-VICTOR RAUL"
+    },
+    {
+      "codigo": "20191501D",
+      "especialidad": "Q1",
+      "nombre": "FLORES-GUIÑO-RONALD SEBASTIAN"
+    },
+    {
+      "codigo": "20191500H",
+      "especialidad": "Q1",
+      "nombre": "BRAVO-MATIAS-RODRIGO MARCELO"
+    },
+    {
+      "codigo": "20191499J",
+      "especialidad": "G1",
+      "nombre": "FERNANDEZ-FLORES-ANTHONNY HERNAN"
+    },
+    {
+      "codigo": "20191498C",
+      "especialidad": "E1",
+      "nombre": "NEYRA-ZURITA-ATALY IZA"
+    },
+    {
+      "codigo": "20191497G",
+      "especialidad": "Q1",
+      "nombre": "FERNANDEZ-VELA-SAMUEL REYNERO"
+    },
+    {
+      "codigo": "20191496K",
+      "especialidad": "S1",
+      "nombre": "TARAZONA-SOTO-CRISTHIAN YUVER"
+    },
+    {
+      "codigo": "20191495D",
+      "especialidad": "G1",
+      "nombre": "MERINO-QUISPE-GIOVANI MANUEL"
+    },
+    {
+      "codigo": "20191494H",
+      "especialidad": "S2",
+      "nombre": "QUISPE-VALLE-CHRISTIAN ALFREDO"
+    },
+    {
+      "codigo": "20191493A",
+      "especialidad": "G1",
+      "nombre": "FLORES-PAUCAR-ROCIO JIMENA"
+    },
+    {
+      "codigo": "20191492E",
+      "especialidad": "Q1",
+      "nombre": "MASCCO-FLORES-PAOLO ALESANDRO"
+    },
+    {
+      "codigo": "20191491I",
+      "especialidad": "G3",
+      "nombre": "ESCALANTE-GIRON-DIEGO JUNIOR"
+    },
+    {
+      "codigo": "20191490B",
+      "especialidad": "E3",
+      "nombre": "CONDE-DAVALOS-BRYAN ALEXIS"
+    },
+    {
+      "codigo": "20191489D",
+      "especialidad": "G2",
+      "nombre": "PEREZ-CONDORI-CHRISTIAN CIRO"
+    },
+    {
+      "codigo": "20191488H",
+      "especialidad": "E1",
+      "nombre": "UQUICHE-CENTENO-ERIK ANTHONY"
+    },
+    {
+      "codigo": "20191487A",
+      "especialidad": "N6",
+      "nombre": "RICAPA-CORRALES-RUBEN ANTHONY"
+    },
+    {
+      "codigo": "20191486E",
+      "especialidad": "G3",
+      "nombre": "AGURTO-CABANA-JORGE ANTONIO"
+    },
+    {
+      "codigo": "20191485I",
+      "especialidad": "G3",
+      "nombre": "OCON-MENDOZA-KEENDY MICHAEL"
+    },
+    {
+      "codigo": "20191484B",
+      "especialidad": "G1",
+      "nombre": "CARBAJAL-MOSCOSO-KEM GIUSSEPPE"
+    },
+    {
+      "codigo": "20191483F",
+      "especialidad": "G2",
+      "nombre": "COACALLA-VARA-CRISTOPHER LUIS"
+    },
+    {
+      "codigo": "20191482J",
+      "especialidad": "M5",
+      "nombre": "GUZMAN-GIRON-LEONARDO MAYKOL"
+    },
+    {
+      "codigo": "20191481C",
+      "especialidad": "S2",
+      "nombre": "CARDENAS-MARTINEZ-JACKELYNE KAREN"
+    },
+    {
+      "codigo": "20191480G",
+      "especialidad": "E1",
+      "nombre": "CHILINGANO-TICLA-LISET LILIANA"
+    },
+    {
+      "codigo": "20191479I",
       "especialidad": "A1",
-      "nombre": "MAMANI-GOMEZ-NOHELIA MILAGROS"
+      "nombre": "VALDIVIA-LLANCA-FERNANDO MANUEL"
     },
     {
-      "codigo": "20194542C",
+      "codigo": "20191478B",
+      "especialidad": "S1",
+      "nombre": "QUIÑONES-ANDRADE-HILARY WITHNEY"
+    },
+    {
+      "codigo": "20191477F",
+      "especialidad": "A1",
+      "nombre": "MATEO-LOAYZA-GUSTAVO ALEXANDRO"
+    },
+    {
+      "codigo": "20191476J",
+      "especialidad": "Q2",
+      "nombre": "QUISPE-VELIZ-MARIA CRISTINA"
+    },
+    {
+      "codigo": "20191475C",
+      "especialidad": "E1",
+      "nombre": "MAMANI-MAMANI-DENNIS RONALD"
+    },
+    {
+      "codigo": "20191474G",
+      "especialidad": "M5",
+      "nombre": "CURIÑAUPA-PEREZ-ANDY"
+    },
+    {
+      "codigo": "20191473K",
+      "especialidad": "M5",
+      "nombre": "ANTONIO-ZEVALLOS-IHSAHN LIVI"
+    },
+    {
+      "codigo": "20191472D",
+      "especialidad": "G1",
+      "nombre": "SANDOVAL-ZARES-DIANA ISABEL"
+    },
+    {
+      "codigo": "20191471H",
+      "especialidad": "N1",
+      "nombre": "MERA-AMADO-IVETT MARINELLA"
+    },
+    {
+      "codigo": "20191470A",
+      "especialidad": "A1",
+      "nombre": "CASTRO-PINEDO-CAMILA STEFANY"
+    },
+    {
+      "codigo": "20191469C",
+      "especialidad": "S1",
+      "nombre": "PARI-SILVA-JOHANNA LUCERO"
+    },
+    {
+      "codigo": "20191468G",
+      "especialidad": "E1",
+      "nombre": "ROMERO-QUISPE-JEAN POOL"
+    },
+    {
+      "codigo": "20191467K",
+      "especialidad": "M5",
+      "nombre": "ESCOBEDO-ODAR-KEVIN JOSUE"
+    },
+    {
+      "codigo": "20191466D",
+      "especialidad": "M5",
+      "nombre": "TELLO-CAMPOS-JAVIER"
+    },
+    {
+      "codigo": "20191465H",
+      "especialidad": "E1",
+      "nombre": "MESIAS-SEVILLA-MARIA JOSE"
+    },
+    {
+      "codigo": "20191464A",
+      "especialidad": "G1",
+      "nombre": "PICON-JABEL-JULINO JUAN"
+    },
+    {
+      "codigo": "20191463E",
+      "especialidad": "A1",
+      "nombre": "SANDOVAL-JUAREZ-JONATHAN JAIR"
+    },
+    {
+      "codigo": "20191462I",
+      "especialidad": "A1",
+      "nombre": "PEREZ-PANTOJA-RODRIGO ANDRE"
+    },
+    {
+      "codigo": "20191461B",
+      "especialidad": "G3",
+      "nombre": "FLORES-SANCHEZ-GEORGE MOISES"
+    },
+    {
+      "codigo": "20191460F",
+      "especialidad": "L3",
+      "nombre": "PEREZ-RODRIGUEZ-GIANCARLO"
+    },
+    {
+      "codigo": "20191459H",
+      "especialidad": "N3",
+      "nombre": "CALDERON-GUEVARA-VALERIA"
+    },
+    {
+      "codigo": "20191458A",
+      "especialidad": "P3",
+      "nombre": "VASQUEZ-AGUILAR-WILMER DANIEL"
+    },
+    {
+      "codigo": "20191457E",
+      "especialidad": "Q1",
+      "nombre": "JIMENEZ-HUILLCA-JEAN CARLOS"
+    },
+    {
+      "codigo": "20191456I",
+      "especialidad": "G3",
+      "nombre": "SOTOMAYOR-CARDENAS-DACXS ZAPLER"
+    },
+    {
+      "codigo": "20191455B",
+      "especialidad": "N1",
+      "nombre": "ESCURRA-CARMELO-SEBASTIAN ALEXANDER"
+    },
+    {
+      "codigo": "20191454F",
+      "especialidad": "M3",
+      "nombre": "DOMINGUEZ-DOMINGUEZ-ALEXIS CALIXTO"
+    },
+    {
+      "codigo": "20191453J",
+      "especialidad": "A1",
+      "nombre": "CORONADO-ROJAS-EVA MILAGROS"
+    },
+    {
+      "codigo": "20191452C",
+      "especialidad": "S1",
+      "nombre": "SOTO-MAYTA-FRANK ALEXANDER"
+    },
+    {
+      "codigo": "20191451G",
+      "especialidad": "G2",
+      "nombre": "GONZALES-ROJAS-EVELYN ELLEANE"
+    },
+    {
+      "codigo": "20191450K",
+      "especialidad": "M5",
+      "nombre": "APARICIO-AVILA-ALDAIR ANTONY"
+    },
+    {
+      "codigo": "20191449B",
+      "especialidad": "N2",
+      "nombre": "TARAZONA-NAVARRO-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20191448F",
+      "especialidad": "E3",
+      "nombre": "GALVAN-LESCANO-MILENKA YANIRE"
+    },
+    {
+      "codigo": "20191447J",
+      "especialidad": "A1",
+      "nombre": "CUEVA-ROJAS-PATRICIA MILAGROS"
+    },
+    {
+      "codigo": "20191446C",
+      "especialidad": "A1",
+      "nombre": "VALVERDE-MORENO-ANTONY WILLIAM"
+    },
+    {
+      "codigo": "20191445G",
+      "especialidad": "A1",
+      "nombre": "SALINAS-INGA-SILVIA TATIANA"
+    },
+    {
+      "codigo": "20191444K",
+      "especialidad": "Q1",
+      "nombre": "BAUTISTA-LICAS-LINER JEAN"
+    },
+    {
+      "codigo": "20191443D",
+      "especialidad": "A1",
+      "nombre": "CCARAMPA-SALCEDO-JENNY GABRIELA"
+    },
+    {
+      "codigo": "20191442H",
+      "especialidad": "G3",
+      "nombre": "ROMERO-FLOREZ-ALVARO DAVID"
+    },
+    {
+      "codigo": "20191441A",
+      "especialidad": "Q1",
+      "nombre": "BOLIVAR-CHICOMA-DANNY ALEXIS"
+    },
+    {
+      "codigo": "20191440E",
+      "especialidad": "N1",
+      "nombre": "DONAIRES-MENDOZA-JORGE"
+    },
+    {
+      "codigo": "20191439G",
+      "especialidad": "S1",
+      "nombre": "PEREZ-CUBAS-CARMEN ROSA"
+    },
+    {
+      "codigo": "20191438K",
+      "especialidad": "Q1",
+      "nombre": "TULLUME-FEIJOO-MONICA LIZETH"
+    },
+    {
+      "codigo": "20191437D",
+      "especialidad": "Q1",
+      "nombre": "HUERTA-HUANCHI-DIEGO RODOLFO"
+    },
+    {
+      "codigo": "20191436H",
+      "especialidad": "Q1",
+      "nombre": "GONZALES-RAMOS-DAMS JORY"
+    },
+    {
+      "codigo": "20191435A",
+      "especialidad": "A1",
+      "nombre": "ALCA-HACHO-PAOLA LELY"
+    },
+    {
+      "codigo": "20191434E",
+      "especialidad": "A1",
+      "nombre": "RAMIREZ-CRUZ-MANUEL ALEJANDRO"
+    },
+    {
+      "codigo": "20191433I",
+      "especialidad": "N1",
+      "nombre": "BAUTISTA-LEON-JOSE FRANCISCO"
+    },
+    {
+      "codigo": "20191432B",
+      "especialidad": "Q1",
+      "nombre": "VASQUEZ-CONTRERAS-JHERALY SHANTAL"
+    },
+    {
+      "codigo": "20191431F",
+      "especialidad": "E1",
+      "nombre": "ROJAS-MAGUIÑA-DIEGO ALESSANDRO"
+    },
+    {
+      "codigo": "20191430J",
+      "especialidad": "N6",
+      "nombre": "BACA-SANDOVAL-LUIS JHONATAN"
+    },
+    {
+      "codigo": "20191429A",
+      "especialidad": "Q1",
+      "nombre": "CORTEZ-BENITES-SONY ANDERSON"
+    },
+    {
+      "codigo": "20191428E",
+      "especialidad": "G1",
+      "nombre": "AVILA-MENDOZA-DARIL GIUSSEPPE"
+    },
+    {
+      "codigo": "20191427I",
+      "especialidad": "Q1",
+      "nombre": "SERRANO-ALCANTARA-ARACELY FIORELLA"
+    },
+    {
+      "codigo": "20191426B",
+      "especialidad": "Q1",
+      "nombre": "LAZARO-SAPALLANAY-WALDIR EDSON"
+    },
+    {
+      "codigo": "20191425F",
+      "especialidad": "L3",
+      "nombre": "LIMACHI-PAUCAR-MARIA CRISTINA"
+    },
+    {
+      "codigo": "20191424J",
+      "especialidad": "N1",
+      "nombre": "SEQUEIROS-CALDERON-JUAN JOSE"
+    },
+    {
+      "codigo": "20191423C",
+      "especialidad": "G1",
+      "nombre": "RAMOS-MORALES-GIANMARCO"
+    },
+    {
+      "codigo": "20191422G",
+      "especialidad": "G3",
+      "nombre": "ZUÑIGA-SILVA-IRWIN JOSEPH"
+    },
+    {
+      "codigo": "20191421K",
+      "especialidad": "M3",
+      "nombre": "CASTILLO-MARAVI-EDWIN MOISES"
+    },
+    {
+      "codigo": "20191420D",
+      "especialidad": "M3",
+      "nombre": "LUZA-ORBEGOZO-MICHAEL BYAN"
+    },
+    {
+      "codigo": "20191419F",
+      "especialidad": "E1",
+      "nombre": "ADRIAN-CAMPOS-ANTONY YEFERSON"
+    },
+    {
+      "codigo": "20191418J",
+      "especialidad": "A1",
+      "nombre": "MEZA-RAMIREZ-DANIELA ALEXANDRA"
+    },
+    {
+      "codigo": "20191417C",
+      "especialidad": "S3",
+      "nombre": "VEGA-VALENZUELA-VALERIA"
+    },
+    {
+      "codigo": "20191416G",
+      "especialidad": "N2",
+      "nombre": "SOZA-NAVARRO-JOSE MAXIMO"
+    },
+    {
+      "codigo": "20191415K",
+      "especialidad": "A1",
+      "nombre": "GIRALDO-FERNANDEZ-CHRISTOFFER EDUARDO"
+    },
+    {
+      "codigo": "20191414D",
+      "especialidad": "S3",
+      "nombre": "CASA-RUNTO-DIEGO JAVIER"
+    },
+    {
+      "codigo": "20191413H",
+      "especialidad": "G1",
+      "nombre": "VEGAS-GALVEZ-RENZO"
+    },
+    {
+      "codigo": "20191412A",
+      "especialidad": "S1",
+      "nombre": "OLANO-BAIQUE-ANEL RAQUEL"
+    },
+    {
+      "codigo": "20191411E",
+      "especialidad": "E1",
+      "nombre": "HINOSTROZA-DE LA CRUZ-OMAR CRISTHIAN"
+    },
+    {
+      "codigo": "20191410I",
+      "especialidad": "N3",
+      "nombre": "CARHUAYAL-ALVAREZ-SAIRA MARITZA"
+    },
+    {
+      "codigo": "20191409K",
+      "especialidad": "N1",
+      "nombre": "CERDA-QUISPE-FIDEL GUZTAVO"
+    },
+    {
+      "codigo": "20191408D",
+      "especialidad": "N6",
+      "nombre": "PUMAYALLI-QUISPE-JAMIE KEVIN"
+    },
+    {
+      "codigo": "20191407H",
+      "especialidad": "M3",
+      "nombre": "MONTESINOS-COTRINA-FRANKLIN JOAQUIN"
+    },
+    {
+      "codigo": "20191406A",
+      "especialidad": "L3",
+      "nombre": "NUÑEZ-OCHOA-ASENCIO VICENTE"
+    },
+    {
+      "codigo": "20191405E",
+      "especialidad": "L1",
+      "nombre": "CABALLERO-MEDINA-JUAN DIEGO"
+    },
+    {
+      "codigo": "20191404I",
+      "especialidad": "A1",
+      "nombre": "CHAVEZ-ESPINOZA-NORA DANIELA"
+    },
+    {
+      "codigo": "20191403B",
+      "especialidad": "N6",
+      "nombre": "HUAMANI-RENGIFO-MIGUEL ALEXANDER"
+    },
+    {
+      "codigo": "20191402F",
+      "especialidad": "L3",
+      "nombre": "HINOJOSA-CANO-WILLIAM STIWAR"
+    },
+    {
+      "codigo": "20191401J",
+      "especialidad": "L3",
+      "nombre": "GONZALES-SAN MARTIN-RODRIGO ALONSO"
+    },
+    {
+      "codigo": "20191400C",
+      "especialidad": "L3",
+      "nombre": "ZACARIAS-MERMAO-ORLANDO ISRAEL"
+    },
+    {
+      "codigo": "20191399E",
+      "especialidad": "Q1",
+      "nombre": "MEDINA-MOLINA-CRISTHIAN OMAR"
+    },
+    {
+      "codigo": "20191398I",
+      "especialidad": "L1",
+      "nombre": "CANICANI-CCAHUANA-RUBEN DARIO"
+    },
+    {
+      "codigo": "20191397B",
+      "especialidad": "N1",
+      "nombre": "MAMANI-MARON-EMERSON JOSE"
+    },
+    {
+      "codigo": "20191396F",
+      "especialidad": "G2",
+      "nombre": "SANTA CRUZ-CUADRA-RODRIGO"
+    },
+    {
+      "codigo": "20191395J",
+      "especialidad": "S1",
+      "nombre": "LOPEZ-MOGROVEJO-MARTIN STEFANO"
+    },
+    {
+      "codigo": "20191394C",
+      "especialidad": "N6",
+      "nombre": "LERZUNDI-RIOS-JUAN DE DIOS FERNANDO"
+    },
+    {
+      "codigo": "20191393G",
+      "especialidad": "G3",
+      "nombre": "SANCHEZ-HUARACA-JAMILL RAUL"
+    },
+    {
+      "codigo": "20191392K",
+      "especialidad": "N1",
+      "nombre": "REQUEJO-PAREDES-ANDRES YASUHIRO"
+    },
+    {
+      "codigo": "20191391D",
+      "especialidad": "E3",
+      "nombre": "DIAZ-SILVANO-PIERRE MARTIN"
+    },
+    {
+      "codigo": "20191390H",
+      "especialidad": "M3",
+      "nombre": "VERGARA-CARPIO-ALVARO ALEJANDRO"
+    },
+    {
+      "codigo": "20191389J",
+      "especialidad": "G3",
+      "nombre": "ATACHAGUA-MAURICIO-WENYI DAI"
+    },
+    {
+      "codigo": "20191388C",
+      "especialidad": "E1",
+      "nombre": "BALDEON-GUILLEN-DIEGO ELIAS"
+    },
+    {
+      "codigo": "20191387G",
+      "especialidad": "G3",
+      "nombre": "LOPEZ-CANCHANYA-WILLIAM SALOMON"
+    },
+    {
+      "codigo": "20191386K",
+      "especialidad": "L1",
+      "nombre": "DURAND-PARIONA-ISAAC AARON"
+    },
+    {
+      "codigo": "20191385D",
+      "especialidad": "N6",
+      "nombre": "CATALINO-MORALES-BREINER JHOSE"
+    },
+    {
+      "codigo": "20191384H",
+      "especialidad": "S2",
+      "nombre": "ORELLANA-LIVIMORO-BRAULIO RAUL"
+    },
+    {
+      "codigo": "20191383A",
+      "especialidad": "A1",
+      "nombre": "PRIMOS-LIZANA-LUIS FELIPE"
+    },
+    {
+      "codigo": "20191382E",
+      "especialidad": "S3",
+      "nombre": "RIVERO-ANGULO-GONZALO DIEGO"
+    },
+    {
+      "codigo": "20191381I",
+      "especialidad": "A1",
+      "nombre": "CALERO-REQUENA-CHERLY MARTHA"
+    },
+    {
+      "codigo": "20191380B",
+      "especialidad": "S3",
+      "nombre": "CHAVEZ-CHAVEZ-HERNAN GERARDO"
+    },
+    {
+      "codigo": "20191379D",
+      "especialidad": "A1",
+      "nombre": "VILCHEZ-QUISPE-DIANA JENIFFER"
+    },
+    {
+      "codigo": "20191378H",
+      "especialidad": "M5",
+      "nombre": "OCAMPO-GUEVARA-JORGE LUIS"
+    },
+    {
+      "codigo": "20191377A",
+      "especialidad": "A1",
+      "nombre": "HANAMPA-MAQUERA-JOSUE"
+    },
+    {
+      "codigo": "20191376E",
+      "especialidad": "L3",
+      "nombre": "BASTIDAS-CASAS-ADRIAN YOSTIN"
+    },
+    {
+      "codigo": "20191375I",
+      "especialidad": "L3",
+      "nombre": "VALENZUELA-MORENO-JOHAN MIGUEL"
+    },
+    {
+      "codigo": "20191374B",
+      "especialidad": "Q1",
+      "nombre": "MALPARTIDA-ESPINOZA-OMAR ANDERSON"
+    },
+    {
+      "codigo": "20191373F",
+      "especialidad": "L1",
+      "nombre": "SELIS-VASQUEZ-ADRIAN ALBERTO"
+    },
+    {
+      "codigo": "20191372J",
+      "especialidad": "S3",
+      "nombre": "MACHACUAY-HUARANGA-LIZETH GIANELA"
+    },
+    {
+      "codigo": "20191371C",
+      "especialidad": "L3",
+      "nombre": "SANTOS-ALVARADO-MIJAEL KEDROV"
+    },
+    {
+      "codigo": "20191370G",
+      "especialidad": "L1",
+      "nombre": "DURAND-SURCO-WILLIAM LUIS"
+    },
+    {
+      "codigo": "20191369I",
+      "especialidad": "G3",
+      "nombre": "ROJAS-ALVINO-BRYAN PAUL"
+    },
+    {
+      "codigo": "20191368B",
+      "especialidad": "M3",
+      "nombre": "GUEVARA-LOAYZA-EDSON WILFREDO"
+    },
+    {
+      "codigo": "20191367F",
+      "especialidad": "A1",
+      "nombre": "AYALA-SILVA-JESUS TOMAS"
+    },
+    {
+      "codigo": "20191366J",
+      "especialidad": "A1",
+      "nombre": "MENZALA-CHUNQUI-WALTER JORGE"
+    },
+    {
+      "codigo": "20191365C",
+      "especialidad": "L3",
+      "nombre": "MARCOS-PEREZ-GONZALO ALONSO"
+    },
+    {
+      "codigo": "20191364G",
+      "especialidad": "G3",
+      "nombre": "ZENOZAIN-MORENO-RICARDO OMAR"
+    },
+    {
+      "codigo": "20191363K",
+      "especialidad": "Q1",
+      "nombre": "MESTANZA-BARDALES-AYRTON JOSUE"
+    },
+    {
+      "codigo": "20191362D",
+      "especialidad": "N3",
+      "nombre": "CACHAY-ANTUNEZ-FLAVIO EDISON"
+    },
+    {
+      "codigo": "20191361H",
+      "especialidad": "S3",
+      "nombre": "CRUZ-LAURENTE-ROMEO RONALD"
+    },
+    {
+      "codigo": "20191360A",
+      "especialidad": "L3",
+      "nombre": "BUSTAMANTE-DOMINGUEZ-GABRIELA ANGELA"
+    },
+    {
+      "codigo": "20191359C",
+      "especialidad": "S3",
+      "nombre": "GARATE-AURORA-JISSMY ARACELY"
+    },
+    {
+      "codigo": "20191358G",
+      "especialidad": "L1",
+      "nombre": "ESPINOZA-ESPIRITU-HECTOR JUNIOR"
+    },
+    {
+      "codigo": "20191357K",
+      "especialidad": "E1",
+      "nombre": "CUBAS-CHAVEZ-DIEGO AURELIO"
+    },
+    {
+      "codigo": "20191356D",
+      "especialidad": "S1",
+      "nombre": "SORIA-CUITO-MARCOS AURELIO"
+    },
+    {
+      "codigo": "20191355H",
+      "especialidad": "G3",
+      "nombre": "FLORES-HUAPAYA-PIERO ALONSO"
+    },
+    {
+      "codigo": "20191354A",
+      "especialidad": "A1",
+      "nombre": "PEREDA-NUÑEZ-ROSA ESTRELLA"
+    },
+    {
+      "codigo": "20191353E",
+      "especialidad": "A1",
+      "nombre": "CERNA-RAMOS-VICTOR ALEXANDER"
+    },
+    {
+      "codigo": "20191352I",
+      "especialidad": "E1",
+      "nombre": "MELGAREJO-REYES-KATHERIN ROMINA"
+    },
+    {
+      "codigo": "20191351B",
+      "especialidad": "L3",
+      "nombre": "ZAMBRANO-QUISPE-HAROLD ALESSANDER JHON"
+    },
+    {
+      "codigo": "20191350F",
+      "especialidad": "L1",
+      "nombre": "DE LA CRUZ-MEZA-MANUEL HUMBERTO"
+    },
+    {
+      "codigo": "20191349H",
+      "especialidad": "Q1",
+      "nombre": "URQUIZO-CORY-JAIR BRYAN"
+    },
+    {
+      "codigo": "20191348A",
+      "especialidad": "N1",
+      "nombre": "PALANTE-PALOMINO-CARLOS DANIEL"
+    },
+    {
+      "codigo": "20191347E",
+      "especialidad": "N1",
+      "nombre": "VILCAPOMA-FLORES-PAOLO WILY"
+    },
+    {
+      "codigo": "20191346I",
+      "especialidad": "N2",
+      "nombre": "BLAS-HUAROC-CRISTHIAN CALEB"
+    },
+    {
+      "codigo": "20191345B",
+      "especialidad": "M3",
+      "nombre": "ESCOBAR-GUTIERREZ-ERICK PATRICK"
+    },
+    {
+      "codigo": "20191344F",
+      "especialidad": "N6",
+      "nombre": "VASQUEZ-LEVANO-DIEGO MANUEL JESUS"
+    },
+    {
+      "codigo": "20191343J",
+      "especialidad": "S2",
+      "nombre": "ROJAS-MALPARTIDA-MARISOL FERNANDA"
+    },
+    {
+      "codigo": "20191342C",
+      "especialidad": "G2",
+      "nombre": "CAMA-PORTAL-HECTOR FREDY DIEGO LUIS"
+    },
+    {
+      "codigo": "20191341G",
+      "especialidad": "N5",
+      "nombre": "ROSPIGLIOSI-CASTRO-JUNIOR ALEJANDRO"
+    },
+    {
+      "codigo": "20191340K",
+      "especialidad": "M3",
+      "nombre": "SANTAMARIA-LLONTOP OBANDO-CARLOS DANIEL"
+    },
+    {
+      "codigo": "20191339B",
+      "especialidad": "N2",
+      "nombre": "QUINCHO-CHIPANA-ALDO JESUS"
+    },
+    {
+      "codigo": "20191338F",
+      "especialidad": "N2",
+      "nombre": "ASTUPINARO-GUERRA-EDSON JESUS"
+    },
+    {
+      "codigo": "20191337J",
+      "especialidad": "A1",
+      "nombre": "GUZMAN-CORDOVA-JOE ISAIAS"
+    },
+    {
+      "codigo": "20191336C",
+      "especialidad": "G2",
+      "nombre": "CACERES-SOTELO-LUIS ANGEL"
+    },
+    {
+      "codigo": "20191335G",
+      "especialidad": "E3",
+      "nombre": "CUTIPA-LUQUE-OSCAR DIEGO FERNANDO"
+    },
+    {
+      "codigo": "20191334K",
+      "especialidad": "N2",
+      "nombre": "VARGAS-ALFARO-PEDRO ANTONIO"
+    },
+    {
+      "codigo": "20191333D",
+      "especialidad": "L2",
+      "nombre": "QUILLAHUAMAN-PAREDES-NOEL PATRICK"
+    },
+    {
+      "codigo": "20191332H",
+      "especialidad": "M3",
+      "nombre": "MONTOYA-YAÑEZ-MARIANO HERNAN"
+    },
+    {
+      "codigo": "20191331A",
+      "especialidad": "L1",
+      "nombre": "CERNA-MONTALVAN-JOSE LUIS"
+    },
+    {
+      "codigo": "20191330E",
+      "especialidad": "S1",
+      "nombre": "HERNANDEZ-GUERRERO-JHORDAN"
+    },
+    {
+      "codigo": "20191329G",
+      "especialidad": "Q2",
+      "nombre": "DIOS-ROJAS-GIANFRANK WILFREDO"
+    },
+    {
+      "codigo": "20191328K",
+      "especialidad": "M4",
+      "nombre": "CUEVA-AÑANCA-ALEXANDER ANDRE"
+    },
+    {
+      "codigo": "20191327D",
+      "especialidad": "M4",
+      "nombre": "MEDINA-RIOS-COSME SEBASTIAN"
+    },
+    {
+      "codigo": "20191326H",
+      "especialidad": "E1",
+      "nombre": "BOCANEGRA-CHACON-JUNIOR JAVIER"
+    },
+    {
+      "codigo": "20191325A",
+      "especialidad": "A1",
+      "nombre": "AYALA-SALAS-JORGE LUIS"
+    },
+    {
+      "codigo": "20191324E",
+      "especialidad": "N6",
+      "nombre": "FERREYRA-CORNEJO-SEBASTIAN ELIAS"
+    },
+    {
+      "codigo": "20191323I",
+      "especialidad": "L1",
+      "nombre": "FERNANDEZ-ARONI-LUIS ADIVER"
+    },
+    {
+      "codigo": "20191322B",
+      "especialidad": "L1",
+      "nombre": "SANTOS-TAIPE-DANIEL ALEJANDRO"
+    },
+    {
+      "codigo": "20191321F",
+      "especialidad": "L1",
+      "nombre": "RIOS-CORTEGANA-KEVIN FERNANDO"
+    },
+    {
+      "codigo": "20191320J",
+      "especialidad": "M4",
+      "nombre": "PANDAL-VALENTIN-RENZO SANTIAGO"
+    },
+    {
+      "codigo": "20191319A",
+      "especialidad": "G1",
+      "nombre": "QUISPE-PAUCAR-FIORELA MARILYN"
+    },
+    {
+      "codigo": "20191318E",
+      "especialidad": "L2",
+      "nombre": "SAAVEDRA-RAFAEL-TONY"
+    },
+    {
+      "codigo": "20191317I",
+      "especialidad": "S3",
+      "nombre": "CARBAJAL-LIMACHI-TOÑO BENJAMIN"
+    },
+    {
+      "codigo": "20191316B",
+      "especialidad": "M4",
+      "nombre": "GUTIERREZ-CUADROS-ROLANDO DANIEL"
+    },
+    {
+      "codigo": "20191315F",
+      "especialidad": "A1",
+      "nombre": "ROMERO-BUJAICO-GIANELLA IVONNE"
+    },
+    {
+      "codigo": "20191314J",
+      "especialidad": "Q1",
+      "nombre": "SALAZAR-NIEVES-ERICA ISABEL"
+    },
+    {
+      "codigo": "20191313C",
+      "especialidad": "L2",
+      "nombre": "HOSPINAL-CANTORIN-JUNIOR"
+    },
+    {
+      "codigo": "20191312G",
+      "especialidad": "Q1",
+      "nombre": "MONTES-ARAINGA-JAN PAUL"
+    },
+    {
+      "codigo": "20191311K",
+      "especialidad": "Q1",
+      "nombre": "ARTEAGA-FLORES-ADRIAN JOSEPH"
+    },
+    {
+      "codigo": "20191310D",
+      "especialidad": "E3",
+      "nombre": "RIOS-NIMA-JOEL SALOMON"
+    },
+    {
+      "codigo": "20191309F",
+      "especialidad": "G3",
+      "nombre": "ZUÑIGA-ESCOBAR-MAYUMY DARA"
+    },
+    {
+      "codigo": "20191308J",
+      "especialidad": "L3",
+      "nombre": "GUERRA-MARTINEZ-JOSE CARLOS"
+    },
+    {
+      "codigo": "20191307C",
+      "especialidad": "Q1",
+      "nombre": "LOAYZA-HUAMAN-JHON ANTONIO"
+    },
+    {
+      "codigo": "20191306G",
+      "especialidad": "N6",
+      "nombre": "PILCO-REYNOSO-PIERO FERNANDO"
+    },
+    {
+      "codigo": "20191305K",
+      "especialidad": "A1",
+      "nombre": "TAMAYO-GONGORA-JOEL MIGUEL"
+    },
+    {
+      "codigo": "20191304D",
+      "especialidad": "Q1",
+      "nombre": "MACEDO-PRETELL-GUILLERMO JUAN DIEGO"
+    },
+    {
+      "codigo": "20191303H",
+      "especialidad": "N2",
+      "nombre": "CASTILLO-PILCO-FRANCISCO ISRAEL"
+    },
+    {
+      "codigo": "20191302A",
+      "especialidad": "A1",
+      "nombre": "CHALCO-MENDOZA-PAOLO GUILLERMO"
+    },
+    {
+      "codigo": "20191301E",
+      "especialidad": "L2",
+      "nombre": "ROMERO-DIAZ-AARON MARIANO"
+    },
+    {
+      "codigo": "20191300I",
+      "especialidad": "M3",
+      "nombre": "REYES-JORGE-DAVID ALFREDO"
+    },
+    {
+      "codigo": "20191299K",
+      "especialidad": "M4",
+      "nombre": "ORTEGA-MARTEL-JOSUE ANTHONY"
+    },
+    {
+      "codigo": "20191298D",
+      "especialidad": "S1",
+      "nombre": "CAYHUALLA-JIMENEZ-PIEROL JAIR"
+    },
+    {
+      "codigo": "20191297H",
+      "especialidad": "L3",
+      "nombre": "VELI-MISAYAURI-JUNIOR EDGAR"
+    },
+    {
+      "codigo": "20191296A",
+      "especialidad": "N1",
+      "nombre": "MARTINEZ-QUINDE-LUIS ALONSO"
+    },
+    {
+      "codigo": "20191295E",
+      "especialidad": "Q1",
+      "nombre": "SOTELO-DELGADO-GERARDO CARLOS VINCENZO"
+    },
+    {
+      "codigo": "20191294I",
+      "especialidad": "L2",
+      "nombre": "YAURIVILCA-PALACIOS-ELIAS"
+    },
+    {
+      "codigo": "20191293B",
+      "especialidad": "N1",
+      "nombre": "BOZA-SOBREVILLA-FRANK ALFREDO"
+    },
+    {
+      "codigo": "20191292F",
+      "especialidad": "S3",
+      "nombre": "GOMEZ-VICENCIO-MANUEL ROCKY"
+    },
+    {
+      "codigo": "20191291J",
+      "especialidad": "G3",
+      "nombre": "DE LA CRUZ-VILLANUEVA-DAVID ANTONY"
+    },
+    {
+      "codigo": "20191290C",
+      "especialidad": "L1",
+      "nombre": "JIMENEZ-ALEGRIA-JAMILL ANAEL"
+    },
+    {
+      "codigo": "20191289E",
+      "especialidad": "L2",
+      "nombre": "OSORIO-PAUCA-KEVIN ADAVIOS"
+    },
+    {
+      "codigo": "20191288I",
+      "especialidad": "A1",
+      "nombre": "CORDOVA-VASQUEZ-CARLOS ISAAC"
+    },
+    {
+      "codigo": "20191287B",
+      "especialidad": "L2",
+      "nombre": "HUACHHUACO-CLEMENTE-MARCELO GABRIEL"
+    },
+    {
+      "codigo": "20191286F",
+      "especialidad": "Q1",
+      "nombre": "RAMOS-ORMEÑO-ANGELA MILAGROS"
+    },
+    {
+      "codigo": "20191285J",
+      "especialidad": "G1",
+      "nombre": "SEGURA-RAVELO-ALVARO OVIDIO"
+    },
+    {
+      "codigo": "20191284C",
+      "especialidad": "Q1",
+      "nombre": "VEGA-AYMARA-RODRIGO ALONSO"
+    },
+    {
+      "codigo": "20191283G",
+      "especialidad": "M3",
+      "nombre": "VEGA-BAUTISTA-OSCAR EMILIO"
+    },
+    {
+      "codigo": "20191282K",
+      "especialidad": "G3",
+      "nombre": "BUSTAMANTE-TARRILLO-JHAN CARLO"
+    },
+    {
+      "codigo": "20191281D",
+      "especialidad": "M4",
+      "nombre": "RAMOS-APOLINARIO-ALEXANDER DE JESÚS"
+    },
+    {
+      "codigo": "20191280H",
+      "especialidad": "Q1",
+      "nombre": "ALVARADO-ASCONA-LUIS ANTHONY"
+    },
+    {
+      "codigo": "20191279J",
+      "especialidad": "E1",
+      "nombre": "ROSALES-SANCHEZ-MIREYA GIANELA"
+    },
+    {
+      "codigo": "20191278C",
+      "especialidad": "M4",
+      "nombre": "MOLINA-ALCARRAZ-ERICK"
+    },
+    {
+      "codigo": "20191277G",
+      "especialidad": "L2",
+      "nombre": "GRANADOS-POMALIA-GERALDINE NICOL"
+    },
+    {
+      "codigo": "20191276K",
+      "especialidad": "L3",
+      "nombre": "CLAUDIO-CUSPASCUA-JUAN DE DIOS JUNIOR"
+    },
+    {
+      "codigo": "20191275D",
+      "especialidad": "I1",
+      "nombre": "ALBURUQUEQUE-LOA-ANDRE IMANOL"
+    },
+    {
+      "codigo": "20191274H",
+      "especialidad": "Q1",
+      "nombre": "GUZMAN-ZUBIETA-PIERO OMAR"
+    },
+    {
+      "codigo": "20191273A",
+      "especialidad": "L2",
+      "nombre": "MONTES-AGUILAR-RODRIGO ALEXANDER"
+    },
+    {
+      "codigo": "20191272E",
+      "especialidad": "G3",
+      "nombre": "HERMOSILLA-QUISPE-ANGEL ANDRES"
+    },
+    {
+      "codigo": "20191271I",
+      "especialidad": "M4",
+      "nombre": "PEÑA-VILCA-IVAN ALEJANDRO"
+    },
+    {
+      "codigo": "20191270B",
+      "especialidad": "L1",
+      "nombre": "HUERTAS-FERNANDEZ-PEDROMANUEL RAUL"
+    },
+    {
+      "codigo": "20191269D",
+      "especialidad": "S3",
+      "nombre": "CASAS-MARTINEZ-ANABEL JAZMIN"
+    },
+    {
+      "codigo": "20191268H",
+      "especialidad": "M3",
+      "nombre": "GIRALDO-DAVILA-JULIO FERNANDO"
+    },
+    {
+      "codigo": "20191267A",
+      "especialidad": "E1",
+      "nombre": "TAIPE-GOMEZ-GERARDO FILOMENO"
+    },
+    {
+      "codigo": "20191266E",
+      "especialidad": "Q1",
+      "nombre": "TUESTA-FARFAN-JORDAN JESUS"
+    },
+    {
+      "codigo": "20191265I",
+      "especialidad": "L3",
+      "nombre": "GUTIERREZ-VEGA-WILDER ANDY"
+    },
+    {
+      "codigo": "20191264B",
+      "especialidad": "M3",
+      "nombre": "ROJAS-GOMEZ-CESAR ENRIQUE"
+    },
+    {
+      "codigo": "20191263F",
+      "especialidad": "N1",
+      "nombre": "EFFIO-CUEVA-MARIANO JESUS"
+    },
+    {
+      "codigo": "20191262J",
+      "especialidad": "E1",
+      "nombre": "CCOICCA-JACOBO-FREDY ALFREDO"
+    },
+    {
+      "codigo": "20191261C",
+      "especialidad": "E1",
+      "nombre": "RIVADENEYRA-VERGARA-KETIN ALEJANDRO"
+    },
+    {
+      "codigo": "20191260G",
+      "especialidad": "M3",
+      "nombre": "MALDONADO-ORIUNDO-CRISTHIAN KEVIN"
+    },
+    {
+      "codigo": "20191259I",
+      "especialidad": "E1",
+      "nombre": "COARITA-QUISPE-SOFIA FIORELLA"
+    },
+    {
+      "codigo": "20191258B",
+      "especialidad": "G3",
+      "nombre": "PEÑA-SANTI-DIEGO ANDRES"
+    },
+    {
+      "codigo": "20191257F",
+      "especialidad": "L1",
+      "nombre": "LLOCLLE-BELITO-JOSE LUIS"
+    },
+    {
+      "codigo": "20191256J",
+      "especialidad": "S2",
+      "nombre": "DECENA-SALINAS-WILLY JASIEL"
+    },
+    {
+      "codigo": "20191255C",
+      "especialidad": "G1",
+      "nombre": "LAGUNA-MENA-FERNANDO"
+    },
+    {
+      "codigo": "20191254G",
+      "especialidad": "M3",
+      "nombre": "MESIAS-BONIFACIO-ISAI JESUS"
+    },
+    {
+      "codigo": "20191253K",
+      "especialidad": "L3",
+      "nombre": "MELGAR-LEDESMA-ALFRED SAMUEL"
+    },
+    {
+      "codigo": "20191252D",
+      "especialidad": "L2",
+      "nombre": "ABANTO-PEÑA-RIGJARD HUMBERTO"
+    },
+    {
+      "codigo": "20191251H",
+      "especialidad": "Q1",
+      "nombre": "ZEVALLOS-BAZAN-BRITANEY ANALLELY"
+    },
+    {
+      "codigo": "20191250A",
+      "especialidad": "M4",
+      "nombre": "BADA-MILLA-MANUEL ANTHONY"
+    },
+    {
+      "codigo": "20191249C",
+      "especialidad": "G1",
+      "nombre": "BENANCIO-ASTOCONDOR-ALDAIR JOHAN"
+    },
+    {
+      "codigo": "20191248G",
+      "especialidad": "I1",
+      "nombre": "ROJAS-RAMIREZ-LUIS EDUARDO"
+    },
+    {
+      "codigo": "20191247K",
+      "especialidad": "I1",
+      "nombre": "LLANOS-RODRIGUEZ-ALDO GINO"
+    },
+    {
+      "codigo": "20191246D",
+      "especialidad": "I1",
+      "nombre": "DELAO-LIZARDO-CYNTHIA REBECA"
+    },
+    {
+      "codigo": "20191245H",
+      "especialidad": "I2",
+      "nombre": "ALVAREZ-HUARINGA-SANDRO ENRIQUE"
+    },
+    {
+      "codigo": "20191244A",
+      "especialidad": "Q1",
+      "nombre": "UBILLA-CAYCHO-ROBERTO PABLO JESUS"
+    },
+    {
+      "codigo": "20191243E",
+      "especialidad": "I2",
+      "nombre": "ROJAS-HUAMAN-VLADIMIR BENANCIO"
+    },
+    {
+      "codigo": "20191242I",
+      "especialidad": "I1",
+      "nombre": "NERI-MAQUER-DILAN MIGUEL"
+    },
+    {
+      "codigo": "20191241B",
+      "especialidad": "E1",
+      "nombre": "TAZA-TANTAVILCA-IVAN ELI"
+    },
+    {
+      "codigo": "20191240F",
+      "especialidad": "I2",
+      "nombre": "RAMOS-LOPEZ-DENILSON DAVID GIOVANNI"
+    },
+    {
+      "codigo": "20191239H",
+      "especialidad": "L2",
+      "nombre": "RAMOS-TANTALEAN-IVAN NOE"
+    },
+    {
+      "codigo": "20191238A",
+      "especialidad": "A1",
+      "nombre": "MEZA-RAMOS-YADIRA MILUSKA"
+    },
+    {
+      "codigo": "20191237E",
+      "especialidad": "I2",
+      "nombre": "SANCHEZ-HUARCAYA-HAZIEL YESHUA RICARDO"
+    },
+    {
+      "codigo": "20191236I",
+      "especialidad": "I2",
+      "nombre": "BARRANTES-PADILLA-CHRISTIAN STEFHANO"
+    },
+    {
+      "codigo": "20191235B",
       "especialidad": "C1",
-      "nombre": "QUIROZ-CENTURION-FRANK XAVIER"
+      "nombre": "PARIONA-VILCA-RONALDO"
+    },
+    {
+      "codigo": "20191234F",
+      "especialidad": "I2",
+      "nombre": "MAMANI-PIZARRO-BRAYAN ADOLFO"
+    },
+    {
+      "codigo": "20191233J",
+      "especialidad": "M4",
+      "nombre": "GARATE-VILCA-SALOMON KAWIDE"
+    },
+    {
+      "codigo": "20191232C",
+      "especialidad": "L3",
+      "nombre": "SOTO-SALAZAR-JOSE FERNANDO"
+    },
+    {
+      "codigo": "20191231G",
+      "especialidad": "I1",
+      "nombre": "CRUZ-GOMEZ-ANGELO JOSUE"
+    },
+    {
+      "codigo": "20191230K",
+      "especialidad": "I2",
+      "nombre": "BERDEJO-GARAY-GUSTAVO EDUARDO"
+    },
+    {
+      "codigo": "20191229B",
+      "especialidad": "C1",
+      "nombre": "CASTRO-ANTEZANA-DEIBY"
+    },
+    {
+      "codigo": "20191228F",
+      "especialidad": "G1",
+      "nombre": "BALLARTA-BERNAOLA-LEONARDO NESTOR"
+    },
+    {
+      "codigo": "20191227J",
+      "especialidad": "I2",
+      "nombre": "ZEVALLOS-HUAMAN-DIEGO IVAN"
+    },
+    {
+      "codigo": "20191226C",
+      "especialidad": "I2",
+      "nombre": "LANDEO-RAMON-DIEGO FRANCO"
+    },
+    {
+      "codigo": "20191225G",
+      "especialidad": "C1",
+      "nombre": "VILCA-HUAMAN-HANS"
+    },
+    {
+      "codigo": "20191224K",
+      "especialidad": "L1",
+      "nombre": "CABELLO-LAZARO-KEVIN FRANZ"
+    },
+    {
+      "codigo": "20191223D",
+      "especialidad": "C1",
+      "nombre": "MANDUJANO-BRAVO-MAX FRANCO"
+    },
+    {
+      "codigo": "20191222H",
+      "especialidad": "L1",
+      "nombre": "HUARACHA-RAVICHAGUA-LEONARDO ESAUL"
+    },
+    {
+      "codigo": "20191221A",
+      "especialidad": "C1",
+      "nombre": "VENTOCILLA-MENESES-LOURDES BETSABE"
+    },
+    {
+      "codigo": "20191220E",
+      "especialidad": "I2",
+      "nombre": "HUAMAN-LOZANO-DEIVI JUSTI"
+    },
+    {
+      "codigo": "20191219G",
+      "especialidad": "E1",
+      "nombre": "GUTIERREZ-LOZA-ANGIE GUADALUPE"
+    },
+    {
+      "codigo": "20191218K",
+      "especialidad": "G2",
+      "nombre": "MIRANO-BASURTO-ANGIE GIANELLA"
+    },
+    {
+      "codigo": "20191217D",
+      "especialidad": "C1",
+      "nombre": "IÑAUSE-LUDEÑA-GABRIEL ANDRE"
+    },
+    {
+      "codigo": "20191216H",
+      "especialidad": "I1",
+      "nombre": "ROMERO-MORALES-GABRIEL ANGELO KENNETH"
+    },
+    {
+      "codigo": "20191215A",
+      "especialidad": "C1",
+      "nombre": "CARRERA-CALIXTO-GAMANIEL ALIPIO"
+    },
+    {
+      "codigo": "20191214E",
+      "especialidad": "L2",
+      "nombre": "SANCHEZ-AMAÑI-ROBERTO"
+    },
+    {
+      "codigo": "20191213I",
+      "especialidad": "C1",
+      "nombre": "CAMACHO-RAMIREZ-FRANCO EMANUEL"
+    },
+    {
+      "codigo": "20191212B",
+      "especialidad": "I2",
+      "nombre": "BAUTISTA-ROMERO-NELLY NICOLE"
+    },
+    {
+      "codigo": "20191211F",
+      "especialidad": "I1",
+      "nombre": "MORAN-CHAMORRO-JOSEIN"
+    },
+    {
+      "codigo": "20191210J",
+      "especialidad": "I2",
+      "nombre": "FLORES-CUSI-NEY DIEGO"
+    },
+    {
+      "codigo": "20191209A",
+      "especialidad": "L2",
+      "nombre": "OBREGON-BRAVO-MANUEL RAMIRO"
+    },
+    {
+      "codigo": "20191208E",
+      "especialidad": "C1",
+      "nombre": "VILLENA-ARRIETA-JACK FRANCO"
+    },
+    {
+      "codigo": "20191207I",
+      "especialidad": "C1",
+      "nombre": "GOMEZ-GONZALES-CRISTOFER SYAN"
+    },
+    {
+      "codigo": "20191206B",
+      "especialidad": "M4",
+      "nombre": "GARCIA-ALBINO-PEDRO ANGEL"
+    },
+    {
+      "codigo": "20191205F",
+      "especialidad": "C1",
+      "nombre": "MARQUEZ-FERRER-LEONARDO FIDEL"
+    },
+    {
+      "codigo": "20191204J",
+      "especialidad": "L1",
+      "nombre": "GUERRA-VERA-JOEL KEVIN"
+    },
+    {
+      "codigo": "20191203C",
+      "especialidad": "C1",
+      "nombre": "GALVEZ-SANCHEZ-FRANCISCO ALEXANDER"
+    },
+    {
+      "codigo": "20191202G",
+      "especialidad": "I2",
+      "nombre": "VICENTE-HERRERA-WILMER CESAR"
+    },
+    {
+      "codigo": "20191201K",
+      "especialidad": "C1",
+      "nombre": "BENDEZU-SAAVEDRA-FERNANDO EDUARDO"
+    },
+    {
+      "codigo": "20191200D",
+      "especialidad": "C1",
+      "nombre": "ATOXA-RODRIGUEZ-YANIRA LIZETH"
+    },
+    {
+      "codigo": "20191199F",
+      "especialidad": "L2",
+      "nombre": "LEON-YNOQUIO-JOSE CARLOS MANUEL"
+    },
+    {
+      "codigo": "20191198J",
+      "especialidad": "C1",
+      "nombre": "ALBORNOZ-LEIVA-CESAR DENIS"
+    },
+    {
+      "codigo": "20191197C",
+      "especialidad": "C1",
+      "nombre": "GARRO-CARRASCO-LUDWIG JHEFRY"
+    },
+    {
+      "codigo": "20191196G",
+      "especialidad": "L2",
+      "nombre": "DIAZ-HUAMANI-RAUL FELICIANO"
+    },
+    {
+      "codigo": "20191195K",
+      "especialidad": "C1",
+      "nombre": "CHIARA-GARCIA-NAHID HUGO"
+    },
+    {
+      "codigo": "20191194D",
+      "especialidad": "I1",
+      "nombre": "SANTOS-ESPINOZA-JOSE SEBASTIAN"
+    },
+    {
+      "codigo": "20191193H",
+      "especialidad": "C1",
+      "nombre": "REYES-QUISPE-GEOVANNI EMANUEL"
+    },
+    {
+      "codigo": "20191192A",
+      "especialidad": "C1",
+      "nombre": "YOVERA-CASTILLO-PEDRO FERNANDO"
+    },
+    {
+      "codigo": "20191191E",
+      "especialidad": "Q1",
+      "nombre": "VIDAL-JIMENEZ-JOSE JAVIER"
+    },
+    {
+      "codigo": "20191190I",
+      "especialidad": "C1",
+      "nombre": "CHAVEZ-ESCOBAR-JULIO CESAR"
+    },
+    {
+      "codigo": "20191189K",
+      "especialidad": "I2",
+      "nombre": "ALVARADO-RAMIREZ-OSCAR JIM"
+    },
+    {
+      "codigo": "20191188D",
+      "especialidad": "L2",
+      "nombre": "INGA-MONTES-JEAN KEVIN"
+    },
+    {
+      "codigo": "20191187H",
+      "especialidad": "G3",
+      "nombre": "RODRIGUEZ-SIMBRON-ABEL"
+    },
+    {
+      "codigo": "20191186A",
+      "especialidad": "I2",
+      "nombre": "CAMPANA-RAMOS-ADRIAN MATEO"
+    },
+    {
+      "codigo": "20191185E",
+      "especialidad": "P3",
+      "nombre": "AGUILAR-CARRERA-NEILL JHIN"
+    },
+    {
+      "codigo": "20191184I",
+      "especialidad": "I1",
+      "nombre": "SANTIAGO-PINEDO-JHON ANTHONY"
+    },
+    {
+      "codigo": "20191183B",
+      "especialidad": "L1",
+      "nombre": "LOYOLA-MENDOZA-RODRIGO ROBERTO"
+    },
+    {
+      "codigo": "20191182F",
+      "especialidad": "A1",
+      "nombre": "DIAZ-YUPTON-EDUARDO FERNANDO CRISTIAN"
+    },
+    {
+      "codigo": "20191181J",
+      "especialidad": "I1",
+      "nombre": "RICALDI-BRAVO-MILTON GUILLERMO"
+    },
+    {
+      "codigo": "20191180C",
+      "especialidad": "I1",
+      "nombre": "ARAUJO-MENDOZA-NILSER ALDAHIR"
+    },
+    {
+      "codigo": "20191179E",
+      "especialidad": "N6",
+      "nombre": "PAREDES-LOPEZ-MAXWEL JOEL"
+    },
+    {
+      "codigo": "20191178I",
+      "especialidad": "C1",
+      "nombre": "PAUCCA-CADENILLAS-CARLOS ANDREE"
+    },
+    {
+      "codigo": "20191177B",
+      "especialidad": "I2",
+      "nombre": "RAMIREZ-RIOS-CHRISTIAN JOAQUIN"
+    },
+    {
+      "codigo": "20191176F",
+      "especialidad": "I2",
+      "nombre": "NUÑEZ-SOTO-ANDY ARTURO"
+    },
+    {
+      "codigo": "20191175J",
+      "especialidad": "I1",
+      "nombre": "PAREJA-FARFAN-ALVARO DE JESUS"
+    },
+    {
+      "codigo": "20191174C",
+      "especialidad": "L1",
+      "nombre": "QUISPE-ALVAREZ-RIVALDO VICTOR"
+    },
+    {
+      "codigo": "20191173G",
+      "especialidad": "G1",
+      "nombre": "RAMOS-OCHOA-JHON JHUNIORS"
+    },
+    {
+      "codigo": "20191172K",
+      "especialidad": "I2",
+      "nombre": "VILLEGAS-SIGUAS-IORI REYHARD"
+    },
+    {
+      "codigo": "20191171D",
+      "especialidad": "C1",
+      "nombre": "NONATO-CEFERINO-FRANK PAUL"
+    },
+    {
+      "codigo": "20191170H",
+      "especialidad": "L2",
+      "nombre": "CASTELO-CAMPOS-RENZO RONALD"
+    },
+    {
+      "codigo": "20191169J",
+      "especialidad": "I1",
+      "nombre": "CABALLERO-BALBOA-KATHERINE MILUSKA"
+    },
+    {
+      "codigo": "20191168C",
+      "especialidad": "L3",
+      "nombre": "PEREZ-LAZO-RENZO ESTEBAN"
+    },
+    {
+      "codigo": "20191167G",
+      "especialidad": "M5",
+      "nombre": "AGUILAR-CALLUPE-BRAYAN LEONEL"
+    },
+    {
+      "codigo": "20191166K",
+      "especialidad": "G2",
+      "nombre": "DIESTRA-COOPI-GIOVANNI JESUS"
+    },
+    {
+      "codigo": "20191165D",
+      "especialidad": "C1",
+      "nombre": "ARCA-AMARO-JESUS DIOGENES JORGE"
+    },
+    {
+      "codigo": "20191164H",
+      "especialidad": "L2",
+      "nombre": "CAJA-PEÑA-RONALD GABRIEL"
+    },
+    {
+      "codigo": "20191163A",
+      "especialidad": "N6",
+      "nombre": "ACUÑA-NAPAN-JAIME GONZALO"
+    },
+    {
+      "codigo": "20191162E",
+      "especialidad": "G3",
+      "nombre": "PALACIOS-ANYOSA-EDDY GUSTAVO ADOLFO"
+    },
+    {
+      "codigo": "20191161I",
+      "especialidad": "S3",
+      "nombre": "SALDAÑA-VELASQUEZ-MARIA BELEN"
+    },
+    {
+      "codigo": "20191160B",
+      "especialidad": "C1",
+      "nombre": "ACUÑA-ENRIQUEZ-JHON"
+    },
+    {
+      "codigo": "20191159D",
+      "especialidad": "G3",
+      "nombre": "CAMPOS-QUISPE-FELIX EDUARDO"
+    },
+    {
+      "codigo": "20191158H",
+      "especialidad": "L2",
+      "nombre": "ENRIQUEZ-RAMIREZ-RICARDO ALFREDO"
+    },
+    {
+      "codigo": "20191157A",
+      "especialidad": "C1",
+      "nombre": "ROMAN-SALAZAR-PETER GUSTAVO"
+    },
+    {
+      "codigo": "20191156E",
+      "especialidad": "I1",
+      "nombre": "LOPEZ-RAMOS-BRANLYN ALDAIR"
+    },
+    {
+      "codigo": "20191155I",
+      "especialidad": "S3",
+      "nombre": "BOLIVIA-YUPANQUI-BEATRIZ SOL"
+    },
+    {
+      "codigo": "20191154B",
+      "especialidad": "G1",
+      "nombre": "DAVILA-RAFFO-YEHOSUA"
+    },
+    {
+      "codigo": "20191153F",
+      "especialidad": "I2",
+      "nombre": "BALVIN-TORIBIO-BRANDON"
+    },
+    {
+      "codigo": "20191152J",
+      "especialidad": "Q1",
+      "nombre": "RAMIREZ-HILARES-ANDREA"
+    },
+    {
+      "codigo": "20191151C",
+      "especialidad": "M3",
+      "nombre": "VASQUEZ-SALDAÑA-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20191150G",
+      "especialidad": "C1",
+      "nombre": "PANIURA-DONGO-EDISON"
+    },
+    {
+      "codigo": "20191149I",
+      "especialidad": "L3",
+      "nombre": "PEREZ-HINOSTROZA-BRYAN ALONSO"
+    },
+    {
+      "codigo": "20191148B",
+      "especialidad": "Q1",
+      "nombre": "FLORES-BAUTISTA-CESAR FERNANDO"
+    },
+    {
+      "codigo": "20191147F",
+      "especialidad": "N5",
+      "nombre": "CARDENAS-OCHANTE-JHOAN JOSUE"
+    },
+    {
+      "codigo": "20191146J",
+      "especialidad": "I1",
+      "nombre": "MAMANI-SIHUACOLLO-MARCOS ROLANDO"
+    },
+    {
+      "codigo": "20191145C",
+      "especialidad": "L2",
+      "nombre": "MONCADA-VASQUEZ-JUNIOR ERIC"
+    },
+    {
+      "codigo": "20191144G",
+      "especialidad": "I2",
+      "nombre": "AYMACHOQUE-AYMACHOQUE-LUIS JAIRO"
+    },
+    {
+      "codigo": "20191143K",
+      "especialidad": "I1",
+      "nombre": "MAURICIO-VILLALBA-CHRISTOFER RUBEN"
+    },
+    {
+      "codigo": "20191142D",
+      "especialidad": "M4",
+      "nombre": "HUAMAN-BARBARAN-FRANCISCO ANTONIO"
+    },
+    {
+      "codigo": "20191141H",
+      "especialidad": "C1",
+      "nombre": "PINTADO-SAAVEDRA-DARWIN CECILIO"
+    },
+    {
+      "codigo": "20191140A",
+      "especialidad": "I1",
+      "nombre": "GONZALES-AVENDAÑO-JOSE JOAQUIN"
+    },
+    {
+      "codigo": "20191139C",
+      "especialidad": "S3",
+      "nombre": "DIAZ-LEON-EDSON BRAYAN"
+    },
+    {
+      "codigo": "20191138G",
+      "especialidad": "Q1",
+      "nombre": "SALAZAR-PAUCAR-LENDER JOSUE"
+    },
+    {
+      "codigo": "20191137K",
+      "especialidad": "I1",
+      "nombre": "RAYMUNDO-QUINTO-ANGUELO VINCHENZO"
+    },
+    {
+      "codigo": "20191136D",
+      "especialidad": "I1",
+      "nombre": "AGUILERA-BELANDO-JAYRO ANDERSON"
+    },
+    {
+      "codigo": "20191135H",
+      "especialidad": "I2",
+      "nombre": "QUISPE-PALOMINO-CRISTHIAN ANDERSON"
+    },
+    {
+      "codigo": "20191134A",
+      "especialidad": "C1",
+      "nombre": "ORTEGA-OCHOA-MARÌA DE LOS ANGELES"
+    },
+    {
+      "codigo": "20191133E",
+      "especialidad": "L3",
+      "nombre": "CALDERON-MORALES-KEVIN ALBERTO"
+    },
+    {
+      "codigo": "20191132I",
+      "especialidad": "L3",
+      "nombre": "PEREZ-CIPRIANO-ANTONI ABRAHAM"
+    },
+    {
+      "codigo": "20191131B",
+      "especialidad": "I1",
+      "nombre": "CONDORI-MAMANI-KARINA STEPHANY"
+    },
+    {
+      "codigo": "20191130F",
+      "especialidad": "I2",
+      "nombre": "PACHAS-SANCHEZ-NICK CHRISTOPHER"
+    },
+    {
+      "codigo": "20191129H",
+      "especialidad": "C1",
+      "nombre": "YALICO-VEGA-KEVIN ALBERT"
+    },
+    {
+      "codigo": "20191128A",
+      "especialidad": "C1",
+      "nombre": "ACOSTA-SULCA-ALEX CRISTIAN"
+    },
+    {
+      "codigo": "20191127E",
+      "especialidad": "I1",
+      "nombre": "SIERRA-CUTIPA-WILLIAMS SEBASTIAN"
+    },
+    {
+      "codigo": "20191126I",
+      "especialidad": "I1",
+      "nombre": "VENTOCILLA-ALEJANDRO-KENNETH ERWIN"
+    },
+    {
+      "codigo": "20191125B",
+      "especialidad": "C1",
+      "nombre": "QUINTANILLA-VICTORIANO-BRIGHIT CECILIA"
+    },
+    {
+      "codigo": "20191124F",
+      "especialidad": "I2",
+      "nombre": "CHAMBI-TALAVERANO-MARCELO JAIME"
+    },
+    {
+      "codigo": "20191123J",
+      "especialidad": "C1",
+      "nombre": "YANQUI-SEDANO-LEONARDO"
+    },
+    {
+      "codigo": "20191122C",
+      "especialidad": "I2",
+      "nombre": "ESPIRITU-MORI-SEBASTIAN JESUS"
+    },
+    {
+      "codigo": "20191121G",
+      "especialidad": "M4",
+      "nombre": "ALFARO-QUISPE-RICARDO JEREMY DE JESUS"
+    },
+    {
+      "codigo": "20191120K",
+      "especialidad": "I2",
+      "nombre": "MORAN-YARANGA-GILMAR SEBASTIAN"
+    },
+    {
+      "codigo": "20191119B",
+      "especialidad": "I1",
+      "nombre": "LEON-SIU-ALVARO LEONARDO"
+    },
+    {
+      "codigo": "20191118F",
+      "especialidad": "C1",
+      "nombre": "DURAN-OLMOS-ANGEL JOSUE"
+    },
+    {
+      "codigo": "20191117J",
+      "especialidad": "I2",
+      "nombre": "LUJAN-MONTUFAR-JESUS ENRIQUE"
+    },
+    {
+      "codigo": "20191116C",
+      "especialidad": "I2",
+      "nombre": "POMA-NAVARRO-CHRISTIAN DANIEL"
+    },
+    {
+      "codigo": "20191115G",
+      "especialidad": "M4",
+      "nombre": "ALIAGA-ROJAS-JORGE ANDRES"
+    },
+    {
+      "codigo": "20191114K",
+      "especialidad": "C1",
+      "nombre": "MENDOZA-CHAVEZ-EDWAR FREY"
+    },
+    {
+      "codigo": "20191113D",
+      "especialidad": "I2",
+      "nombre": "CHAVEZ-BALDEON-CARLOS ANDRE"
+    },
+    {
+      "codigo": "20191112H",
+      "especialidad": "C1",
+      "nombre": "CARRILLO-ALVARADO-MIGUEL RODRIGO"
+    },
+    {
+      "codigo": "20191111A",
+      "especialidad": "C1",
+      "nombre": "HERRERA-VILLANUEVA-JOSE ENRIQUE"
+    },
+    {
+      "codigo": "20191110E",
+      "especialidad": "M3",
+      "nombre": "GONZALES-SILVERA-JHON"
+    },
+    {
+      "codigo": "20191109G",
+      "especialidad": "C1",
+      "nombre": "PASTOR-LLANOS-YAQUELIN MARIANELA"
+    },
+    {
+      "codigo": "20191108K",
+      "especialidad": "L3",
+      "nombre": "CHANCAVILCAS-OSORES-GIAN CARLOS"
+    },
+    {
+      "codigo": "20191107D",
+      "especialidad": "L2",
+      "nombre": "SULCA-HUAMANI-EDSON FROYLAN"
+    },
+    {
+      "codigo": "20191106H",
+      "especialidad": "M6",
+      "nombre": "ALIAGA-TAIPE-LUIS ALBERTO"
+    },
+    {
+      "codigo": "20191105A",
+      "especialidad": "M6",
+      "nombre": "RETO-CAYCHO-GIANPIERRE GONZALO"
+    },
+    {
+      "codigo": "20191104E",
+      "especialidad": "N2",
+      "nombre": "PAUCAR-PACHECO-JUAN FRANCISCO"
+    },
+    {
+      "codigo": "20191103I",
+      "especialidad": "C1",
+      "nombre": "JUAREZ-AGUILAR-GIOVANNY FERNANDO"
+    },
+    {
+      "codigo": "20191102B",
+      "especialidad": "C1",
+      "nombre": "RODRIGUEZ-MACCERHUA-JHAMIRD BRYAN"
+    },
+    {
+      "codigo": "20191101F",
+      "especialidad": "C1",
+      "nombre": "PAREDES-BALBOA-EDISON WILLIAM"
+    },
+    {
+      "codigo": "20191100J",
+      "especialidad": "C1",
+      "nombre": "RABANAL-BAUTISTA-CARLOS FABRIZIO"
+    },
+    {
+      "codigo": "20191099A",
+      "especialidad": "Q1",
+      "nombre": "QUISPE-AYALA-ARACELI ARIANA"
+    },
+    {
+      "codigo": "20191098E",
+      "especialidad": "C1",
+      "nombre": "CARBAJAL-GUERRERO-JOSUÉ RENÉ"
+    },
+    {
+      "codigo": "20191097I",
+      "especialidad": "I2",
+      "nombre": "BASADRE-PEREZ-CHRISTIAN RAUL"
+    },
+    {
+      "codigo": "20191096B",
+      "especialidad": "C1",
+      "nombre": "NUÑEZ-DORREGARAY-JEFFERSON DIEGO"
+    },
+    {
+      "codigo": "20191095F",
+      "especialidad": "C1",
+      "nombre": "ZAMALLOA-PUMAPILLO-DANIEL"
+    },
+    {
+      "codigo": "20191094J",
+      "especialidad": "C1",
+      "nombre": "RIVAS-FLORES-ISAAC ELIAS"
+    },
+    {
+      "codigo": "20191093C",
+      "especialidad": "M3",
+      "nombre": "CARRILLO-ROMERO-JOAQUIN ALEJANDRO"
+    },
+    {
+      "codigo": "20191092G",
+      "especialidad": "S3",
+      "nombre": "HUARINGA-OSCCO-MARIA ALESSANDRA"
+    },
+    {
+      "codigo": "20191091K",
+      "especialidad": "Q1",
+      "nombre": "COSSIO-POLO-ALDAIR"
+    },
+    {
+      "codigo": "20191090D",
+      "especialidad": "C1",
+      "nombre": "INGA-REGIN-ADDLER XAVIER"
+    },
+    {
+      "codigo": "20191089F",
+      "especialidad": "C1",
+      "nombre": "NAVARRO-OLIVERA-MARCO ESTEBAN"
+    },
+    {
+      "codigo": "20191088J",
+      "especialidad": "I1",
+      "nombre": "TORRES-MEGO-MILTON"
+    },
+    {
+      "codigo": "20191087C",
+      "especialidad": "C1",
+      "nombre": "ANTAURCO-QUISPE-CARLOS ALBERTO"
+    },
+    {
+      "codigo": "20191086G",
+      "especialidad": "I1",
+      "nombre": "LUNA-RARAZ-DANNY JORDAN"
+    },
+    {
+      "codigo": "20191085K",
+      "especialidad": "I1",
+      "nombre": "SILVERA-CORNEJO-RUBER JESUS"
+    },
+    {
+      "codigo": "20191084D",
+      "especialidad": "G3",
+      "nombre": "DIAZ-CLAVIJO-AMIR JOAQUIN"
+    },
+    {
+      "codigo": "20191083H",
+      "especialidad": "M6",
+      "nombre": "COTRINA-JUIPA-WILLIAM RUBEN"
+    },
+    {
+      "codigo": "20191082A",
+      "especialidad": "C1",
+      "nombre": "SEBASTIAN-RAMIREZ-CRISTIAN RUBEN"
+    },
+    {
+      "codigo": "20191081E",
+      "especialidad": "M4",
+      "nombre": "BARZOLA-GALARZA-DALESKI SEBASTIAN"
+    },
+    {
+      "codigo": "20191080I",
+      "especialidad": "C1",
+      "nombre": "HILARIO-SALAS-LUIS FERNANDO"
+    },
+    {
+      "codigo": "20191079K",
+      "especialidad": "L1",
+      "nombre": "HUAMANI-TENORIO-RUSSELL HEVETT"
+    },
+    {
+      "codigo": "20191078D",
+      "especialidad": "M6",
+      "nombre": "PAUCAR-ALEJOS-PAUL ANDERSON"
+    },
+    {
+      "codigo": "20191077H",
+      "especialidad": "M6",
+      "nombre": "AVILES-BONILLA-VHANIA"
+    },
+    {
+      "codigo": "20191076A",
+      "especialidad": "C1",
+      "nombre": "BARRETO-ALMIDON-BRENDA FATIMA"
+    },
+    {
+      "codigo": "20191075E",
+      "especialidad": "N6",
+      "nombre": "CAYETANO-TIZNADO-FRANCO RODRIGO"
+    },
+    {
+      "codigo": "20191074I",
+      "especialidad": "S3",
+      "nombre": "HUMIRE-LUCERO-CHRISTOPHER ISAAC MILLER"
+    },
+    {
+      "codigo": "20191073B",
+      "especialidad": "Q1",
+      "nombre": "QUEULLA-TITO-JOSUE MAURO"
+    },
+    {
+      "codigo": "20191072F",
+      "especialidad": "M6",
+      "nombre": "ALARCON-SANCHEZ-JAIRO GABRIEL"
+    },
+    {
+      "codigo": "20191071J",
+      "especialidad": "C1",
+      "nombre": "PAUCCA-MARTINEZ-MARCELO LUIS"
+    },
+    {
+      "codigo": "20191070C",
+      "especialidad": "L1",
+      "nombre": "PAUCAR-CCORIMANYA-DIEGO ARMANDO"
+    },
+    {
+      "codigo": "20191069E",
+      "especialidad": "C1",
+      "nombre": "DE LA CRUZ-SIMON-JHOAN DENNIS"
+    },
+    {
+      "codigo": "20191068I",
+      "especialidad": "C1",
+      "nombre": "VALENCIA-CRUZ-KAREN JHAZMIN"
+    },
+    {
+      "codigo": "20191067B",
+      "especialidad": "M5",
+      "nombre": "TABOADA-SARAVIA-ONEIL DEL PIERO"
+    },
+    {
+      "codigo": "20191066F",
+      "especialidad": "I1",
+      "nombre": "MARTINEZ-FLORES-BRAYAN ALEXANDER"
+    },
+    {
+      "codigo": "20191065J",
+      "especialidad": "I2",
+      "nombre": "TURRIATE-ARIZAPANA-RONALDO DUILIO"
+    },
+    {
+      "codigo": "20191064C",
+      "especialidad": "M6",
+      "nombre": "CARO-SANCHEZ-JOSE MANUEL"
+    },
+    {
+      "codigo": "20191063G",
+      "especialidad": "I1",
+      "nombre": "BERNAL-LEANDRO-ALEXIS RICARDO"
+    },
+    {
+      "codigo": "20191062K",
+      "especialidad": "M3",
+      "nombre": "MENDOZA-ARGOMEDO-NICOLAS ALBERTO"
+    },
+    {
+      "codigo": "20191061D",
+      "especialidad": "C1",
+      "nombre": "CERVANTES-RODRIGUEZ-DIEGO ALONSO"
+    },
+    {
+      "codigo": "20191060H",
+      "especialidad": "C1",
+      "nombre": "RAMIREZ-LANDA-FRANK"
+    },
+    {
+      "codigo": "20191059J",
+      "especialidad": "M6",
+      "nombre": "CAMA-PORTAL-HECTOR SANDRO GABRIEL ANDRES"
+    },
+    {
+      "codigo": "20191058C",
+      "especialidad": "I2",
+      "nombre": "CHARIARSE-ROJAS-RICARDO JESUS"
+    },
+    {
+      "codigo": "20191057G",
+      "especialidad": "L2",
+      "nombre": "ROMAN-BENITES-JESUS MANUEL"
+    },
+    {
+      "codigo": "20191056K",
+      "especialidad": "L1",
+      "nombre": "ALVA-ACCOSTUPA-SEBASTIAN ALONSO"
+    },
+    {
+      "codigo": "20191055D",
+      "especialidad": "C1",
+      "nombre": "LEÓN-SEDANO-WILLIAM ADOLFO"
+    },
+    {
+      "codigo": "20191054H",
+      "especialidad": "C1",
+      "nombre": "MARTINEZ-HUAIRA-JHORDAN PAUL"
+    },
+    {
+      "codigo": "20191053A",
+      "especialidad": "M6",
+      "nombre": "LAZARTE-GUILLEN-LUIS JEREMY"
+    },
+    {
+      "codigo": "20191052E",
+      "especialidad": "I1",
+      "nombre": "JUSCAMAYTA-SEMINARIO-JOSE DANIEL"
+    },
+    {
+      "codigo": "20191051I",
+      "especialidad": "I1",
+      "nombre": "MENDOZA-CHILON-JHEISON ALEXIS"
+    },
+    {
+      "codigo": "20191050B",
+      "especialidad": "C1",
+      "nombre": "MENDOZA-MAMANI-KARIN VANESSA"
+    },
+    {
+      "codigo": "20191049D",
+      "especialidad": "C1",
+      "nombre": "RAMOS-FLORES-BRAYAN ANTONY"
+    },
+    {
+      "codigo": "20191048H",
+      "especialidad": "C1",
+      "nombre": "ARIAS-CAPCHA-ALEJANDRO HANS"
+    },
+    {
+      "codigo": "20191047A",
+      "especialidad": "M6",
+      "nombre": "MARIN-YUPANQUI-CARLOS ANTONY"
+    },
+    {
+      "codigo": "20191046E",
+      "especialidad": "C1",
+      "nombre": "ALFARO-GARCIA-ANDY MANUEL"
+    },
+    {
+      "codigo": "20191045I",
+      "especialidad": "C1",
+      "nombre": "VARILLAS-PRINCIPE-DUWAL EUDOCIO"
+    },
+    {
+      "codigo": "20191044B",
+      "especialidad": "C1",
+      "nombre": "GALAN-MAURICIO-CHRISTIAN SAUL"
+    },
+    {
+      "codigo": "20191043F",
+      "especialidad": "C1",
+      "nombre": "BELTRAN-ATALAYA-RUBEN ABEL"
+    },
+    {
+      "codigo": "20191042J",
+      "especialidad": "N1",
+      "nombre": "HERNANDEZ-PINO-LUIS ENRIQUE"
+    },
+    {
+      "codigo": "20191041C",
+      "especialidad": "C1",
+      "nombre": "TOLEDO-ITA-CRISTHIAN EFREN"
+    },
+    {
+      "codigo": "20191040G",
+      "especialidad": "I2",
+      "nombre": "ATALAYA-VALENTINO-CRYSTAL SHARON"
+    },
+    {
+      "codigo": "20191039I",
+      "especialidad": "M6",
+      "nombre": "QUISPE-LOPEZ-MAX DANIEL"
+    },
+    {
+      "codigo": "20191038B",
+      "especialidad": "C1",
+      "nombre": "BEJAR-GUEVARA-WILSON YAFETH"
+    },
+    {
+      "codigo": "20191037F",
+      "especialidad": "I2",
+      "nombre": "GONZALES-RODRIGUEZ-YOLVIN RUSBEL"
+    },
+    {
+      "codigo": "20191036J",
+      "especialidad": "I2",
+      "nombre": "ALARCO-MIRANDA-HENRY RUBEN"
+    },
+    {
+      "codigo": "20191035C",
+      "especialidad": "C1",
+      "nombre": "AGUILAR-BURGOS-FABRIZIO GIAN FRANCO"
+    },
+    {
+      "codigo": "20191034G",
+      "especialidad": "L3",
+      "nombre": "CONTRERAS-LAPA-SEBASTIAN MARINO MIGUEL"
+    },
+    {
+      "codigo": "20191033K",
+      "especialidad": "M6",
+      "nombre": "ORTEGA-ROJAS-RAUL ANTONY"
+    },
+    {
+      "codigo": "20191032D",
+      "especialidad": "L1",
+      "nombre": "CUEVA-LEON-CARLOS RICARDO"
+    },
+    {
+      "codigo": "20191031H",
+      "especialidad": "M6",
+      "nombre": "MEDINA-CRUZ-ERNESTO ALONSO"
+    },
+    {
+      "codigo": "20191030A",
+      "especialidad": "C1",
+      "nombre": "CHUCO-NAVARRO-RODOLFO ANTONIO"
+    },
+    {
+      "codigo": "20191029C",
+      "especialidad": "M6",
+      "nombre": "ABREGU-ARIAS-KLEIDER DANIEL"
+    },
+    {
+      "codigo": "20191028G",
+      "especialidad": "C1",
+      "nombre": "FABIAN-MINAYA-DANIRA KATERIN"
+    },
+    {
+      "codigo": "20191027K",
+      "especialidad": "C1",
+      "nombre": "VILCAHUAMAN-CANCHANYA-JOSE GABRIEL"
+    },
+    {
+      "codigo": "20191026D",
+      "especialidad": "C1",
+      "nombre": "PERALES-CORDOVA-ROMMY NICOLE"
+    },
+    {
+      "codigo": "20191025H",
+      "especialidad": "C1",
+      "nombre": "MORENO-MAYO-ERICK JESUS"
+    },
+    {
+      "codigo": "20191024A",
+      "especialidad": "M6",
+      "nombre": "GONZALES-AGUADO-JUAN GABRIEL"
+    },
+    {
+      "codigo": "20191023E",
+      "especialidad": "C1",
+      "nombre": "ROJAS-BALDOCEDA-CARLOS TEODORO"
+    },
+    {
+      "codigo": "20191022I",
+      "especialidad": "I1",
+      "nombre": "PONTE-GERONIMO-YOEL CARLOS"
+    },
+    {
+      "codigo": "20191021B",
+      "especialidad": "M4",
+      "nombre": "ROSALES-ALVARADO-JUAN DIEGO"
+    },
+    {
+      "codigo": "20191020F",
+      "especialidad": "C1",
+      "nombre": "HUAMAN-BELLIDO-JOSE FABRICIO"
+    },
+    {
+      "codigo": "20191019H",
+      "especialidad": "M4",
+      "nombre": "CAMPOS-CALLAN-LARRY JUNIOR"
+    },
+    {
+      "codigo": "20191018A",
+      "especialidad": "I2",
+      "nombre": "VILLAVERDE-APONTE-MANUEL EDUARDO"
+    },
+    {
+      "codigo": "20191017E",
+      "especialidad": "I1",
+      "nombre": "MORILLO-VASQUEZ-DANFER HAROLD"
+    },
+    {
+      "codigo": "20191016I",
+      "especialidad": "I2",
+      "nombre": "MAMANI-BEJAR-ALESSANDRA DANIELA"
+    },
+    {
+      "codigo": "20191015B",
+      "especialidad": "M6",
+      "nombre": "VASQUEZ-TORRES-JAIR ANDERSON"
+    },
+    {
+      "codigo": "20191014F",
+      "especialidad": "I1",
+      "nombre": "FLORIAN-QUIJADA-MANUEL ENRIQUE"
+    },
+    {
+      "codigo": "20191013J",
+      "especialidad": "M6",
+      "nombre": "INFANTES-BEJAR-OSCAR RAUL EYNER"
+    },
+    {
+      "codigo": "20191012C",
+      "especialidad": "M6",
+      "nombre": "ASTO-RETUERTO-DAVID ANGEL"
+    },
+    {
+      "codigo": "20191011G",
+      "especialidad": "S3",
+      "nombre": "SERNA-FABIAN-DYCK KENNEDY"
+    },
+    {
+      "codigo": "20191010K",
+      "especialidad": "C1",
+      "nombre": "CANAL-CARRION-FABRICIO KENYI"
+    },
+    {
+      "codigo": "20191009B",
+      "especialidad": "G1",
+      "nombre": "HUAMAN-MARTIN-MARIA ESTEFANY"
+    },
+    {
+      "codigo": "20191008F",
+      "especialidad": "C1",
+      "nombre": "MEDRANO-REYES-LUIS ANGEL"
+    },
+    {
+      "codigo": "20191007J",
+      "especialidad": "I1",
+      "nombre": "GALVEZ-DIAZ-WILVER EDINSON"
+    },
+    {
+      "codigo": "20191006C",
+      "especialidad": "N1",
+      "nombre": "SUAREZ-PAJUELO-DAVIS BECKAM"
+    },
+    {
+      "codigo": "20191005G",
+      "especialidad": "M6",
+      "nombre": "PEREZ-CIEZA-PIERO ANTONIO"
+    },
+    {
+      "codigo": "20191004K",
+      "especialidad": "C1",
+      "nombre": "CARTOLIN-YANQUE-XIMENA MARISOL"
+    },
+    {
+      "codigo": "20191003D",
+      "especialidad": "L2",
+      "nombre": "ROJAS-CRUZ-MOISES DAVID"
+    },
+    {
+      "codigo": "20191002H",
+      "especialidad": "C1",
+      "nombre": "VARGAS-JIMENEZ-DIEGO BENJAMIN"
+    },
+    {
+      "codigo": "20191001A",
+      "especialidad": "N6",
+      "nombre": "BAYES-SANTOS-DIEGO EDSON"
+    },
+    {
+      "codigo": "20190628K",
+      "especialidad": "E3",
+      "nombre": "ALVAREZ-HERNANDEZ-ANDREA JHOSEPHINE"
+    },
+    {
+      "codigo": "20190627D",
+      "especialidad": "P2",
+      "nombre": "ALBARRACIN-ORTIZ-LUIS LEONIDAS"
+    },
+    {
+      "codigo": "20190626H",
+      "especialidad": "S2",
+      "nombre": "QUISPE-MONDRAGON-ANGELO EDUARDO"
+    },
+    {
+      "codigo": "20190625A",
+      "especialidad": "E3",
+      "nombre": "VARILLAS-TORRES-AUGUSTO RAFAEL"
+    },
+    {
+      "codigo": "20190624E",
+      "especialidad": "N5",
+      "nombre": "DELGADO-APARI-JORDAN JOSUE"
+    },
+    {
+      "codigo": "20190623I",
+      "especialidad": "S2",
+      "nombre": "RAMOS-MAGALLANES-ANDERSON"
+    },
+    {
+      "codigo": "20190622B",
+      "especialidad": "S1",
+      "nombre": "LIMACHI-PILLACA-YODDY NIKOLE"
+    },
+    {
+      "codigo": "20190621F",
+      "especialidad": "E3",
+      "nombre": "ARIAS-ROJAS-JUAN ANTONIO"
+    },
+    {
+      "codigo": "20190620J",
+      "especialidad": "Q2",
+      "nombre": "ANO-QUEJIAS-MARYELY"
+    },
+    {
+      "codigo": "20190619A",
+      "especialidad": "N5",
+      "nombre": "CALDERON-QUISPE-ALEXIS ISMAEL"
+    },
+    {
+      "codigo": "20190618E",
+      "especialidad": "N2",
+      "nombre": "DE LA CRUZ-HUAMAN-ANDRES LENIN"
+    },
+    {
+      "codigo": "20190617I",
+      "especialidad": "Q2",
+      "nombre": "MAMANI-CHIRIBOGA-MILAGROS LIZ"
+    },
+    {
+      "codigo": "20190616B",
+      "especialidad": "N2",
+      "nombre": "ORDOÑEZ-ROJAS-JEAN PIERRE"
+    },
+    {
+      "codigo": "20190615F",
+      "especialidad": "N2",
+      "nombre": "DESME-PAUCAR-CARLOS ANGEL"
+    },
+    {
+      "codigo": "20190614J",
+      "especialidad": "Q2",
+      "nombre": "ARRIAGA-LESCANO-VANESSA LORENA"
+    },
+    {
+      "codigo": "20190613C",
+      "especialidad": "P2",
+      "nombre": "CASTRO-PAREDES-CARLOS"
+    },
+    {
+      "codigo": "20190612G",
+      "especialidad": "E1",
+      "nombre": "LUYA-PARDO-ALONSO MARIANO"
+    },
+    {
+      "codigo": "20190611K",
+      "especialidad": "N6",
+      "nombre": "RUIZ-ROSAS-PIERRE ADAN CAMILO"
+    },
+    {
+      "codigo": "20190610D",
+      "especialidad": "Q2",
+      "nombre": "HUAMANTOMA-QUISPE-BRAYAN KENDY"
+    },
+    {
+      "codigo": "20190609F",
+      "especialidad": "Q2",
+      "nombre": "CAMINO-DE LA CRUZ-EMILY YURIKO"
+    },
+    {
+      "codigo": "20190608J",
+      "especialidad": "E1",
+      "nombre": "PEREYRA-OCHOA-MARYORI JUDITH"
+    },
+    {
+      "codigo": "20190607C",
+      "especialidad": "N2",
+      "nombre": "HUARACHI-QUIÑONES-JESUS EDUARDO"
+    },
+    {
+      "codigo": "20190606G",
+      "especialidad": "N5",
+      "nombre": "DE LA TORRE-VILA-LUIGGI MARCELO"
+    },
+    {
+      "codigo": "20190605K",
+      "especialidad": "E1",
+      "nombre": "BARRERA-YNGA-KELBYN"
+    },
+    {
+      "codigo": "20190604D",
+      "especialidad": "S1",
+      "nombre": "ECHEVARRIA-ARIZAGA-JESÚS ALONSO"
+    },
+    {
+      "codigo": "20190603H",
+      "especialidad": "E1",
+      "nombre": "VEGA-ASTO-JEREMY AXEL"
+    },
+    {
+      "codigo": "20190602A",
+      "especialidad": "Q2",
+      "nombre": "ARTICA-LLANOS-MIJAL ALEXANDRA"
+    },
+    {
+      "codigo": "20190601E",
+      "especialidad": "N5",
+      "nombre": "MAYHUA-MARTINEZ-CHARLY CARLOS"
+    },
+    {
+      "codigo": "20190600I",
+      "especialidad": "E1",
+      "nombre": "DOMINGUEZ-VARGAS-GERALD IVAN"
+    },
+    {
+      "codigo": "20190599K",
+      "especialidad": "E1",
+      "nombre": "BOZA-FLORES-LEYDI VANESSA"
+    },
+    {
+      "codigo": "20190598D",
+      "especialidad": "E1",
+      "nombre": "COSME-ARIAS-JHONATAN GUILLERMO"
+    },
+    {
+      "codigo": "20190597H",
+      "especialidad": "E1",
+      "nombre": "MEDINA-OROYA-EDWIN DARIO"
+    },
+    {
+      "codigo": "20190596A",
+      "especialidad": "E1",
+      "nombre": "MANTARI-BANCAYAN-RONALD EDINSON"
+    },
+    {
+      "codigo": "20190595E",
+      "especialidad": "E1",
+      "nombre": "PACHAS-GONZALES-GERALD POOLH"
+    },
+    {
+      "codigo": "20190594I",
+      "especialidad": "N6",
+      "nombre": "POMA-ALTAMIRANO-SOFIA SADITH"
+    },
+    {
+      "codigo": "20190593B",
+      "especialidad": "S1",
+      "nombre": "LOARDO-RAMOS-FLORENCIO"
+    },
+    {
+      "codigo": "20190592F",
+      "especialidad": "S1",
+      "nombre": "CARRANZA-INGA-SOFIA NUWA"
+    },
+    {
+      "codigo": "20190591J",
+      "especialidad": "N6",
+      "nombre": "SANCHEZ-COTRADO-DAVID ADEMIR"
+    },
+    {
+      "codigo": "20190590C",
+      "especialidad": "S2",
+      "nombre": "DIAZ-GUERRERO-KATERINE LISSET"
+    },
+    {
+      "codigo": "20190589E",
+      "especialidad": "E1",
+      "nombre": "VEGA-HUERTA-GIANELLA XIMENA"
+    },
+    {
+      "codigo": "20190588I",
+      "especialidad": "E1",
+      "nombre": "CUNO-CRUZ-EDUARDO WILMER"
+    },
+    {
+      "codigo": "20190587B",
+      "especialidad": "N6",
+      "nombre": "SALAZAR-FLORES-LINDA MELISA NICOLE"
+    },
+    {
+      "codigo": "20190586F",
+      "especialidad": "N2",
+      "nombre": "TORRES-DIAZ-JOSET ELIAN"
+    },
+    {
+      "codigo": "20190585J",
+      "especialidad": "S2",
+      "nombre": "VILLALBA-JARAMILLO-JOSE EDUARDO"
+    },
+    {
+      "codigo": "20190584C",
+      "especialidad": "N6",
+      "nombre": "CAYCHO-VILLALOBOS-JOSÉ GABRIEL"
+    },
+    {
+      "codigo": "20190583G",
+      "especialidad": "E3",
+      "nombre": "PAREDES-CUYA-RICARDO ALFREDO"
+    },
+    {
+      "codigo": "20190582K",
+      "especialidad": "N2",
+      "nombre": "CAMPOS-MENDOZA-DAVID DANIEL"
+    },
+    {
+      "codigo": "20190581D",
+      "especialidad": "P2",
+      "nombre": "VASQUEZ-QUIROZ-DARWIN WILDER"
+    },
+    {
+      "codigo": "20190580H",
+      "especialidad": "E1",
+      "nombre": "INGA-RAVICHAGUA-BRYAN LUDVING"
+    },
+    {
+      "codigo": "20190579J",
+      "especialidad": "E3",
+      "nombre": "LLIUYACC-BLAS-MARIA SUSANA"
+    },
+    {
+      "codigo": "20190578C",
+      "especialidad": "N2",
+      "nombre": "ALBA-CULLASH-HIPOLITO ROMARIO"
+    },
+    {
+      "codigo": "20190577G",
+      "especialidad": "A1",
+      "nombre": "MARIN-SAUCEDO-JOHANNA OLIVIA"
+    },
+    {
+      "codigo": "20190576K",
+      "especialidad": "S1",
+      "nombre": "PINEDA-SÁNCHEZ-ANDRÉS JESÚS"
+    },
+    {
+      "codigo": "20190575D",
+      "especialidad": "P3",
+      "nombre": "AGUERO-ARANGO-ROGGERS CHRISTOPHER"
+    },
+    {
+      "codigo": "20190574H",
+      "especialidad": "N6",
+      "nombre": "ROJAS-SANCHEZ-ALEXANDER MILLER"
+    },
+    {
+      "codigo": "20190573A",
+      "especialidad": "A1",
+      "nombre": "VELIZ-GARCIA-ALEJANDRA"
+    },
+    {
+      "codigo": "20190572E",
+      "especialidad": "E1",
+      "nombre": "YARANGA-CHANCA-ALEXANDER ERICK"
+    },
+    {
+      "codigo": "20190571I",
+      "especialidad": "S1",
+      "nombre": "SOTO-PEREZ-BRAYAN AYARTTON"
+    },
+    {
+      "codigo": "20190570B",
+      "especialidad": "E3",
+      "nombre": "VARGAS-CHAMBI-MARTIN FERNANDO"
+    },
+    {
+      "codigo": "20190569D",
+      "especialidad": "A1",
+      "nombre": "GIL-AVES-GIANELLA MARIET"
+    },
+    {
+      "codigo": "20190568H",
+      "especialidad": "A1",
+      "nombre": "ROMERO-GALLARDO-ISABO SABRINA"
+    },
+    {
+      "codigo": "20190567A",
+      "especialidad": "E1",
+      "nombre": "ÑAUPAS-ORDOÑEZ-JOHANA CAMILA"
+    },
+    {
+      "codigo": "20190566E",
+      "especialidad": "S1",
+      "nombre": "ESPINOZA-AGUIRRE-LEANDRO BRAYAN"
+    },
+    {
+      "codigo": "20190565I",
+      "especialidad": "Q2",
+      "nombre": "AYALA-VILLAFUERTE-DIANA LUCIA"
+    },
+    {
+      "codigo": "20190564B",
+      "especialidad": "E3",
+      "nombre": "SOTO-GÓMEZ-AUREA EDALINA"
+    },
+    {
+      "codigo": "20190563F",
+      "especialidad": "N5",
+      "nombre": "FLORES-FIGUEROA-MAYCOL WISLER"
+    },
+    {
+      "codigo": "20190562J",
+      "especialidad": "Q2",
+      "nombre": "MANCILLA-CACERES-RANDY MICHAEL"
+    },
+    {
+      "codigo": "20190561C",
+      "especialidad": "A1",
+      "nombre": "BUSTOS-CASTILLO-CRISTOPHER PABLO"
+    },
+    {
+      "codigo": "20190560G",
+      "especialidad": "S1",
+      "nombre": "CUELLAR-HUAMAN-KENYI STALIN"
+    },
+    {
+      "codigo": "20190559I",
+      "especialidad": "N6",
+      "nombre": "SEGUNDO-DONAYRE-SEBASTIAN"
+    },
+    {
+      "codigo": "20190558B",
+      "especialidad": "S1",
+      "nombre": "ANYOSA-FERNANDEZ-NEYSER ALVARO"
+    },
+    {
+      "codigo": "20190557F",
+      "especialidad": "E3",
+      "nombre": "PAREDES-CAPCHA-LUIS DAVID"
+    },
+    {
+      "codigo": "20190556J",
+      "especialidad": "E3",
+      "nombre": "GUANILO-PAIRAZAMÁN-RICARDO RODOLFO"
+    },
+    {
+      "codigo": "20190555C",
+      "especialidad": "S2",
+      "nombre": "RODRIGUEZ-RAMOS-MAGDALENA SOFIA"
+    },
+    {
+      "codigo": "20190554G",
+      "especialidad": "A1",
+      "nombre": "GÓMEZ-HOLGUÍN-RENZO JOSUÉ"
+    },
+    {
+      "codigo": "20190553K",
+      "especialidad": "A1",
+      "nombre": "PUCUHUAYLA-PARIONA-LIZBETH MELANIE"
+    },
+    {
+      "codigo": "20190552D",
+      "especialidad": "P2",
+      "nombre": "VALLADARES-BACILIO-ANGELLA MARIE INESS"
+    },
+    {
+      "codigo": "20190551H",
+      "especialidad": "P2",
+      "nombre": "GARCIA-GARAUNDO-ANABEL"
+    },
+    {
+      "codigo": "20190550A",
+      "especialidad": "N1",
+      "nombre": "PEREZ-ANTAURCO-PETER ARMANDO"
+    },
+    {
+      "codigo": "20190549C",
+      "especialidad": "A1",
+      "nombre": "RIOS-JORGE-YEICKO ANDRE"
+    },
+    {
+      "codigo": "20190548G",
+      "especialidad": "E1",
+      "nombre": "BENITES-VARGAS-RENZO MAURICIO"
+    },
+    {
+      "codigo": "20190547K",
+      "especialidad": "A1",
+      "nombre": "GOMEZ-ECHEVARRIA-STEVEN JAHIROL"
+    },
+    {
+      "codigo": "20190546D",
+      "especialidad": "E1",
+      "nombre": "SANTIAGO-PASION-DIEGO JUNIOR"
+    },
+    {
+      "codigo": "20190545H",
+      "especialidad": "S2",
+      "nombre": "INGA-ELIAS-ESTEFANY JUDIT"
+    },
+    {
+      "codigo": "20190544A",
+      "especialidad": "E1",
+      "nombre": "CUEVA-DIAZ-ARACELLY TAIS"
+    },
+    {
+      "codigo": "20190543E",
+      "especialidad": "N1",
+      "nombre": "BERRIOS-MOYA-RICARDO"
+    },
+    {
+      "codigo": "20190542I",
+      "especialidad": "G2",
+      "nombre": "GUTIERREZ-MORALES-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20190541B",
+      "especialidad": "S2",
+      "nombre": "CORREA-GASTELO-LEONEL MOHAMMED ALI"
+    },
+    {
+      "codigo": "20190540F",
+      "especialidad": "N6",
+      "nombre": "MALLAUPOMA-GALARZA-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20190539H",
+      "especialidad": "E1",
+      "nombre": "ATUSPARIA-CIERTO-MARIA FE"
+    },
+    {
+      "codigo": "20190538A",
+      "especialidad": "G2",
+      "nombre": "DIONISIO-LOPEZ-DIEGO HERNANDO"
+    },
+    {
+      "codigo": "20190537E",
+      "especialidad": "N6",
+      "nombre": "POLANCO-PARCO-ALEJANDRO ALFONSO"
+    },
+    {
+      "codigo": "20190536I",
+      "especialidad": "Q2",
+      "nombre": "HERNANDEZ-ESCOBEDO-ANGEL EDUARDO"
+    },
+    {
+      "codigo": "20190535B",
+      "especialidad": "E1",
+      "nombre": "FLORES-AVILA-ALEXANDER JAVIER"
+    },
+    {
+      "codigo": "20190534F",
+      "especialidad": "N3",
+      "nombre": "TACURI-CORDOVA-ISAIAS"
+    },
+    {
+      "codigo": "20190533J",
+      "especialidad": "E3",
+      "nombre": "PINCO-CORDOVA-IVER VICENTE"
+    },
+    {
+      "codigo": "20190532C",
+      "especialidad": "A1",
+      "nombre": "BERNAHOLA-VASQUEZ-CIELO SOFIA"
+    },
+    {
+      "codigo": "20190531G",
+      "especialidad": "P2",
+      "nombre": "ZUTA-VASQUEZ-JOSE DUGAR"
+    },
+    {
+      "codigo": "20190530K",
+      "especialidad": "M5",
+      "nombre": "YANAMANGO-INFANTE-ANDY MARIO"
+    },
+    {
+      "codigo": "20190529B",
+      "especialidad": "N1",
+      "nombre": "TREJO-VERAMENDI-ABEL NEHEMÍAS"
+    },
+    {
+      "codigo": "20190528F",
+      "especialidad": "A1",
+      "nombre": "GARCÍA-CORNEJO-MELANY GERALDINE"
+    },
+    {
+      "codigo": "20190527J",
+      "especialidad": "N6",
+      "nombre": "ARCE-BENDEZU-LUIS MANUEL"
+    },
+    {
+      "codigo": "20190526C",
+      "especialidad": "A1",
+      "nombre": "DELGADO-CHÁVEZ-LOURDES NAYELI"
+    },
+    {
+      "codigo": "20190525G",
+      "especialidad": "A1",
+      "nombre": "DURÁN-ZAVALA-VALERIA NICOLE"
+    },
+    {
+      "codigo": "20190524K",
+      "especialidad": "N6",
+      "nombre": "HUANCA-CONTRERAS-HENRY PTOLOMEO"
+    },
+    {
+      "codigo": "20190523D",
+      "especialidad": "N2",
+      "nombre": "ALVA-FLORES-JOSE IGNACIO"
+    },
+    {
+      "codigo": "20190522H",
+      "especialidad": "N2",
+      "nombre": "MAMANI-MACHACA-DUBERLY OMAR"
+    },
+    {
+      "codigo": "20190521A",
+      "especialidad": "N5",
+      "nombre": "PAUCAR-MENDOZA-SEBASTIAN ANDRE"
+    },
+    {
+      "codigo": "20190520E",
+      "especialidad": "Q2",
+      "nombre": "FOX-MEDINA-JESUS MOISES"
+    },
+    {
+      "codigo": "20190519G",
+      "especialidad": "P3",
+      "nombre": "ESPINOZA-CAPCHA-BRAD JONAH"
+    },
+    {
+      "codigo": "20190518K",
+      "especialidad": "Q1",
+      "nombre": "QUISPE-TOVAR-STEPHANIE MARIAN ANGELICA"
+    },
+    {
+      "codigo": "20190517D",
+      "especialidad": "A1",
+      "nombre": "CASTAÑEDA-MARISCAL-FIORELLA"
+    },
+    {
+      "codigo": "20190516H",
+      "especialidad": "M5",
+      "nombre": "SANCHEZ-CUBILLAS-LUIS ALBERTO"
+    },
+    {
+      "codigo": "20190515A",
+      "especialidad": "N1",
+      "nombre": "TERRONES-BALCAZAR-MARCO ALEXANDER"
+    },
+    {
+      "codigo": "20190514E",
+      "especialidad": "S2",
+      "nombre": "CCASANI-SANTISTEBAN-LEO ELBER"
+    },
+    {
+      "codigo": "20190513I",
+      "especialidad": "N3",
+      "nombre": "MIGUEL-CALDERON-KATHLEEN VANESSA"
+    },
+    {
+      "codigo": "20190512B",
+      "especialidad": "N5",
+      "nombre": "VELAYARCE-LLANOS-WILLY"
+    },
+    {
+      "codigo": "20190511F",
+      "especialidad": "S1",
+      "nombre": "BRONCANO-TITO-HAROL JAMIL"
+    },
+    {
+      "codigo": "20190510J",
+      "especialidad": "M5",
+      "nombre": "CANAZA-MEJIA-WILLIAN EDUARDO"
+    },
+    {
+      "codigo": "20190509A",
+      "especialidad": "N6",
+      "nombre": "OYOLA-RAMOS-RENZO AUGUSTO"
+    },
+    {
+      "codigo": "20190508E",
+      "especialidad": "E1",
+      "nombre": "UBALDO-AGUADO-ALEXANDRA VALERIA"
+    },
+    {
+      "codigo": "20190507I",
+      "especialidad": "A1",
+      "nombre": "SALVATIERRA-MAZA-NATALY ROCIO"
+    },
+    {
+      "codigo": "20190506B",
+      "especialidad": "Q2",
+      "nombre": "INOCENTE-ALVINO-ALEXANDER JOAQUIN"
+    },
+    {
+      "codigo": "20190505F",
+      "especialidad": "P3",
+      "nombre": "CUYA-FLORES-LOYDA JOHANA"
+    },
+    {
+      "codigo": "20190504J",
+      "especialidad": "E1",
+      "nombre": "MAUCAYLLE-MIRANDA-JUAN CARLOS"
+    },
+    {
+      "codigo": "20190503C",
+      "especialidad": "Q1",
+      "nombre": "HUAYANAY-SU-YARITZA KARINA"
+    },
+    {
+      "codigo": "20190502G",
+      "especialidad": "Q1",
+      "nombre": "GAMARRA-APESTEGUI-WILLIAM STIVEN"
+    },
+    {
+      "codigo": "20190501K",
+      "especialidad": "Q1",
+      "nombre": "TERRONES-CORRALES-KLEYVER HEYSON"
+    },
+    {
+      "codigo": "20190500D",
+      "especialidad": "G2",
+      "nombre": "CORTEGANA-VARGAS-ELMER"
+    },
+    {
+      "codigo": "20190499F",
+      "especialidad": "M5",
+      "nombre": "CASTRO-ACURIO-AXEL FRANKSUA"
+    },
+    {
+      "codigo": "20190498J",
+      "especialidad": "N5",
+      "nombre": "FERNANDEZ-SUAREZ-ANGEL SEBASTIAN"
+    },
+    {
+      "codigo": "20190497C",
+      "especialidad": "N6",
+      "nombre": "CIPRIANO-ARROYO-BRUNO GUSTAVO"
+    },
+    {
+      "codigo": "20190496G",
+      "especialidad": "Q1",
+      "nombre": "ROJAS-BRAVO-PAOLA CORAL"
+    },
+    {
+      "codigo": "20190495K",
+      "especialidad": "N6",
+      "nombre": "LOPEZ-FLORES-ROYER AMED"
+    },
+    {
+      "codigo": "20190494D",
+      "especialidad": "G2",
+      "nombre": "COSQUILLO-RIOS-LUIS ALONSO"
+    },
+    {
+      "codigo": "20190493H",
+      "especialidad": "A1",
+      "nombre": "CRUZADO-CARDENAS-ADRIAN DANIEL"
+    },
+    {
+      "codigo": "20190492A",
+      "especialidad": "A1",
+      "nombre": "ARCE-PEÑA-CRISTIAN ENRIQUE"
+    },
+    {
+      "codigo": "20190491E",
+      "especialidad": "G2",
+      "nombre": "CRISPIN-ESPINOZA-FERNANDO EMANUEL"
+    },
+    {
+      "codigo": "20190490I",
+      "especialidad": "E1",
+      "nombre": "RAMIREZ-HUAMAN-JULINHO"
+    },
+    {
+      "codigo": "20190489K",
+      "especialidad": "Q1",
+      "nombre": "AGURTO-GOMEZ-DINA ALLISON"
+    },
+    {
+      "codigo": "20190488D",
+      "especialidad": "Q1",
+      "nombre": "HUAMANI-ACOSTA-MARTHA SOFIA"
+    },
+    {
+      "codigo": "20190487H",
+      "especialidad": "Q1",
+      "nombre": "CCOTO-CUEVA-OLGA SOFIA"
+    },
+    {
+      "codigo": "20190486A",
+      "especialidad": "G3",
+      "nombre": "CORIMANYA-VILLALTA-JOSEPH PATRICK"
+    },
+    {
+      "codigo": "20190485E",
+      "especialidad": "Q1",
+      "nombre": "DE LA CRUZ-MUSAYON-EDUARDO JOSÉ"
+    },
+    {
+      "codigo": "20190484I",
+      "especialidad": "Q1",
+      "nombre": "QUISPE-SAMANEZ-VICTOR ENRIQUE"
+    },
+    {
+      "codigo": "20190483B",
+      "especialidad": "E1",
+      "nombre": "CAMPOS-RIOS-JOAQUIN SEBASTIAN"
+    },
+    {
+      "codigo": "20190482F",
+      "especialidad": "N5",
+      "nombre": "MITMA-MARTINEZ-JEANPIERRE ANTHONY"
+    },
+    {
+      "codigo": "20190481J",
+      "especialidad": "G3",
+      "nombre": "BOBADILLA-ROMAN-LEONARD ANTONIO"
+    },
+    {
+      "codigo": "20190480C",
+      "especialidad": "A1",
+      "nombre": "ÑAUPARI-INGA-BRANDON RUBEN"
+    },
+    {
+      "codigo": "20190479E",
+      "especialidad": "E1",
+      "nombre": "PEREZ-SANCHEZ-GREEY CHRISTIAN"
+    },
+    {
+      "codigo": "20190478I",
+      "especialidad": "G3",
+      "nombre": "LEYVA-HUANSHA-YELSIN AURELIO"
+    },
+    {
+      "codigo": "20190477B",
+      "especialidad": "N1",
+      "nombre": "HUAMÁN-VARGAS-HERMANN ADRIÁN"
+    },
+    {
+      "codigo": "20190476F",
+      "especialidad": "Q1",
+      "nombre": "ALATA-BAUTISTA-SARAI ALEXANDRA"
+    },
+    {
+      "codigo": "20190475J",
+      "especialidad": "Q1",
+      "nombre": "TINTAYA-VARGAS-KEVIN ANTONI"
+    },
+    {
+      "codigo": "20190474C",
+      "especialidad": "Q1",
+      "nombre": "RAYME-TORRES-SEHAN CARLOS"
+    },
+    {
+      "codigo": "20190473G",
+      "especialidad": "G1",
+      "nombre": "HUAYTA-MUCHA-LUIS ARTURO"
+    },
+    {
+      "codigo": "20190472K",
+      "especialidad": "S1",
+      "nombre": "VERA-ASENCIOS-LUIS FERNANDO"
+    },
+    {
+      "codigo": "20190471D",
+      "especialidad": "E3",
+      "nombre": "ESTEBAN-ALARCÓN-GISELLA CAROLINA"
+    },
+    {
+      "codigo": "20190470H",
+      "especialidad": "P2",
+      "nombre": "RAMIREZ-ROJAS-DENNZEL JASSAF"
+    },
+    {
+      "codigo": "20190469J",
+      "especialidad": "G2",
+      "nombre": "LEVANO-FERNANDEZ-VICTOR HUGO"
+    },
+    {
+      "codigo": "20190468C",
+      "especialidad": "N2",
+      "nombre": "ESCOBEDO-VASQUEZ-JANICE KATHERINE"
+    },
+    {
+      "codigo": "20190467G",
+      "especialidad": "A1",
+      "nombre": "ROSAS-VASQUEZ-NABIL HEIDER"
+    },
+    {
+      "codigo": "20190466K",
+      "especialidad": "M5",
+      "nombre": "CCACHAINCA-ZAMBRANO-VICTOR MANUEL"
+    },
+    {
+      "codigo": "20190465D",
+      "especialidad": "A1",
+      "nombre": "GAMIO-SIERRA-DIEGO JESÚS"
+    },
+    {
+      "codigo": "20190464H",
+      "especialidad": "P2",
+      "nombre": "ESPADA-CHILIN-HELBERT ALFREDO"
+    },
+    {
+      "codigo": "20190463A",
+      "especialidad": "A1",
+      "nombre": "CHAVEZ-ROQUE-ALEJANDRO FLAVIO"
+    },
+    {
+      "codigo": "20190462E",
+      "especialidad": "Q1",
+      "nombre": "GIRON-SANCHEZ-JOAQUIN DARIO"
+    },
+    {
+      "codigo": "20190461I",
+      "especialidad": "M5",
+      "nombre": "CHOTA-QUISPE-JAIRSINHO"
+    },
+    {
+      "codigo": "20190460B",
+      "especialidad": "G2",
+      "nombre": "FLORES-RODRIGUEZ-JOEL DENIS"
+    },
+    {
+      "codigo": "20190459D",
+      "especialidad": "Q2",
+      "nombre": "BERNUY-LIMA-SEBASTIAN"
+    },
+    {
+      "codigo": "20190458H",
+      "especialidad": "G2",
+      "nombre": "MANRIQUE-CONTRERAS-DAVID JONATHAN"
+    },
+    {
+      "codigo": "20190457A",
+      "especialidad": "M5",
+      "nombre": "SALAZAR-APAZA-GABRIEL"
+    },
+    {
+      "codigo": "20190456E",
+      "especialidad": "Q2",
+      "nombre": "ROMERO-YLLACONZA-JHON DAVID"
+    },
+    {
+      "codigo": "20190455I",
+      "especialidad": "E3",
+      "nombre": "MATIAS-TELLO-MICHELL KAREN ANGELICA"
+    },
+    {
+      "codigo": "20190454B",
+      "especialidad": "S1",
+      "nombre": "OLIVARES-VALDIVIA-CRISTOFER STIF"
+    },
+    {
+      "codigo": "20190453F",
+      "especialidad": "E3",
+      "nombre": "AUDANTE-CAMPOS-CHRISTIAN MIGUEL"
+    },
+    {
+      "codigo": "20190452J",
+      "especialidad": "N1",
+      "nombre": "PAINADO-LOZANO-WILLIAM HANS"
+    },
+    {
+      "codigo": "20190451C",
+      "especialidad": "Q1",
+      "nombre": "VETANZO-SÁNCHEZ-FRANCO RAÚL LENIN"
+    },
+    {
+      "codigo": "20190450G",
+      "especialidad": "E3",
+      "nombre": "PUJADA-PACORA-RODRIGO ARMANDO"
+    },
+    {
+      "codigo": "20190449I",
+      "especialidad": "G2",
+      "nombre": "GARATE-ORE-JEFFERSON RICHARD"
+    },
+    {
+      "codigo": "20190448B",
+      "especialidad": "G1",
+      "nombre": "SEGURA-FLORES-DIEGO HECTOR"
+    },
+    {
+      "codigo": "20190447F",
+      "especialidad": "E1",
+      "nombre": "HUAYTA-LOPEZ-JORGE LUIS"
+    },
+    {
+      "codigo": "20190446J",
+      "especialidad": "M5",
+      "nombre": "CONTRERAS-HUAMAN-KEVIN LUIGI"
+    },
+    {
+      "codigo": "20190445C",
+      "especialidad": "Q1",
+      "nombre": "SANTOS-GONZALES-LUIS ENRIQUE"
+    },
+    {
+      "codigo": "20190444G",
+      "especialidad": "A1",
+      "nombre": "LAURA-YUPANQUI-BRANDON ENZO"
+    },
+    {
+      "codigo": "20190443K",
+      "especialidad": "M5",
+      "nombre": "CASTRO-ROSAS-DAVID"
+    },
+    {
+      "codigo": "20190442D",
+      "especialidad": "G2",
+      "nombre": "TINCO-CANGALAYA-SILVESTRE COOPER"
+    },
+    {
+      "codigo": "20190441H",
+      "especialidad": "N1",
+      "nombre": "GARCÍA-CASTILLO-JOAQUÍN IGNACIO"
+    },
+    {
+      "codigo": "20190440A",
+      "especialidad": "G2",
+      "nombre": "LAZARO-ESPINOZA-JUVER"
+    },
+    {
+      "codigo": "20190439C",
+      "especialidad": "G2",
+      "nombre": "ROMERO-GORDILLO-RAÚL ALBERTO"
+    },
+    {
+      "codigo": "20190438G",
+      "especialidad": "G1",
+      "nombre": "RIVERA-CORTIJO-ALVARO JETRO"
+    },
+    {
+      "codigo": "20190437K",
+      "especialidad": "G3",
+      "nombre": "CASTRO-RENGIFO-ERICK WALTER"
+    },
+    {
+      "codigo": "20190436D",
+      "especialidad": "A1",
+      "nombre": "RUIZ-LARRAIN-ANA FLAVIA"
+    },
+    {
+      "codigo": "20190435H",
+      "especialidad": "Q1",
+      "nombre": "SOLANO-PALACIN-KEVIN ANDERSON"
+    },
+    {
+      "codigo": "20190434A",
+      "especialidad": "G1",
+      "nombre": "PALIZA-CANDIA-SHARMELY"
+    },
+    {
+      "codigo": "20190433E",
+      "especialidad": "G2",
+      "nombre": "ALEJANDRO-ZARATE-JAREK JHUSSEF"
+    },
+    {
+      "codigo": "20190432I",
+      "especialidad": "S1",
+      "nombre": "VALVERDE-BALBIN-JEAN PIERE"
+    },
+    {
+      "codigo": "20190431B",
+      "especialidad": "Q1",
+      "nombre": "RAMIREZ-OSCCO-YEFERSON"
+    },
+    {
+      "codigo": "20190430F",
+      "especialidad": "E1",
+      "nombre": "VALVERDE-CRUZ-ANGIE ROSARIO"
+    },
+    {
+      "codigo": "20190429H",
+      "especialidad": "Q1",
+      "nombre": "SILVA-NUÑEZ-DIANA LISSETH"
+    },
+    {
+      "codigo": "20190428A",
+      "especialidad": "S1",
+      "nombre": "ÑAÑEZ-MATTA-SAKURA ALEXIA"
+    },
+    {
+      "codigo": "20190427E",
+      "especialidad": "N1",
+      "nombre": "PAZ-JALCA-ALDAIR"
+    },
+    {
+      "codigo": "20190426I",
+      "especialidad": "G3",
+      "nombre": "GONZA-ESCOBAR-JOSUÉ JONÁS"
+    },
+    {
+      "codigo": "20190425B",
+      "especialidad": "Q1",
+      "nombre": "GIRON-HILARIO-YADIRA FLOR"
+    },
+    {
+      "codigo": "20190424F",
+      "especialidad": "N6",
+      "nombre": "MALVACEDA-CANALES-CARLOS DANIEL"
+    },
+    {
+      "codigo": "20190423J",
+      "especialidad": "G1",
+      "nombre": "RONDON-ANTAY-MARCO BRUCCE"
+    },
+    {
+      "codigo": "20190422C",
+      "especialidad": "E1",
+      "nombre": "QUISPE-SACHA-DANIEL JAIME"
+    },
+    {
+      "codigo": "20190421G",
+      "especialidad": "N1",
+      "nombre": "ZULUETA-ALVARADO-DIEGO EDSON"
+    },
+    {
+      "codigo": "20190420K",
+      "especialidad": "Q1",
+      "nombre": "HERRERA-FELIPE-RODRIGO LIONEL"
+    },
+    {
+      "codigo": "20190419B",
+      "especialidad": "G3",
+      "nombre": "ROJAS-ESTELA-ALEXANDER"
+    },
+    {
+      "codigo": "20190418F",
+      "especialidad": "N3",
+      "nombre": "QUEJIAS-QUISPE-GABRIEL"
+    },
+    {
+      "codigo": "20190417J",
+      "especialidad": "G1",
+      "nombre": "ROMERO-LOPEZ-ISIDORO"
+    },
+    {
+      "codigo": "20190416C",
+      "especialidad": "G3",
+      "nombre": "MACEDO-BARTOLOME-JOHANN FERNANDO"
+    },
+    {
+      "codigo": "20190415G",
+      "especialidad": "E1",
+      "nombre": "MALLMA-HUAMAN-RONAL"
+    },
+    {
+      "codigo": "20190414K",
+      "especialidad": "N5",
+      "nombre": "CARBONEL-PARDO-VICTOR MANUEL"
+    },
+    {
+      "codigo": "20190413D",
+      "especialidad": "Q1",
+      "nombre": "ALATA-FERRIL-FABRIZZIO ALESSANDRO"
+    },
+    {
+      "codigo": "20190412H",
+      "especialidad": "E1",
+      "nombre": "URIBE-IBAÑEZ-JEREMY JADEN"
+    },
+    {
+      "codigo": "20190411A",
+      "especialidad": "G3",
+      "nombre": "HERRERA-ANAMPA-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20190410E",
+      "especialidad": "N5",
+      "nombre": "SALAS-YAP-MAURICIO THIAGO"
+    },
+    {
+      "codigo": "20190409G",
+      "especialidad": "M5",
+      "nombre": "CCACCYA-ENCISO-EDWAR"
+    },
+    {
+      "codigo": "20190408K",
+      "especialidad": "G2",
+      "nombre": "CCALA-GARCIA-ANDRES SEBASTIAN"
+    },
+    {
+      "codigo": "20190407D",
+      "especialidad": "P2",
+      "nombre": "CONDORI-INGA-YANET GLORIA"
+    },
+    {
+      "codigo": "20190406H",
+      "especialidad": "N2",
+      "nombre": "HERRERA-MOYA-ITALO"
+    },
+    {
+      "codigo": "20190405A",
+      "especialidad": "E3",
+      "nombre": "CABANILLAS-SANCHEZ-JHEFERSON JHONAYKERT"
+    },
+    {
+      "codigo": "20190404E",
+      "especialidad": "L1",
+      "nombre": "JUAN DE DIOS-CUBAS-ANDRE STEFANO"
+    },
+    {
+      "codigo": "20190403I",
+      "especialidad": "M5",
+      "nombre": "CARHUALLAY-ALMONACID-JOHN NICOLAS"
+    },
+    {
+      "codigo": "20190402B",
+      "especialidad": "Q1",
+      "nombre": "CATALÁN-JARA-EMMANUEL MAX LUCIO"
+    },
+    {
+      "codigo": "20190401F",
+      "especialidad": "P2",
+      "nombre": "YBARRA-GUIZADO-FERNANDO MIGUEL"
+    },
+    {
+      "codigo": "20190400J",
+      "especialidad": "A1",
+      "nombre": "APONTE-CHAVEZ-JUAN JOSE"
+    },
+    {
+      "codigo": "20190399A",
+      "especialidad": "G3",
+      "nombre": "ASTO-VILLANUEVA-CESAR ARMANDO"
+    },
+    {
+      "codigo": "20190398E",
+      "especialidad": "L1",
+      "nombre": "ORELLANA-SANTA CRUZ-JOAN CARLO"
+    },
+    {
+      "codigo": "20190397I",
+      "especialidad": "L1",
+      "nombre": "SILVA-JUICA-BLADIMIR IRVIN"
+    },
+    {
+      "codigo": "20190396B",
+      "especialidad": "M4",
+      "nombre": "QUISPE-HUACHANI-ABEL HERNAN ARMANDO"
+    },
+    {
+      "codigo": "20190395F",
+      "especialidad": "E3",
+      "nombre": "ORIHUELA-PORTA-CHRISTIAN ANTHONY"
+    },
+    {
+      "codigo": "20190394J",
+      "especialidad": "A1",
+      "nombre": "MENDOZA-QUISPE-ARIANA FRANCIS"
+    },
+    {
+      "codigo": "20190393C",
+      "especialidad": "G2",
+      "nombre": "GUTIERREZ-CARRION-HECTOR ELIAN"
+    },
+    {
+      "codigo": "20190392G",
+      "especialidad": "A1",
+      "nombre": "ORCOAPAZA-CALCINA-FRANZ EDISON"
+    },
+    {
+      "codigo": "20190391K",
+      "especialidad": "Q1",
+      "nombre": "VEGA-GUTIERREZ-MARGARITA KAREN"
+    },
+    {
+      "codigo": "20190390D",
+      "especialidad": "G2",
+      "nombre": "ALEJOS-ARRIETA-FREDO ANTONINO"
+    },
+    {
+      "codigo": "20190389F",
+      "especialidad": "S3",
+      "nombre": "BARRETO-GOÑI-JOHN HARRY"
+    },
+    {
+      "codigo": "20190388J",
+      "especialidad": "S1",
+      "nombre": "NAUCAPOMA-REYES-RODRIGO THOMAS"
+    },
+    {
+      "codigo": "20190387C",
+      "especialidad": "S3",
+      "nombre": "GAMEZ-RAMOS-LEANDRO JOSUE"
+    },
+    {
+      "codigo": "20190386G",
+      "especialidad": "S3",
+      "nombre": "ALACUTE-ROJAS-DANIEL SANTIAGO"
+    },
+    {
+      "codigo": "20190385K",
+      "especialidad": "G1",
+      "nombre": "ORE-VEGA-JHULISA"
+    },
+    {
+      "codigo": "20190384D",
+      "especialidad": "Q1",
+      "nombre": "FELIPA-RAMIREZ-IVETTE YAHAIRA"
+    },
+    {
+      "codigo": "20190383H",
+      "especialidad": "S2",
+      "nombre": "ORE-COCA-PIERO JOSE"
+    },
+    {
+      "codigo": "20190382A",
+      "especialidad": "Q1",
+      "nombre": "FLORES-SEDANO-JEAN CARLOS"
+    },
+    {
+      "codigo": "20190381E",
+      "especialidad": "N2",
+      "nombre": "ANCCO-CERDA-JHONATAN DANIEL"
+    },
+    {
+      "codigo": "20190380I",
+      "especialidad": "M4",
+      "nombre": "SOTO-GALINDO-JERICO JAIME"
+    },
+    {
+      "codigo": "20190379K",
+      "especialidad": "E1",
+      "nombre": "RAMIREZ-VASQUEZ-ANAYELI YOHANA"
+    },
+    {
+      "codigo": "20190378D",
+      "especialidad": "S3",
+      "nombre": "AGUSTIN-FALCON-MYRIAM JANETH"
+    },
+    {
+      "codigo": "20190377H",
+      "especialidad": "S2",
+      "nombre": "APAZA-COAQUIRA-KAREN MABEL"
+    },
+    {
+      "codigo": "20190376A",
+      "especialidad": "M4",
+      "nombre": "QUICHUA-SEDANO-AUGUSTO"
+    },
+    {
+      "codigo": "20190375E",
+      "especialidad": "S1",
+      "nombre": "CORONEL-MORE-EYSTEN BLAS"
+    },
+    {
+      "codigo": "20190374I",
+      "especialidad": "S3",
+      "nombre": "MATEO-MANTARI-PATRICK COLIN"
+    },
+    {
+      "codigo": "20190373B",
+      "especialidad": "S2",
+      "nombre": "SORIANO-VERGARA-AYAME NOELANI"
+    },
+    {
+      "codigo": "20190372F",
+      "especialidad": "L1",
+      "nombre": "PORTILLA-ZAVALA-LEONARDO ESTHEFANO"
+    },
+    {
+      "codigo": "20190371J",
+      "especialidad": "L1",
+      "nombre": "UBALDO-SANTIAGO-BROVET HAVEL"
+    },
+    {
+      "codigo": "20190370C",
+      "especialidad": "N1",
+      "nombre": "JAIME-HINOSTROZA-PIERO SEBÁSTIAN"
+    },
+    {
+      "codigo": "20190369E",
+      "especialidad": "G3",
+      "nombre": "ALVARADO-ZELAYA-JOSE ENRIQUE"
+    },
+    {
+      "codigo": "20190368I",
+      "especialidad": "M4",
+      "nombre": "YANA-ESTAÑA-YANDERY YOSHIZO"
+    },
+    {
+      "codigo": "20190367B",
+      "especialidad": "S3",
+      "nombre": "SOTO-PAULLO-JOSE LUIS"
+    },
+    {
+      "codigo": "20190366F",
+      "especialidad": "M4",
+      "nombre": "LOPEZ-OBEZO-VICTOR ANDRES"
+    },
+    {
+      "codigo": "20190365J",
+      "especialidad": "Q1",
+      "nombre": "RUIZ-MENESES-ADA LINDA"
+    },
+    {
+      "codigo": "20190364C",
+      "especialidad": "A1",
+      "nombre": "VILLAR-FERNANDEZ-JESUS ALBERTO"
+    },
+    {
+      "codigo": "20190363G",
+      "especialidad": "L3",
+      "nombre": "VELASQUEZ-CAMPOS-MARCO ANTONIO"
+    },
+    {
+      "codigo": "20190362K",
+      "especialidad": "M4",
+      "nombre": "ROJAS-ANTICONA-FAVIO TOMAS"
+    },
+    {
+      "codigo": "20190361D",
+      "especialidad": "L3",
+      "nombre": "SILVA-NÚÑEZ-JESÚS ALBERTO RAÍ"
+    },
+    {
+      "codigo": "20190360H",
+      "especialidad": "L3",
+      "nombre": "COTRINA-POLANCO-LEONARDO JHOEL"
+    },
+    {
+      "codigo": "20190359J",
+      "especialidad": "L3",
+      "nombre": "DIAZ-OSIS-RICHARD JHON"
+    },
+    {
+      "codigo": "20190358C",
+      "especialidad": "M4",
+      "nombre": "MAMANI-CARI-CHRISTIAN ALEJANDRO"
+    },
+    {
+      "codigo": "20190357G",
+      "especialidad": "L1",
+      "nombre": "BEDOYA-ROJAS-SEBASTIAN JESUS"
+    },
+    {
+      "codigo": "20190356K",
+      "especialidad": "M4",
+      "nombre": "MALPARTIDA-DE LA SOTA-RODRIGO GIANFRANCO"
+    },
+    {
+      "codigo": "20190355D",
+      "especialidad": "G1",
+      "nombre": "CERNA-MALLQUI-ELI"
+    },
+    {
+      "codigo": "20190354H",
+      "especialidad": "S1",
+      "nombre": "CAMPOS-MANTILLA-LUIS CARLOS"
+    },
+    {
+      "codigo": "20190353A",
+      "especialidad": "G1",
+      "nombre": "ROJAS-FLORES-JULIAN EDUARDO"
+    },
+    {
+      "codigo": "20190352E",
+      "especialidad": "G3",
+      "nombre": "ANDIA-ARTIAGA-RICARDO JOSUE"
+    },
+    {
+      "codigo": "20190351I",
+      "especialidad": "N1",
+      "nombre": "MAMANI-ULLOA-CLOTILDE MILAGROS"
+    },
+    {
+      "codigo": "20190350B",
+      "especialidad": "M4",
+      "nombre": "CAMARENA-CAMPOS-GERSON SMITH"
+    },
+    {
+      "codigo": "20190349D",
+      "especialidad": "A1",
+      "nombre": "RAICO-CHOQUE-FAVIO RENATO"
+    },
+    {
+      "codigo": "20190348H",
+      "especialidad": "Q1",
+      "nombre": "QUISPE-CASTRO-ENRIQUE HERNAN"
+    },
+    {
+      "codigo": "20190347A",
+      "especialidad": "Q1",
+      "nombre": "CORONEL-VENERO-JUAN JOSE"
+    },
+    {
+      "codigo": "20190346E",
+      "especialidad": "L3",
+      "nombre": "CARRANZA-PAREDES-ANTHONY DAVID"
+    },
+    {
+      "codigo": "20190345I",
+      "especialidad": "S3",
+      "nombre": "ORMEÑO-GAMARRA-JASON STEVEN"
+    },
+    {
+      "codigo": "20190344B",
+      "especialidad": "G3",
+      "nombre": "CARDENAS-JAIMES-MARCO ANTONIO"
+    },
+    {
+      "codigo": "20190343F",
+      "especialidad": "G1",
+      "nombre": "ORTIZ-ORTIZ-MANUEL ALEJANDRO"
+    },
+    {
+      "codigo": "20190342J",
+      "especialidad": "L1",
+      "nombre": "MARTINEZ-HUAMAN-ROBERTO CARLOS"
+    },
+    {
+      "codigo": "20190341C",
+      "especialidad": "Q1",
+      "nombre": "TORRES-PARE-MARIO ALBERTO"
+    },
+    {
+      "codigo": "20190340G",
+      "especialidad": "M5",
+      "nombre": "VEGA-TORRES-JOSE ALONSO"
+    },
+    {
+      "codigo": "20190339I",
+      "especialidad": "L3",
+      "nombre": "MALLQUI-ESTEBAN-GERSON"
+    },
+    {
+      "codigo": "20190338B",
+      "especialidad": "N1",
+      "nombre": "MONTES-TRUJILLO-NEHEMIAS GUILLERMO"
+    },
+    {
+      "codigo": "20190337F",
+      "especialidad": "Q1",
+      "nombre": "ESQUIVEL-PATRICIO-DEYSI"
+    },
+    {
+      "codigo": "20190336J",
+      "especialidad": "G1",
+      "nombre": "CHOCCA-TRUCIOS-EDISON ELMER"
+    },
+    {
+      "codigo": "20190335C",
+      "especialidad": "P2",
+      "nombre": "SALAZAR-RAMIREZ-BILLY KENETH"
+    },
+    {
+      "codigo": "20190334G",
+      "especialidad": "N1",
+      "nombre": "GUTIERREZ-MENACHO-SANDRA RAQUEL"
+    },
+    {
+      "codigo": "20190333K",
+      "especialidad": "G1",
+      "nombre": "CERNA-MEZA-NILVER NOENS"
+    },
+    {
+      "codigo": "20190332D",
+      "especialidad": "Q1",
+      "nombre": "CONDORI-QUISPE-BRYAN ANTHONY"
+    },
+    {
+      "codigo": "20190331H",
+      "especialidad": "E3",
+      "nombre": "MAGUIÑA-TICONA-RODRIGO ENRIQUE"
+    },
+    {
+      "codigo": "20190330A",
+      "especialidad": "G1",
+      "nombre": "LAINES-LUNA-MAURICIO ADHEMIR"
+    },
+    {
+      "codigo": "20190329C",
+      "especialidad": "G2",
+      "nombre": "GUZMAN-REQUENA-ELEU HENRY"
+    },
+    {
+      "codigo": "20190328G",
+      "especialidad": "L3",
+      "nombre": "CABANILLAS-ALAMO-DANIEL ENRIQUE"
+    },
+    {
+      "codigo": "20190327K",
+      "especialidad": "Q1",
+      "nombre": "JULCA-SILVA-BRAYAN ENRIQUE"
+    },
+    {
+      "codigo": "20190326D",
+      "especialidad": "M4",
+      "nombre": "ALIAGA-SENA-RICARDO RODRIGO"
+    },
+    {
+      "codigo": "20190325H",
+      "especialidad": "N2",
+      "nombre": "TERRONES-CACCHA-LEÓN ALONZO"
+    },
+    {
+      "codigo": "20190324A",
+      "especialidad": "L3",
+      "nombre": "HUAMANI-CHAUPIN-BRAYAN ANGEL"
+    },
+    {
+      "codigo": "20190323E",
+      "especialidad": "G3",
+      "nombre": "TORO-FUSTAMANTE-FRAN EDU"
+    },
+    {
+      "codigo": "20190322I",
+      "especialidad": "N2",
+      "nombre": "DELGADO-MURILLO-STEFANO ANDRÉ"
+    },
+    {
+      "codigo": "20190321B",
+      "especialidad": "M5",
+      "nombre": "ESPINOZA-HUERTA-BENJAMIN ALFRED LEONEL"
+    },
+    {
+      "codigo": "20190320F",
+      "especialidad": "L1",
+      "nombre": "VASQUEZ-LLANOS-GEORGE ARAMIS"
+    },
+    {
+      "codigo": "20190319H",
+      "especialidad": "A1",
+      "nombre": "CHURAMPI-MONTES-ROCIO ISABEL"
+    },
+    {
+      "codigo": "20190318A",
+      "especialidad": "L2",
+      "nombre": "TOSCANO-FERNANDEZ-NEIL"
+    },
+    {
+      "codigo": "20190317E",
+      "especialidad": "S3",
+      "nombre": "PFUÑO-HURTADO-MIRELLA"
+    },
+    {
+      "codigo": "20190316I",
+      "especialidad": "S1",
+      "nombre": "CAJAS-MONTERO-TAYLOR LUCIO"
+    },
+    {
+      "codigo": "20190315B",
+      "especialidad": "G3",
+      "nombre": "TICLLACURI-HUAMAN-EMERSON"
+    },
+    {
+      "codigo": "20190314F",
+      "especialidad": "I2",
+      "nombre": "HUAMAN-SANTAMARIA-FERNANDO ULISES"
+    },
+    {
+      "codigo": "20190313J",
+      "especialidad": "S3",
+      "nombre": "CUADROS-NEGRETE-ANDREA DEL CARMEN"
+    },
+    {
+      "codigo": "20190312C",
+      "especialidad": "G2",
+      "nombre": "VERASTEGUI-RAMIREZ-EDWIN DIEGO"
+    },
+    {
+      "codigo": "20190311G",
+      "especialidad": "A1",
+      "nombre": "ANTUNEZ-MEZA-ALEXANDER ABEL"
+    },
+    {
+      "codigo": "20190310K",
+      "especialidad": "N1",
+      "nombre": "ROMERO-ATAUCURI-RENZO EDUARDO"
+    },
+    {
+      "codigo": "20190309B",
+      "especialidad": "L3",
+      "nombre": "QUISPE-ALLCCA-DENIS AUGUSTO"
+    },
+    {
+      "codigo": "20190308F",
+      "especialidad": "M5",
+      "nombre": "MACAHUACHI-OSORIO-PATRICK KEANU"
+    },
+    {
+      "codigo": "20190307J",
+      "especialidad": "S3",
+      "nombre": "LLACCHUAS-PALOMINO-CRILIN NESIAS"
+    },
+    {
+      "codigo": "20190306C",
+      "especialidad": "L2",
+      "nombre": "RODRIGUEZ-DE LA ROCA-JULIO DANIEL"
+    },
+    {
+      "codigo": "20190305G",
+      "especialidad": "G2",
+      "nombre": "FERRE-CORONADO-ANGELA ZAYURI"
+    },
+    {
+      "codigo": "20190304K",
+      "especialidad": "S3",
+      "nombre": "MEZA-BACA-FABIOLA NADYA"
+    },
+    {
+      "codigo": "20190303D",
+      "especialidad": "L1",
+      "nombre": "VILA-ROMANI-JOSEF"
+    },
+    {
+      "codigo": "20190302H",
+      "especialidad": "M4",
+      "nombre": "SANTILLANA-GALICIO-LUIS FERNANDO CARLOS"
+    },
+    {
+      "codigo": "20190301A",
+      "especialidad": "L3",
+      "nombre": "FABIAN-ZUBIETA-ISRAEL"
+    },
+    {
+      "codigo": "20190300E",
+      "especialidad": "I2",
+      "nombre": "MARTINEZ-BARRIENTOS-JOSE LUIS"
+    },
+    {
+      "codigo": "20190299G",
+      "especialidad": "M3",
+      "nombre": "ORTIZ-GARCIA-JOSE CARLOS"
+    },
+    {
+      "codigo": "20190298K",
+      "especialidad": "Q1",
+      "nombre": "TERREROS-MOSQUERA-WELLINGTON RICARDO"
+    },
+    {
+      "codigo": "20190297D",
+      "especialidad": "I2",
+      "nombre": "VILLANUEVA-ZUÑIGA-CHRISTOPHER JHOSUE"
+    },
+    {
+      "codigo": "20190296H",
+      "especialidad": "M3",
+      "nombre": "CAUPER-VIDAL-HANS ANDERSON"
+    },
+    {
+      "codigo": "20190295A",
+      "especialidad": "E1",
+      "nombre": "BUENO-GARCIA-KEVIN GIOVANNI"
+    },
+    {
+      "codigo": "20190294E",
+      "especialidad": "M5",
+      "nombre": "GONZALES-VILLAR-JESUS ROBERTO"
+    },
+    {
+      "codigo": "20190293I",
+      "especialidad": "M3",
+      "nombre": "LEVANO-APARI-ALDO CESAR"
+    },
+    {
+      "codigo": "20190292B",
+      "especialidad": "I2",
+      "nombre": "MATTA-MENDOZA-GONZALO JESUS"
+    },
+    {
+      "codigo": "20190291F",
+      "especialidad": "I2",
+      "nombre": "MACHACA-MAMANI-LUIS ALBERTO"
+    },
+    {
+      "codigo": "20190290J",
+      "especialidad": "L2",
+      "nombre": "RAMOS-PEREZ-JOSSEF ERICK"
+    },
+    {
+      "codigo": "20190289A",
+      "especialidad": "I2",
+      "nombre": "YUPANQUI-PELAEZ-ANDRES FRANCISCO"
+    },
+    {
+      "codigo": "20190288E",
+      "especialidad": "L1",
+      "nombre": "ESPINOZA-GUERRERO-BRANDO CARMELO"
+    },
+    {
+      "codigo": "20190287I",
+      "especialidad": "L2",
+      "nombre": "SALCEDO-PEÑA-ALEXANDER"
+    },
+    {
+      "codigo": "20190286B",
+      "especialidad": "G2",
+      "nombre": "CHALLCO-TAYPE-JOSE"
+    },
+    {
+      "codigo": "20190285F",
+      "especialidad": "S3",
+      "nombre": "JURO-DE LA CRUZ-AARON JAIR"
+    },
+    {
+      "codigo": "20190284J",
+      "especialidad": "S3",
+      "nombre": "CERNA-RAMIREZ-LUIS VALERIO"
+    },
+    {
+      "codigo": "20190283C",
+      "especialidad": "M3",
+      "nombre": "ZAVALETA-REYES-EDSON ANGELO"
+    },
+    {
+      "codigo": "20190282G",
+      "especialidad": "N5",
+      "nombre": "SALVATIERRA-AREVALO-POOL LENNIN"
+    },
+    {
+      "codigo": "20190281K",
+      "especialidad": "I2",
+      "nombre": "VALENZUELA-CARHUANCHO-JONATHAN RICH"
+    },
+    {
+      "codigo": "20190280D",
+      "especialidad": "I2",
+      "nombre": "MENDOZA-ROJAS-FRANK GERARDO"
+    },
+    {
+      "codigo": "20190279F",
+      "especialidad": "L1",
+      "nombre": "QUISPE-POMAHUACRE-VICTOR ALBERTO"
+    },
+    {
+      "codigo": "20190278J",
+      "especialidad": "N1",
+      "nombre": "REJAS-MORALES-MAURICIO ALONZO"
+    },
+    {
+      "codigo": "20190277C",
+      "especialidad": "I2",
+      "nombre": "ARANGO-NUÑEZ-CARLOS ALBERTO"
+    },
+    {
+      "codigo": "20190276G",
+      "especialidad": "G3",
+      "nombre": "ALBORNOZ-PADILLA-JOSUE NEHEMIAS"
+    },
+    {
+      "codigo": "20190275K",
+      "especialidad": "M4",
+      "nombre": "DE LA CRUZ-CORTES-ALEX"
+    },
+    {
+      "codigo": "20190274D",
+      "especialidad": "G3",
+      "nombre": "HUISA-HUARACHI-ROYER"
+    },
+    {
+      "codigo": "20190273H",
+      "especialidad": "I2",
+      "nombre": "PFUÑO-QUISPE-JOSE MANUEL"
+    },
+    {
+      "codigo": "20190272A",
+      "especialidad": "I2",
+      "nombre": "HUACO-OLIVA-LUIS ALONSO"
+    },
+    {
+      "codigo": "20190271E",
+      "especialidad": "I2",
+      "nombre": "AGUILAR-CHUMPITAZ-JEANPIERRE MARCO ANTONIO"
+    },
+    {
+      "codigo": "20190270I",
+      "especialidad": "L2",
+      "nombre": "RIMARACHIN-MONTESINOS-LESLIE ALEXANDRA"
+    },
+    {
+      "codigo": "20190269K",
+      "especialidad": "M3",
+      "nombre": "JULCA-GUTIERREZ-JAIR ALEXIS"
+    },
+    {
+      "codigo": "20190268D",
+      "especialidad": "L3",
+      "nombre": "NEIRA-SOLANO-JEREMIAS HABACUC"
+    },
+    {
+      "codigo": "20190267H",
+      "especialidad": "I2",
+      "nombre": "CALLUPE-PARDO-YOSELYN PATRICIA"
+    },
+    {
+      "codigo": "20190266A",
+      "especialidad": "L1",
+      "nombre": "GUZMAN-CALDERON-RICARDO FRANCISCO"
+    },
+    {
+      "codigo": "20190265E",
+      "especialidad": "I2",
+      "nombre": "EUSTAQUIO-GASPAR-VANESSA MILAGROS"
+    },
+    {
+      "codigo": "20190264I",
+      "especialidad": "M3",
+      "nombre": "ESCALANTE-PANIQUE-MILKO WILLIAM"
+    },
+    {
+      "codigo": "20190263B",
+      "especialidad": "G1",
+      "nombre": "CURACACHI-TORRES-JHAYRO MOISES"
+    },
+    {
+      "codigo": "20190262F",
+      "especialidad": "L3",
+      "nombre": "VEGA-CASTRO-ABRAHAM MIKHAIL"
+    },
+    {
+      "codigo": "20190261J",
+      "especialidad": "I2",
+      "nombre": "HUAMANÑAUPA-DIAZ-HEBERT JOEL"
+    },
+    {
+      "codigo": "20190260C",
+      "especialidad": "Q1",
+      "nombre": "NIETO-BENAVENTE-LADY BRIGITE"
+    },
+    {
+      "codigo": "20190259E",
+      "especialidad": "M4",
+      "nombre": "TOMY-GUTIERREZ-CONSTANTINO"
+    },
+    {
+      "codigo": "20190258I",
+      "especialidad": "G3",
+      "nombre": "YURIVILCA-RODRIGUEZ-MARIN ALVARO"
+    },
+    {
+      "codigo": "20190257B",
+      "especialidad": "L1",
+      "nombre": "TACILLA-GORMAZ-ADRIAN PELAYO"
+    },
+    {
+      "codigo": "20190256F",
+      "especialidad": "E1",
+      "nombre": "PATALA-PALACIO-JORGE LUIS"
+    },
+    {
+      "codigo": "20190255J",
+      "especialidad": "M4",
+      "nombre": "RAMOS-VILLANUEVA-LUIGUI ALBERTO"
+    },
+    {
+      "codigo": "20190254C",
+      "especialidad": "I2",
+      "nombre": "CONTRERAS-CHALLCO-VICTOR ANGEL"
+    },
+    {
+      "codigo": "20190253G",
+      "especialidad": "G1",
+      "nombre": "PORTELLA-NINA-FRANCO VINCENZO"
+    },
+    {
+      "codigo": "20190252K",
+      "especialidad": "S3",
+      "nombre": "HUARANGA-CANAZA-ALVARO GERSON"
+    },
+    {
+      "codigo": "20190251D",
+      "especialidad": "L3",
+      "nombre": "SANCHEZ-URBANO-SAUL VALERIO"
+    },
+    {
+      "codigo": "20190250H",
+      "especialidad": "G1",
+      "nombre": "MUÑOZ-RAFAEL-JOSE ANGEL"
+    },
+    {
+      "codigo": "20190249J",
+      "especialidad": "Q1",
+      "nombre": "CALLA-TICLLA-GEAN POOL EUGENIO"
+    },
+    {
+      "codigo": "20190248C",
+      "especialidad": "M4",
+      "nombre": "ROJAS-RIVERA-JOSEP ARTURO"
+    },
+    {
+      "codigo": "20190247G",
+      "especialidad": "L1",
+      "nombre": "QUISPE-SANCHEZ-JEAN POOL"
+    },
+    {
+      "codigo": "20190246K",
+      "especialidad": "M4",
+      "nombre": "PEÑA-AQUINO-JAVIER VLADIMIR"
+    },
+    {
+      "codigo": "20190245D",
+      "especialidad": "M3",
+      "nombre": "BONILLA-SAMANDER-JORGE ORLANDO"
+    },
+    {
+      "codigo": "20190244H",
+      "especialidad": "I2",
+      "nombre": "TRAVEZAÑO-ROJAS-SAUL WILBOR"
+    },
+    {
+      "codigo": "20190243A",
+      "especialidad": "Q1",
+      "nombre": "MEJIA-MONTENEGRO-EVERTH DANIEL"
+    },
+    {
+      "codigo": "20190242E",
+      "especialidad": "A1",
+      "nombre": "YNCA-ASENJO-TANIA BERENICE"
+    },
+    {
+      "codigo": "20190241I",
+      "especialidad": "M4",
+      "nombre": "MAXDEO-QUINCHO-WILLIAM ALEXANDER"
+    },
+    {
+      "codigo": "20190240B",
+      "especialidad": "L3",
+      "nombre": "HERRERA-CUEVA-FREDDY JESUS"
+    },
+    {
+      "codigo": "20190239D",
+      "especialidad": "S1",
+      "nombre": "JIMENEZ-JIMENEZ-FERNANDO JESUS"
+    },
+    {
+      "codigo": "20190238H",
+      "especialidad": "L1",
+      "nombre": "SOLANO-VEGA-LUIS JANS"
+    },
+    {
+      "codigo": "20190237A",
+      "especialidad": "L3",
+      "nombre": "MENDOZA-GOMEZ-RAUL"
+    },
+    {
+      "codigo": "20190236E",
+      "especialidad": "N2",
+      "nombre": "LOPEZ-DEL RIO-THONNY JEFF"
+    },
+    {
+      "codigo": "20190235I",
+      "especialidad": "L2",
+      "nombre": "SORIA-PINEDO-FRANCK DAVID"
+    },
+    {
+      "codigo": "20190234B",
+      "especialidad": "G3",
+      "nombre": "LAZARTE-AREVALO-HAROLD THOMAS"
+    },
+    {
+      "codigo": "20190233F",
+      "especialidad": "L1",
+      "nombre": "MEJÍA-GAMARRA-SEBASTIAN ANDRÉ"
+    },
+    {
+      "codigo": "20190232J",
+      "especialidad": "L2",
+      "nombre": "GUTIERREZ-CHIARA-GENGIS RAFAEL"
+    },
+    {
+      "codigo": "20190231C",
+      "especialidad": "G1",
+      "nombre": "LISARAZO-ORTIZ-JEAN ANDREW"
+    },
+    {
+      "codigo": "20190230G",
+      "especialidad": "N6",
+      "nombre": "RUBIN-SANTIAGO-ANIVAL"
+    },
+    {
+      "codigo": "20190229I",
+      "especialidad": "M4",
+      "nombre": "ALEMÁN-RAMIREZ-HAROLD ALONSO"
+    },
+    {
+      "codigo": "20190228B",
+      "especialidad": "Q1",
+      "nombre": "AGUILAR-PILLACA-ANTHONY SEBASTIAN"
+    },
+    {
+      "codigo": "20190227F",
+      "especialidad": "I2",
+      "nombre": "HINOJOSA-MONTERO-PIERO ANTHONY"
+    },
+    {
+      "codigo": "20190226J",
+      "especialidad": "L2",
+      "nombre": "AÑASCO-GUTIERREZ-MICHAEL TRUMAN"
+    },
+    {
+      "codigo": "20190225C",
+      "especialidad": "L2",
+      "nombre": "CAPCHA-CAMPOS-HIMBLER RENATO"
+    },
+    {
+      "codigo": "20190224G",
+      "especialidad": "I2",
+      "nombre": "DE LA CRUZ-ANTAY-ADRIAN AVELINO"
+    },
+    {
+      "codigo": "20190223K",
+      "especialidad": "I2",
+      "nombre": "SEDANO-PORTA-JEFFERSON EDU"
+    },
+    {
+      "codigo": "20190222D",
+      "especialidad": "M3",
+      "nombre": "ANGELES-CASTRO-JOSEPH GIANCARLO"
+    },
+    {
+      "codigo": "20190221H",
+      "especialidad": "S2",
+      "nombre": "MORALES-MAMANI-VALERIA ELENA"
+    },
+    {
+      "codigo": "20190220A",
+      "especialidad": "M5",
+      "nombre": "HERRERA-JIMENEZ-JEAN PAUL DANIEL"
+    },
+    {
+      "codigo": "20190219C",
+      "especialidad": "S3",
+      "nombre": "GARAY-VALVERDE-JEAN PIER SORIANO"
+    },
+    {
+      "codigo": "20190218G",
+      "especialidad": "S1",
+      "nombre": "FERNANDEZ-VARGAS-HAROL JOSEPH"
+    },
+    {
+      "codigo": "20190217K",
+      "especialidad": "G2",
+      "nombre": "ASTECKER-TAFUR-MARK RONALD"
+    },
+    {
+      "codigo": "20190216D",
+      "especialidad": "L3",
+      "nombre": "VALLE-ZAPATA-PIERO ALESSANDRO"
+    },
+    {
+      "codigo": "20190215H",
+      "especialidad": "M3",
+      "nombre": "CALERO-ALVA-DIEGO FERNANDO"
+    },
+    {
+      "codigo": "20190214A",
+      "especialidad": "G1",
+      "nombre": "MUÑOZ-TADEO-LEILITH EDITH"
+    },
+    {
+      "codigo": "20190213E",
+      "especialidad": "M6",
+      "nombre": "CLAUDIO-JACINTO-JEAN ANDERSON"
+    },
+    {
+      "codigo": "20190212I",
+      "especialidad": "G3",
+      "nombre": "PEREZ-GUIA-RENATO PAOLO STEVEEN"
+    },
+    {
+      "codigo": "20190211B",
+      "especialidad": "M6",
+      "nombre": "POZO-CISNEROS-VÍCTOR ANDRÉ NÉEL"
+    },
+    {
+      "codigo": "20190210F",
+      "especialidad": "M3",
+      "nombre": "LOZANO-ROMERO-AYRTON JUNIOR"
+    },
+    {
+      "codigo": "20190209H",
+      "especialidad": "M3",
+      "nombre": "HUATAY-CASAS-CESAR ANTHONY"
+    },
+    {
+      "codigo": "20190208A",
+      "especialidad": "L2",
+      "nombre": "TORERO-SORALUZ-MARCOS JAHIMI"
+    },
+    {
+      "codigo": "20190207E",
+      "especialidad": "L3",
+      "nombre": "ESPEJO-CONCHA-POOL ALBERTO"
+    },
+    {
+      "codigo": "20190206I",
+      "especialidad": "C1",
+      "nombre": "ARAOS-SILVA-CRISTIAN MANUEL"
+    },
+    {
+      "codigo": "20190205B",
+      "especialidad": "C1",
+      "nombre": "DE LA CRUZ-FLORES-EDISON ALEX"
+    },
+    {
+      "codigo": "20190204F",
+      "especialidad": "M3",
+      "nombre": "VARGAS-PAZ-JOSE MANUEL"
+    },
+    {
+      "codigo": "20190203J",
+      "especialidad": "L1",
+      "nombre": "RIVERA-VITATE-DENIS RIVALDO"
+    },
+    {
+      "codigo": "20190202C",
+      "especialidad": "C1",
+      "nombre": "MORI-LOPEZ-WILLIAM JOHEL"
+    },
+    {
+      "codigo": "20190201G",
+      "especialidad": "M3",
+      "nombre": "YNSIL-ALFARO-JUAN EDUARDO"
+    },
+    {
+      "codigo": "20190200K",
+      "especialidad": "Q1",
+      "nombre": "MENDOZA-OBREGON-GUSTAVO ALONSO"
+    },
+    {
+      "codigo": "20190199B",
+      "especialidad": "I1",
+      "nombre": "VILLANUEVA-ALBORNOZ-ANGEL ANTONIO"
+    },
+    {
+      "codigo": "20190198F",
+      "especialidad": "C1",
+      "nombre": "PASCUAL-SANCHEZ-ANTHONY ROBERT"
+    },
+    {
+      "codigo": "20190197J",
+      "especialidad": "N1",
+      "nombre": "MENDIZABAL-BOZA-PEDRO DAVID GONZALO"
+    },
+    {
+      "codigo": "20190196C",
+      "especialidad": "C1",
+      "nombre": "SOLIS-VALDIVIEZO-KEVIN ESTEFANO"
+    },
+    {
+      "codigo": "20190195G",
+      "especialidad": "M4",
+      "nombre": "SAAVEDRA-ESCALANTE-AMADOR YIMMI"
+    },
+    {
+      "codigo": "20190194K",
+      "especialidad": "C1",
+      "nombre": "ALVARADO-SANTILLAN-CHRISTIAN PAOLO"
+    },
+    {
+      "codigo": "20190193D",
+      "especialidad": "L1",
+      "nombre": "TAIPE-AGUILAR-DAVID JONATHAN"
+    },
+    {
+      "codigo": "20190192H",
+      "especialidad": "G1",
+      "nombre": "ESPINOZA-QUIÑONES-CRISTIAN LUIS"
+    },
+    {
+      "codigo": "20190191A",
+      "especialidad": "C1",
+      "nombre": "SORIA-ALARCON-ROUSE FELICITAS"
+    },
+    {
+      "codigo": "20190190E",
+      "especialidad": "G3",
+      "nombre": "MONTOYA-MENDOZA-SEBASTIAN EMILIO"
+    },
+    {
+      "codigo": "20190189G",
+      "especialidad": "M3",
+      "nombre": "GIL-LAGUNA-GIANCARLO BRYAN"
+    },
+    {
+      "codigo": "20190188K",
+      "especialidad": "M4",
+      "nombre": "MENDOZA-PINEDO-CESAR AUGUSTO"
+    },
+    {
+      "codigo": "20190187D",
+      "especialidad": "I2",
+      "nombre": "CHAMPI-YAULI-DAVID SEBASTIAN KALEB"
+    },
+    {
+      "codigo": "20190186H",
+      "especialidad": "I1",
+      "nombre": "GUILLERMO-ZARATE-JEAN PAUL"
+    },
+    {
+      "codigo": "20190185A",
+      "especialidad": "C1",
+      "nombre": "ESPINOZA-ANCCASI-VLADIMIR"
+    },
+    {
+      "codigo": "20190184E",
+      "especialidad": "I1",
+      "nombre": "VARGAS-CADILLO-EDUARDO IVO"
+    },
+    {
+      "codigo": "20190183I",
+      "especialidad": "I2",
+      "nombre": "NAVACH-VALDERRAMA-GONZALO ANDRES"
+    },
+    {
+      "codigo": "20190182B",
+      "especialidad": "I2",
+      "nombre": "VALENTIN-BARRETO-GIANELLA FIORELA"
+    },
+    {
+      "codigo": "20190181F",
+      "especialidad": "G3",
+      "nombre": "JAUREGUI-HERVAS-JULIO MARTÍN"
+    },
+    {
+      "codigo": "20190180J",
+      "especialidad": "C1",
+      "nombre": "HURTADO-ACERO-JAIME JUNIOR"
+    },
+    {
+      "codigo": "20190179A",
+      "especialidad": "C1",
+      "nombre": "SOTO-ACEVEDO-CLINDER"
+    },
+    {
+      "codigo": "20190178E",
+      "especialidad": "C1",
+      "nombre": "LEON-CALDERON-OWEN XNOSVILLE"
+    },
+    {
+      "codigo": "20190177I",
+      "especialidad": "C1",
+      "nombre": "REYES-AMPUERO-LUIS KEVIN"
+    },
+    {
+      "codigo": "20190176B",
+      "especialidad": "C1",
+      "nombre": "URQUIZO-FLORES-GUSTAVO ANDRES"
+    },
+    {
+      "codigo": "20190175F",
+      "especialidad": "L2",
+      "nombre": "QUIJANO-MENDOZA-JUNIOR ROJAS"
+    },
+    {
+      "codigo": "20190174J",
+      "especialidad": "C1",
+      "nombre": "YLLANES-QUISPE-JUAN PABLO"
+    },
+    {
+      "codigo": "20190173C",
+      "especialidad": "I1",
+      "nombre": "CUNO-CONDORI-KENET SMITH"
+    },
+    {
+      "codigo": "20190172G",
+      "especialidad": "M3",
+      "nombre": "CASTRO-FRETEL-FRANK JOSUÉ"
+    },
+    {
+      "codigo": "20190171K",
+      "especialidad": "C1",
+      "nombre": "HUAMANTUMA-PONCE-JUAN MICHEL"
+    },
+    {
+      "codigo": "20190170D",
+      "especialidad": "Q1",
+      "nombre": "ENRIQUEZ-ARREDONDO-JERSON MIGUEL"
+    },
+    {
+      "codigo": "20190169F",
+      "especialidad": "C1",
+      "nombre": "QUISPE-MOSCOSO-ALDO"
+    },
+    {
+      "codigo": "20190168J",
+      "especialidad": "S3",
+      "nombre": "ROJAS-ANGULO-DYANNA BETZABETH"
+    },
+    {
+      "codigo": "20190167C",
+      "especialidad": "L3",
+      "nombre": "LLAGAS-SHICCHI-ALEJANDRO MANUEL"
+    },
+    {
+      "codigo": "20190166G",
+      "especialidad": "C1",
+      "nombre": "SANTIAGO-LIRA-ALEXIS FERNANDO"
+    },
+    {
+      "codigo": "20190165K",
+      "especialidad": "I1",
+      "nombre": "QUISPE-FERNANDEZ-JESUS DANIEL"
+    },
+    {
+      "codigo": "20190164D",
+      "especialidad": "M3",
+      "nombre": "TADEO-SANDOVAL-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20190163H",
+      "especialidad": "L2",
+      "nombre": "ACUÑA-PROLEON-JHOJAN ALEJANDRO"
+    },
+    {
+      "codigo": "20190162A",
+      "especialidad": "C1",
+      "nombre": "RIVERA-CCACCACHAHUA-MIGUEL ANGEL ENRIQUE"
+    },
+    {
+      "codigo": "20190161E",
+      "especialidad": "G3",
+      "nombre": "OLIVERA-RIVERA-JORGE LUIS"
+    },
+    {
+      "codigo": "20190160I",
+      "especialidad": "M3",
+      "nombre": "TINOCO-HUAYLLAQUISPE-DIEGO VALENTIN"
+    },
+    {
+      "codigo": "20190159K",
+      "especialidad": "C1",
+      "nombre": "DE LA CRUZ-ROMERO-LIDIA DEL ROSARIO"
+    },
+    {
+      "codigo": "20190158D",
+      "especialidad": "C1",
+      "nombre": "MARTINEZ-LLERENA-MARIELLA YANNET"
+    },
+    {
+      "codigo": "20190157H",
+      "especialidad": "C1",
+      "nombre": "OSORIO-RAMON-CARLOS DANIEL"
+    },
+    {
+      "codigo": "20190156A",
+      "especialidad": "L3",
+      "nombre": "SUAREZ-PAREDES-RENZO GUSTAVO"
+    },
+    {
+      "codigo": "20190155E",
+      "especialidad": "S3",
+      "nombre": "GRANDES-CONQUI-SEBASTIAN ANDRE"
+    },
+    {
+      "codigo": "20190154I",
+      "especialidad": "I1",
+      "nombre": "TITO-CARDENAS-KENDY ANTHONY"
+    },
+    {
+      "codigo": "20190153B",
+      "especialidad": "C1",
+      "nombre": "SOTO-VASQUEZ-ELMER ANDRES ELSO"
+    },
+    {
+      "codigo": "20190152F",
+      "especialidad": "C1",
+      "nombre": "SULCA-LOAYZA-CARLOS DAVID"
+    },
+    {
+      "codigo": "20190151J",
+      "especialidad": "L2",
+      "nombre": "CÁCERES-BOTTONI-EDUARDO DANTE"
+    },
+    {
+      "codigo": "20190150C",
+      "especialidad": "M6",
+      "nombre": "CAINICELA-AQUINO-GERALD BRANDI"
+    },
+    {
+      "codigo": "20190149E",
+      "especialidad": "M6",
+      "nombre": "ULLOA-VEGA-RICARDO ANDRE"
+    },
+    {
+      "codigo": "20190148I",
+      "especialidad": "M6",
+      "nombre": "CASTRO-POVIS-LEONARDO DANTE"
+    },
+    {
+      "codigo": "20190147B",
+      "especialidad": "M6",
+      "nombre": "CULLI-ECHEGARAY-KENETH LYN"
+    },
+    {
+      "codigo": "20190146F",
+      "especialidad": "S3",
+      "nombre": "CLEMENTE-RENGIFO-KARINA NADIR"
+    },
+    {
+      "codigo": "20190145J",
+      "especialidad": "L2",
+      "nombre": "EUGENIO-CONDEZO-SEGUNDO"
+    },
+    {
+      "codigo": "20190144C",
+      "especialidad": "C1",
+      "nombre": "ROJAS-LAIME-JONATAN OBED"
+    },
+    {
+      "codigo": "20190143G",
+      "especialidad": "I1",
+      "nombre": "HARO-AMASIFUEN-LUIS EDUARDO"
+    },
+    {
+      "codigo": "20190142K",
+      "especialidad": "C1",
+      "nombre": "BRICEÑO-MENDOZA-FERNANDO ALONSO"
+    },
+    {
+      "codigo": "20190141D",
+      "especialidad": "M3",
+      "nombre": "PEREZ-SALVATIERRA-EDUARDO ENRIQUE"
+    },
+    {
+      "codigo": "20190140H",
+      "especialidad": "C1",
+      "nombre": "GIRALDO-ARNAO-CARLOS ANDRES"
+    },
+    {
+      "codigo": "20190139J",
+      "especialidad": "M4",
+      "nombre": "JURADO-PAUCAR-GERARDO SANTIAGO"
+    },
+    {
+      "codigo": "20190138C",
+      "especialidad": "M6",
+      "nombre": "CRUZ-AGUILAR-YERISER"
+    },
+    {
+      "codigo": "20190137G",
+      "especialidad": "C1",
+      "nombre": "CHALCO-CRUZZATT-JUAN MANUEL JUNIOR"
+    },
+    {
+      "codigo": "20190136K",
+      "especialidad": "I2",
+      "nombre": "GARCIA-CASIQUE-MIGUEL ANGEL"
+    },
+    {
+      "codigo": "20190135D",
+      "especialidad": "L3",
+      "nombre": "CANAHUA-CHOQUEZA-DARWIN LEONEL"
+    },
+    {
+      "codigo": "20190134H",
+      "especialidad": "M3",
+      "nombre": "VARGAS-ANCHAYHUA-CHRISTIAN GABRIEL"
+    },
+    {
+      "codigo": "20190133A",
+      "especialidad": "I1",
+      "nombre": "BARROS-CHAVEZ-GIULIANO ALONSO"
+    },
+    {
+      "codigo": "20190132E",
+      "especialidad": "M3",
+      "nombre": "MORALES-CORDOVA-RENZO ALEXANDER"
+    },
+    {
+      "codigo": "20190131I",
+      "especialidad": "M5",
+      "nombre": "TENORIO-ZUÑIGA-MAURICE ANTONIO"
+    },
+    {
+      "codigo": "20190130B",
+      "especialidad": "I2",
+      "nombre": "ANTEZANA-YANA-JHAN RONALDO"
+    },
+    {
+      "codigo": "20190129D",
+      "especialidad": "M6",
+      "nombre": "PEREZ-JAVIER-JULIO CESAR"
+    },
+    {
+      "codigo": "20190128H",
+      "especialidad": "L2",
+      "nombre": "GHIGGO-DE LA CRUZ-VICTOR BENJAMIN"
+    },
+    {
+      "codigo": "20190127A",
+      "especialidad": "L3",
+      "nombre": "MUNAYLLA-AGUIRRE-BRECHMAN"
+    },
+    {
+      "codigo": "20190126E",
+      "especialidad": "C1",
+      "nombre": "INFANTES-DELGADO-MATHEWS OSWALDO"
+    },
+    {
+      "codigo": "20190125I",
+      "especialidad": "I2",
+      "nombre": "LEON-FRANCIA-DIEGO LEANDRO"
+    },
+    {
+      "codigo": "20190124B",
+      "especialidad": "I2",
+      "nombre": "CARCASI-TICLAHUANCA-RONALD DANIEL"
+    },
+    {
+      "codigo": "20190123F",
+      "especialidad": "I1",
+      "nombre": "ORCCOTOMA-MEJIA-ALVARO NEICER"
+    },
+    {
+      "codigo": "20190122J",
+      "especialidad": "M6",
+      "nombre": "VALENCIA-SALCEDO-NOE ANDRE"
+    },
+    {
+      "codigo": "20190121C",
+      "especialidad": "I2",
+      "nombre": "CISNEROS-FLORES-CHRISTIAN YSRAEL"
+    },
+    {
+      "codigo": "20190120G",
+      "especialidad": "N1",
+      "nombre": "ARCOS-AMAO-MARCO RAFAEL"
+    },
+    {
+      "codigo": "20190119I",
+      "especialidad": "C1",
+      "nombre": "ALVAREZ-CHANCAN-DAYANNA KAIREL"
+    },
+    {
+      "codigo": "20190118B",
+      "especialidad": "C1",
+      "nombre": "NUÑEZ-LI-GARY EDUARDO"
+    },
+    {
+      "codigo": "20190117F",
+      "especialidad": "I2",
+      "nombre": "DIESTRA-LOPES-SAN ANTONIO"
+    },
+    {
+      "codigo": "20190116J",
+      "especialidad": "I1",
+      "nombre": "QUISPE-JARA-EDWIN AQUINO"
+    },
+    {
+      "codigo": "20190115C",
+      "especialidad": "I1",
+      "nombre": "HUILLCA-OSCCO-NOE RAFAEL"
+    },
+    {
+      "codigo": "20190114G",
+      "especialidad": "N6",
+      "nombre": "ESTRADA-CANTARO-PIERO AYRTON"
+    },
+    {
+      "codigo": "20190113K",
+      "especialidad": "L3",
+      "nombre": "ROSALES-APCHO-NAZER ARMANDO"
+    },
+    {
+      "codigo": "20190112D",
+      "especialidad": "L1",
+      "nombre": "SIMON-CONDEZO-JAMES PAOLO"
+    },
+    {
+      "codigo": "20190111H",
+      "especialidad": "M4",
+      "nombre": "RUPAY-CAMPOS-GIANPIERRE JESUS"
+    },
+    {
+      "codigo": "20190110A",
+      "especialidad": "L2",
+      "nombre": "CASARIEGO-ENRIQUEZ-RENZO RAUL"
+    },
+    {
+      "codigo": "20190109C",
+      "especialidad": "C1",
+      "nombre": "LLIUYA-MANRIQUE-VICTOR MOISES"
+    },
+    {
+      "codigo": "20190108G",
+      "especialidad": "I1",
+      "nombre": "RAMIREZ-RAMIREZ-ROGER MARCELO"
+    },
+    {
+      "codigo": "20190107K",
+      "especialidad": "C1",
+      "nombre": "VELI-CHERO-JOSE RICARDO"
+    },
+    {
+      "codigo": "20190106D",
+      "especialidad": "C1",
+      "nombre": "RAMIREZ-ESTEBAN-ERICK WILFREDO"
+    },
+    {
+      "codigo": "20190105H",
+      "especialidad": "I1",
+      "nombre": "CAMPOS-DAVALOS-JUAN OSCAR WILFREDO"
+    },
+    {
+      "codigo": "20190104A",
+      "especialidad": "C1",
+      "nombre": "NATIVIDAD-PANCORBO-BRUSS ERNETZ"
+    },
+    {
+      "codigo": "20190103E",
+      "especialidad": "M4",
+      "nombre": "CUSQUISIBAN-PEREZ-RONALD"
+    },
+    {
+      "codigo": "20190102I",
+      "especialidad": "C1",
+      "nombre": "QUISPE-ORIHUELA-DAVID ALONSO"
+    },
+    {
+      "codigo": "20190101B",
+      "especialidad": "C1",
+      "nombre": "OTINIANO-CALIXTO-EMERSON"
+    },
+    {
+      "codigo": "20190100F",
+      "especialidad": "I1",
+      "nombre": "PARI-DIAZ-JHEREMY CKELVIN"
+    },
+    {
+      "codigo": "20190099H",
+      "especialidad": "M3",
+      "nombre": "GARCIA-SALINAS-ELIAN FRANCISCO"
+    },
+    {
+      "codigo": "20190098A",
+      "especialidad": "C1",
+      "nombre": "QUISPE-HILARIO-ALDAIR ANTONY"
+    },
+    {
+      "codigo": "20190097E",
+      "especialidad": "C1",
+      "nombre": "CHUQUILLANQUI-DIAZ-JESUS JOAQUIN"
+    },
+    {
+      "codigo": "20190096I",
+      "especialidad": "I1",
+      "nombre": "GIRAL-ONTON-LUIS EDUARDO"
+    },
+    {
+      "codigo": "20190095B",
+      "especialidad": "C1",
+      "nombre": "COTACHE-ROJAS-FRANZ BRAYAN"
+    },
+    {
+      "codigo": "20190094F",
+      "especialidad": "C1",
+      "nombre": "CRISOSTOMO-OLIVARES-PEDRO BERGHER"
+    },
+    {
+      "codigo": "20190093J",
+      "especialidad": "I1",
+      "nombre": "LINO-SOTA-ALVARO MARTIN"
+    },
+    {
+      "codigo": "20190092C",
+      "especialidad": "I2",
+      "nombre": "MENDOZA-PEREZ-JACK MATIAS"
+    },
+    {
+      "codigo": "20190091G",
+      "especialidad": "E1",
+      "nombre": "HILARES-MIYASATO-MINORU DOMINIQUE"
+    },
+    {
+      "codigo": "20190090K",
+      "especialidad": "C1",
+      "nombre": "MARIN-AQUINO-AXEL EDUARDO"
+    },
+    {
+      "codigo": "20190089B",
+      "especialidad": "C1",
+      "nombre": "CIERTO-TORRE-MARX ALEXANDER"
+    },
+    {
+      "codigo": "20190088F",
+      "especialidad": "M3",
+      "nombre": "ROJAS-LIVIA-MANUEL ANIBAL D´ JESUS"
+    },
+    {
+      "codigo": "20190087J",
+      "especialidad": "M6",
+      "nombre": "REVILLA-BARBOZA-DANIEL ALEJANDRO"
+    },
+    {
+      "codigo": "20190086C",
+      "especialidad": "C1",
+      "nombre": "CASTILLO-MUÑOZ-VICTOR RAUL"
+    },
+    {
+      "codigo": "20190085G",
+      "especialidad": "I1",
+      "nombre": "BOCANEGRA-BLAS-JAMIR ALFREDO"
+    },
+    {
+      "codigo": "20190084K",
+      "especialidad": "C1",
+      "nombre": "SOSA-FLORES-CARLOS ABEL"
+    },
+    {
+      "codigo": "20190083D",
+      "especialidad": "I1",
+      "nombre": "SILVA-MARIN-JAIME JESUS"
+    },
+    {
+      "codigo": "20190082H",
+      "especialidad": "C1",
+      "nombre": "TOLENTINO-MEZA-JUNIOR ALEXANDER"
+    },
+    {
+      "codigo": "20190081A",
+      "especialidad": "M6",
+      "nombre": "RUFASTO-MATTA-CRISTOPHER ALEXANDER"
+    },
+    {
+      "codigo": "20190080E",
+      "especialidad": "M3",
+      "nombre": "MONTENEGRO-UMERES-MANUEL ANTONIO"
+    },
+    {
+      "codigo": "20190079G",
+      "especialidad": "Q1",
+      "nombre": "URBINA-GALVAN-ANGIE VANESSA"
+    },
+    {
+      "codigo": "20190078K",
+      "especialidad": "C1",
+      "nombre": "SAMANIEGO-ZUASNABAR-JOSE LUIS"
+    },
+    {
+      "codigo": "20190077D",
+      "especialidad": "C1",
+      "nombre": "ZAPATA-QUISPE-EDSON AARON"
+    },
+    {
+      "codigo": "20190076H",
+      "especialidad": "M4",
+      "nombre": "LOVATON-AGUILAR-DIEGO HUGO"
+    },
+    {
+      "codigo": "20190075A",
+      "especialidad": "I2",
+      "nombre": "RIVERA-BLAS-FRANK JUNIOR"
+    },
+    {
+      "codigo": "20190074E",
+      "especialidad": "C1",
+      "nombre": "ATAULLUCO-PALACIOS-FRANCO EDSON"
+    },
+    {
+      "codigo": "20190073I",
+      "especialidad": "L2",
+      "nombre": "ATAULLUCO-PALACIOS-MARKO ERNESTO"
+    },
+    {
+      "codigo": "20190072B",
+      "especialidad": "A1",
+      "nombre": "ARROYO-ARANDA-STEVEN RUDY"
+    },
+    {
+      "codigo": "20190071F",
+      "especialidad": "I1",
+      "nombre": "OBREGÓN-ZAVALETA-FRANZ BRIAN"
+    },
+    {
+      "codigo": "20190070J",
+      "especialidad": "C1",
+      "nombre": "CHERO-ALBINO-DANIEL ORLANDO"
+    },
+    {
+      "codigo": "20190069A",
+      "especialidad": "M6",
+      "nombre": "SANCHEZ-HILARIO-GERARDO MANUEL"
+    },
+    {
+      "codigo": "20190068E",
+      "especialidad": "L1",
+      "nombre": "CANO-CORONADO-STEVEN ISAIAS CRISTOPHER"
+    },
+    {
+      "codigo": "20190067I",
+      "especialidad": "M3",
+      "nombre": "CASTRO-CARHUAVILCA-GERALD JOEL"
+    },
+    {
+      "codigo": "20190066B",
+      "especialidad": "C1",
+      "nombre": "DIAZ-RAMOS-STEVENS GERARDO"
+    },
+    {
+      "codigo": "20190065F",
+      "especialidad": "C1",
+      "nombre": "NUÑEZ-VARILLAS-CHRISTOPHER JOSEPH"
+    },
+    {
+      "codigo": "20190064J",
+      "especialidad": "C1",
+      "nombre": "TAIPE-LLAMO-CARLOS ANDRES"
+    },
+    {
+      "codigo": "20190063C",
+      "especialidad": "M3",
+      "nombre": "NEYRA-VICTORIA-GERSON GIAN PIERO"
+    },
+    {
+      "codigo": "20190062G",
+      "especialidad": "L1",
+      "nombre": "BARBOZA-CORDOVA-ALEX"
+    },
+    {
+      "codigo": "20190061K",
+      "especialidad": "I1",
+      "nombre": "CARDENAS-MUÑOZ-JOHIL NICK"
+    },
+    {
+      "codigo": "20190060D",
+      "especialidad": "I1",
+      "nombre": "BLANCO-CARUAJULCA-NILSON"
+    },
+    {
+      "codigo": "20190059F",
+      "especialidad": "C1",
+      "nombre": "MELO-COLQUEHUANCA-ANTHONY JOB"
+    },
+    {
+      "codigo": "20190058J",
+      "especialidad": "P3",
+      "nombre": "VILLAVICENCIO-TORO-CHRIS JOSEPH"
+    },
+    {
+      "codigo": "20190057C",
+      "especialidad": "I1",
+      "nombre": "SUPO-MARTINEZ-FABIO VALENTIN"
+    },
+    {
+      "codigo": "20190056G",
+      "especialidad": "M6",
+      "nombre": "INGAROCA-FABIAN-NEHEMIAS NICOLAS"
+    },
+    {
+      "codigo": "20190055K",
+      "especialidad": "C1",
+      "nombre": "FIGUEROA-OBREGON-FABIO CESAR"
+    },
+    {
+      "codigo": "20190054D",
+      "especialidad": "C1",
+      "nombre": "CUMPA-SANCHEZ-LUIS RAMON"
+    },
+    {
+      "codigo": "20190053H",
+      "especialidad": "S1",
+      "nombre": "NUÑEZ-QUIROZ-KELLY PATRICIA"
+    },
+    {
+      "codigo": "20190052A",
+      "especialidad": "C1",
+      "nombre": "MONTORO-LIÑAN-LENIN PAVEL"
+    },
+    {
+      "codigo": "20190051E",
+      "especialidad": "C1",
+      "nombre": "QUISPE-TAPIA-ALFREDO JUNIOR"
+    },
+    {
+      "codigo": "20190050I",
+      "especialidad": "L2",
+      "nombre": "TAYPE-RAMIREZ-FABIO ALBERTO"
+    },
+    {
+      "codigo": "20190049K",
+      "especialidad": "L2",
+      "nombre": "HUAMANÍ-OSTOS-JESÚS"
+    },
+    {
+      "codigo": "20190048D",
+      "especialidad": "I1",
+      "nombre": "MARTINEZ-CUELLAR-PAULO CESAR"
+    },
+    {
+      "codigo": "20190047H",
+      "especialidad": "C1",
+      "nombre": "LAVERDE-AGURTO-GUSTAVO ADOLFO"
+    },
+    {
+      "codigo": "20190046A",
+      "especialidad": "C1",
+      "nombre": "VEGA-GARAY-JAIR ANTHONY"
+    },
+    {
+      "codigo": "20190045E",
+      "especialidad": "M4",
+      "nombre": "AVENDAÑO-MEDRANO-DIEGO ARTURO"
+    },
+    {
+      "codigo": "20190044I",
+      "especialidad": "C1",
+      "nombre": "PARRA-ESTELA-SANTIAGO ADOLFO"
+    },
+    {
+      "codigo": "20190043B",
+      "especialidad": "I2",
+      "nombre": "PINTO-LOPEZ-GIRO ALEXANDRO"
+    },
+    {
+      "codigo": "20190042F",
+      "especialidad": "C1",
+      "nombre": "MENDOZA-MACHACA-ALVARO JOSUE"
+    },
+    {
+      "codigo": "20190041J",
+      "especialidad": "M6",
+      "nombre": "LOVO-INCHI-PAUL FRANCIS"
+    },
+    {
+      "codigo": "20190040C",
+      "especialidad": "I1",
+      "nombre": "CASTRO-AGUILAR-ANAIKA SHAKIRA"
+    },
+    {
+      "codigo": "20190039E",
+      "especialidad": "M6",
+      "nombre": "VENTOCILLA-FUENTES RIVERA-JESUS ARMANDO"
+    },
+    {
+      "codigo": "20190038I",
+      "especialidad": "I1",
+      "nombre": "CURO-TORRES-ELIAZAR"
+    },
+    {
+      "codigo": "20190037B",
+      "especialidad": "L2",
+      "nombre": "POMA-GARCIA-ERIK ROGERS"
+    },
+    {
+      "codigo": "20190036F",
+      "especialidad": "I1",
+      "nombre": "DAVILA-COLONIO-LUIS ANGEL"
+    },
+    {
+      "codigo": "20190035J",
+      "especialidad": "M3",
+      "nombre": "CASTAÑEDA-ARCE-EDSON LEONARDO"
+    },
+    {
+      "codigo": "20190034C",
+      "especialidad": "M4",
+      "nombre": "ALCARRAZ-COLCA-ENRIQUE MIJAEL"
+    },
+    {
+      "codigo": "20190033G",
+      "especialidad": "C1",
+      "nombre": "MALPARTIDA-RAMOS-FRANK HEVER"
+    },
+    {
+      "codigo": "20190032K",
+      "especialidad": "L2",
+      "nombre": "RODRIGUEZ-MENDOZA-MISAEL DAN"
+    },
+    {
+      "codigo": "20190031D",
+      "especialidad": "M6",
+      "nombre": "SUAREZ-PAJUELO-DAVIS BECKAM"
+    },
+    {
+      "codigo": "20190030H",
+      "especialidad": "I1",
+      "nombre": "GOMEZ-ALIAGA-GIOVANNI WENCESLAO"
+    },
+    {
+      "codigo": "20190029J",
+      "especialidad": "C1",
+      "nombre": "JIMENEZ-CHUQUIVILCA-MAYKOL"
+    },
+    {
+      "codigo": "20190028C",
+      "especialidad": "I1",
+      "nombre": "MORALES-ZAPATA-DIEGO JOSUE"
+    },
+    {
+      "codigo": "20190027G",
+      "especialidad": "I1",
+      "nombre": "VARGAS-DEZA-CHRISTIAN FERNANDO"
+    },
+    {
+      "codigo": "20190026K",
+      "especialidad": "C1",
+      "nombre": "MEZA-GONZALES-LUIS ANGELO"
+    },
+    {
+      "codigo": "20190025D",
+      "especialidad": "L1",
+      "nombre": "RIOS-NIMA-WALTER"
+    },
+    {
+      "codigo": "20190024H",
+      "especialidad": "C1",
+      "nombre": "VARGAS-ARISTA-FERNANDO MIGUEL"
+    },
+    {
+      "codigo": "20190023A",
+      "especialidad": "C1",
+      "nombre": "QUISPE-COSQUILLO-NICOLE STEFANIE"
+    },
+    {
+      "codigo": "20190022E",
+      "especialidad": "S3",
+      "nombre": "SHERON-SAPO-JOSE LUIS HIPOLITO"
+    },
+    {
+      "codigo": "20190021I",
+      "especialidad": "L2",
+      "nombre": "DEXTRE-CAMONES-ERICK URIEL"
+    },
+    {
+      "codigo": "20190020B",
+      "especialidad": "C1",
+      "nombre": "CAMASCA-PACOMPIA-ANDY"
+    },
+    {
+      "codigo": "20190019D",
+      "especialidad": "I1",
+      "nombre": "MEDINA-DE LA CRUZ-TANIA ALEXANDRA"
+    },
+    {
+      "codigo": "20190018H",
+      "especialidad": "I1",
+      "nombre": "PINEDO-ANDAGUA-YANIRA LEONELA"
+    },
+    {
+      "codigo": "20190017A",
+      "especialidad": "C1",
+      "nombre": "PONCE-SEGIL-DAVID ENRIQUE"
+    },
+    {
+      "codigo": "20190016E",
+      "especialidad": "C1",
+      "nombre": "NINA-YAPUCHURA-JHOSEPH JHONATAN"
+    },
+    {
+      "codigo": "20190015I",
+      "especialidad": "L2",
+      "nombre": "ROBERTO-RODRIGUEZ-EDUARDO"
+    },
+    {
+      "codigo": "20190014B",
+      "especialidad": "G1",
+      "nombre": "SANCHEZ-HUAMAN-GIANFRANCO ALBERTI"
+    },
+    {
+      "codigo": "20190013F",
+      "especialidad": "C1",
+      "nombre": "CHAMORRO-SEGUIL-JULIO KENEDY"
+    },
+    {
+      "codigo": "20190012J",
+      "especialidad": "M6",
+      "nombre": "YAURI-MARTINEZ-ABRAHAM RUSSILL"
+    },
+    {
+      "codigo": "20190011C",
+      "especialidad": "C1",
+      "nombre": "HUAMANÍ-CASTILLO-DAVID ANDRÉS"
+    },
+    {
+      "codigo": "20190010G",
+      "especialidad": "M3",
+      "nombre": "CALLA-DAVALOS-RENATO MAURICIO"
+    },
+    {
+      "codigo": "20190009I",
+      "especialidad": "I1",
+      "nombre": "BENDEZU-RIEGA-CHRISTOPHER ENRIQUE"
+    },
+    {
+      "codigo": "20190008B",
+      "especialidad": "I1",
+      "nombre": "ENCISO-VALLE-HAROLD RAFAEL"
+    },
+    {
+      "codigo": "20190007F",
+      "especialidad": "I2",
+      "nombre": "CAYCHO-ALEJOS-JAIR ALEXANDER"
+    },
+    {
+      "codigo": "20190006J",
+      "especialidad": "S1",
+      "nombre": "SIFUENTES-SAMANAMUD-PERCY GONZALO"
+    },
+    {
+      "codigo": "20190005C",
+      "especialidad": "Q1",
+      "nombre": "DIAZ-YAIPÉN-BRUNO"
+    },
+    {
+      "codigo": "20190004G",
+      "especialidad": "I1",
+      "nombre": "CHAVEZ-DIAZ-ISAIAS JUNIOR"
+    },
+    {
+      "codigo": "20190003K",
+      "especialidad": "M6",
+      "nombre": "NUÑEZ-PAREDES-BRUNO DYLAN LUIS"
+    },
+    {
+      "codigo": "20190002D",
+      "especialidad": "M6",
+      "nombre": "ROMERO-RAMIREZ-DIEGO ANDRE"
+    },
+    {
+      "codigo": "20190001H",
+      "especialidad": "M6",
+      "nombre": "CAPCHA-CHANCA-MEL KLUIVERT RUSSEL"
     }
 ]
