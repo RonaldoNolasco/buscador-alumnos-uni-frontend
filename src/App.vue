@@ -35,7 +35,7 @@ export default {
   data(){
     return{
       codigo:"",
-      datos:require('./codigos.json'),
+      datos:require('./../public/codigos.json'),
       validos:[],
     }
   },
