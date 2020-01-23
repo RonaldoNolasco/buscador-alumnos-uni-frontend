@@ -1,0 +1,2 @@
+git remote remove origin sirve para quitar el origen relacionado al URL
+luego se le agrega con git remote add origin
