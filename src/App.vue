@@ -13,10 +13,11 @@
                 <button class="btn btn-outline-success my-2 my-sm-0" @click="buscar">Buscar</button> 
             </div>
         </div>
-        <table class="table tabla bg-dark text-white">
+        <table class="table bg-dark text-white">
             <thead v-if="validos.length>0">
                 <tr>
                     <th scope="col">#</th>
+                    <th scope="col">Imagen</th>
                     <th scope="col">Codigo</th>
                     <th scope="col">Especialidad</th>
                     <th scope="col">Apellido Paterno</th>
@@ -27,6 +28,7 @@
             <tbody>
                 <tr v-for="valido in validos" v-bind:key="valido.id">
                     <th scope="row">{{valido.id}}</th>
+                    <td><img :src="valido.imgUrl" width="35px"></td>
                     <td>{{valido.codigo}}</td>
                     <td>{{valido.especialidad}}</td>
                     <td>{{valido.ap}}</td>
@@ -72,6 +74,7 @@ export default {
                             this.validos.push(
                                 {
                                 "id": this.validos.length + 1,
+                                "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
                                 "codigo": dato.codigo,
                                 "especialidad": dato.especialidad,
                                 "ap": dato.nombre.split('-')[0],
@@ -94,6 +97,7 @@ export default {
                             this.validos.push(
                                 {
                                 "id": this.validos.length + 1,
+                                "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
                                 "codigo": dato.codigo,
                                 "especialidad": dato.especialidad,
                                 "ap": dato.nombre.split('-')[0],
@@ -116,6 +120,7 @@ export default {
                             this.validos.push(
                                 {
                                 "id": this.validos.length + 1,
+                                "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
                                 "codigo": dato.codigo,
                                 "especialidad": dato.especialidad,
                                 "ap": dato.nombre.split('-')[0],
@@ -139,6 +144,7 @@ export default {
                                 this.validos.push(
                                     {
                                     "id": this.validos.length + 1,
+                                    "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
                                     "codigo": dato.codigo,
                                     "especialidad": dato.especialidad,
                                     "ap": dato.nombre.split('-')[0],
@@ -168,6 +174,6 @@ export default {
   min-height: 100vh;
 }
 .table{
-    width: 90%;
+    margin-bottom: 0px !important;
 }
 </style>
