@@ -27,7 +27,7 @@
             </thead>
             <tbody>
                 <tr v-for="valido in validos" v-bind:key="valido.id">
-                    <th scope="row">{{valido.id}}</th>
+                    <td scope="row">{{valido.id}}</td>
                     <td><img :src="valido.imgUrl" width="35px"></td>
                     <td>{{valido.codigo}}</td>
                     <td>{{valido.especialidad}}</td>
@@ -53,7 +53,6 @@ export default {
         tipo:"codigo",
         datos:require('./../public/codigos.json'),
         validos:[],
-        validarElemento: true
         }
     },
     components: {
@@ -63,97 +62,34 @@ export default {
     methods:{
         buscar(){
             this.validos=[]
-            if(this.tipo=="codigo"){
-                if(this.entrada.length>5){
-                    let valido=true
-                    for (var dato of this.datos){
-                        valido=true
-                        var comp = dato.codigo.substr(0,this.entrada.length)
-                        if(comp!=this.entrada) valido=false;
-                        if(valido){
-                            this.validos.push(
-                                {
-                                "id": this.validos.length + 1,
-                                "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
-                                "codigo": dato.codigo,
-                                "especialidad": dato.especialidad,
-                                "ap": dato.nombre.split('-')[0],
-                                "am": dato.nombre.split('-')[1],
-                                "nombre": dato.nombre.split('-')[2]
-                                }
-                            )
-                        }
+            let valInput=false
+            if(this.tipo=="codigo" && this.entrada.length>5) valInput=true;
+            if(this.tipo=="ap" && this.entrada.length>3) valInput=true;
+            if(this.tipo=="am" && this.entrada.length>3) valInput=true;
+            if(this.tipo=="nombre" && this.entrada.length>3) valInput=true;
+            if(valInput){
+                let valido=true
+                for (var dato of this.datos){
+                    valido=true
+                    if(this.tipo=="codigo") var comp = dato.codigo.substr(0,this.entrada.length);
+                    if(this.tipo=="ap") var comp = dato.nombre.split('-')[0].substr(0,this.entrada.length);
+                    if(this.tipo=="am") var comp = dato.nombre.split('-')[1].substr(0,this.entrada.length);
+                    if(typeof(dato.nombre.split('-')[2])=="string"){
+                        if(this.tipo=="nombre") var comp = dato.nombre.split('-')[2].substr(0,this.entrada.length);
                     }
-                }
-            }
-            else if(this.tipo=="ap"){
-                if(this.entrada.length>3){
-                    let valido=true;
-                    for(var dato of this.datos){
-                        valido=true;
-                        var comp = dato.nombre.split('-')[0].substr(0,this.entrada.length);
-                        if(comp!=this.entrada) valido=false;
-                        if(valido){
-                            this.validos.push(
-                                {
-                                "id": this.validos.length + 1,
-                                "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
-                                "codigo": dato.codigo,
-                                "especialidad": dato.especialidad,
-                                "ap": dato.nombre.split('-')[0],
-                                "am": dato.nombre.split('-')[1],
-                                "nombre": dato.nombre.split('-')[2]
-                                }
-                            )
-                        }
-                    }
-                }
-            }
-            else if(this.tipo=="am"){
-                if(this.entrada.length>3){
-                    let valido=true;
-                    for(var dato of this.datos){
-                        valido=true;
-                        var comp = dato.nombre.split('-')[1].substr(0,this.entrada.length);
-                        if(comp!=this.entrada) valido=false;
-                        if(valido){
-                            this.validos.push(
-                                {
-                                "id": this.validos.length + 1,
-                                "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
-                                "codigo": dato.codigo,
-                                "especialidad": dato.especialidad,
-                                "ap": dato.nombre.split('-')[0],
-                                "am": dato.nombre.split('-')[1],
-                                "nombre": dato.nombre.split('-')[2]
-                                }
-                            )
-                        }
-                    }
-                }
-            }
-            else {
-                if(this.entrada.length>3){
-                    let valido=true;
-                    for(var dato of this.datos){
-                        valido=true;
-                        if(typeof(dato.nombre.split('-')[2])=="string"){
-                            var comp = dato.nombre.split('-')[2].substr(0,this.entrada.length);
-                            if(comp!=this.entrada) valido=false;
-                            if(valido){
-                                this.validos.push(
-                                    {
-                                    "id": this.validos.length + 1,
-                                    "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
-                                    "codigo": dato.codigo,
-                                    "especialidad": dato.especialidad,
-                                    "ap": dato.nombre.split('-')[0],
-                                    "am": dato.nombre.split('-')[1],
-                                    "nombre": dato.nombre.split('-')[2]
-                                    }
-                                )
+                    if(comp!=this.entrada) valido=false;
+                    if(valido){
+                        this.validos.push(
+                            {
+                            "id": this.validos.length + 1,
+                            "imgUrl": "https://www.orce.uni.edu.pe/fotosuni/0060"+dato.codigo+".jpg",
+                            "codigo": dato.codigo,
+                            "especialidad": dato.especialidad,
+                            "ap": dato.nombre.split('-')[0],
+                            "am": dato.nombre.split('-')[1],
+                            "nombre": dato.nombre.split('-')[2]
                             }
-                        }
+                        )
                     }
                 }
             }
@@ -175,5 +111,14 @@ export default {
 }
 .table{
     margin-bottom: 0px !important;
+}
+.tbody{
+    margin-top: 50px !important;
+}
+.tr{
+    align-items: center !important;
+}
+.table td{
+    vertical-align: middle !important;
 }
 </style>
