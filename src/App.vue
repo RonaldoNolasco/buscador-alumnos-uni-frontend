@@ -1,34 +1,41 @@
 <template>
     <div id="app">
-    <Navbar/>
-    <div class="field is-grouped">
-        <input class="input is-info" type="text" placeholder="Info input" v-model="codigo" @keyup.enter="buscar">
-        <button class="button is-info is-expanded" @click="buscar">Buscar</button>
+        <Navbar/>
+        <form class="form input-group mb-3">
+            <input class="form-control mr-sm-2" type="text" placeholder="Ingrese el codigo" aria-label="Search" v-model="codigo" @keyup.enter="buscar">
+            <div class="input-group-append">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit" @click="buscar">Buscar</button>
+            </div>
+        </form>
+        <br>
+        <table class="table">
+            <thead v-if="validos.length>0">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Codigo</th>
+                    <th scope="col">Especialidad</th>
+                    <th scope="col">A. P.</th>
+                    <th scope="col">A. M.</th>
+                    <th scope="col">Nombres</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr v-for="valido in validos" v-bind:key="valido.id">
+                    <th scope="row">{{valido.id}}</th>
+                    <td>{{valido.codigo}}</td>
+                    <td>{{valido.especialidad}}</td>
+                    <td>{{valido.ap}}</td>
+                    <td>{{valido.am}}</td>
+                    <td>{{valido.nombre}}</td>
+                </tr>   
+            </tbody>
+        </table>
     </div>
-    <br>
-    <table class="table center">
-        <thead  v-if="validos.length>0">
-            <tr>
-                <td><strong>Codigo</strong></td>
-                <td><strong>Especialidad</strong></td>
-                <td><strong>Nombre</strong></td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr v-for="valido in validos" v-bind:key="valido.codigo">
-                <td>{{valido.codigo}}</td>
-                <td>{{valido.especialidad}}</td>
-                <td>{{valido.nombre}}</td>
-            </tr>   
-        </tbody>
-    </table>
-  </div>
 </template>
 
 <script>
 //se puede usar v-for con li y creo que no es necesario usar computadas
 //ver lo del require json
-import HelloWorld from './components/HelloWorld.vue'
 import Navbar from './components/Navbar.vue'
 
 export default {
@@ -41,39 +48,39 @@ export default {
     }
   },
   components: {
-    HelloWorld,
-    Navbar
+    Navbar,
   },
 //for in es para objetos, for of es para arreglos        
-  methods:{
-    buscar(){
-      this.validos=[]
-      if(this.codigo.length>5){
-        var cad = []
-        let valido=true
-        for (var dato of this.datos){
-          valido=true
-          var cad = dato.codigo
-          var test = cad.substr(0,this.codigo.length)
-          if(test!=this.codigo){
-            valido=false
-          }
-          if(valido){
-              this.validos.push(
-                {
-                  "codigo": dato.codigo,
-                  "especialidad": dato.especialidad,
-                  "nombre": dato.nombre
-                }
-              )
-          }
+    methods:{
+        buscar(){
+        this.validos=[]
+        if(this.codigo.length>5){
+            var cad = []
+            let valido=true
+            for (var dato of this.datos){
+                valido=true
+                var cad = dato.codigo
+            var test = cad.substr(0,this.codigo.length)
+            if(test!=this.codigo){
+                valido=false
+            }
+            if(valido){
+                this.validos.push(
+                    {
+                    "id": this.validos.length + 1,
+                    "codigo": dato.codigo,
+                    "especialidad": dato.especialidad,
+                    "ap": dato.nombre.split('-')[0],
+                    "am": dato.nombre.split('-')[1],
+                    "nombre": dato.nombre.split('-')[2]
+                    }
+                )
+            }
+            }
         }
-      }
-      this.codigo=""
-    }
-  },
-  computed:{
-  }
+        this.codigo=""
+        }
+    },
 }
 </script>
 
