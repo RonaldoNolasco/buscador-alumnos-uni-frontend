@@ -3,7 +3,7 @@
         <Navbar/>
         <div class="p-3 bg-dark">
             <div class="input-group">
-                <input class="form-control mr-sm-2" type="text" placeholder="Ingrese el codigo" aria-label="Search" v-model="entrada" @keyup.enter="buscar">
+                <input class="form-control mr-sm-2" type="text" :placeholder="'Ingrese el '+relacion(tipo)" aria-label="Search" v-model="entrada" @keyup.enter="buscar" oninput="this.value = this.value.toUpperCase()">
                 <select class="mr-sm-2" v-model="tipo">
                     <option value="codigo" selected="selected">Código</option>
                     <option value="ap">Apellido Paterno</option>
@@ -27,7 +27,7 @@
             </thead>
             <tbody>
                 <tr v-for="valido in validos" v-bind:key="valido.id">
-                    <td scope="row">{{valido.id}}</td>
+                    <td scope="row"><strong>{{valido.id}}</strong></td>
                     <td><img :src="valido.imgUrl" width="35px"></td>
                     <td>{{valido.codigo}}</td>
                     <td>{{valido.especialidad}}</td>
@@ -52,6 +52,12 @@ export default {
         entrada:"",
         tipo:"codigo",
         datos:require('./../public/codigos.json'),
+        arrayRelacion:[
+            { key:'codigo',value:'Código' },
+            { key:'ap', value:'Apellido Paterno' },
+            { key:'am', value:'Apellido Materno' },
+            { key:'nombre', value:'Nombre' },
+        ],
         validos:[],
         }
     },
@@ -60,6 +66,22 @@ export default {
     },
 //for in es para objetos, for of es para arreglos
     methods:{
+        /*
+        relacion(cad){
+            if(cad=="codigo") return "Codigo";
+            else if(cad=="ap") return "Apellido Parteno";
+            else if(cad=="am") return "Apellido Marteno";
+            else return "Nombre";
+        },
+        */
+        relacion(cad){
+            for (var rela of this.arrayRelacion){
+                if (rela.key==cad) {
+                    return rela.value;
+                    break;
+                }
+            }
+        },
         buscar(){
             this.validos=[]
             let valInput=false
