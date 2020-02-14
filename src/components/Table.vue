@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <table class="table bg-dark text-white">
-            <thead v-if="validos.length>0">
+    <div class="table-responsive">
+        <table class="table bg-dark text-white border-white" v-if="validos.length>0">
+            <thead>
                 <tr>
                     <th scope="col">#</th>
                     <th scope="col">Imagen</th>
@@ -14,7 +14,7 @@
             </thead>
             <tbody>
                 <tr v-for="valido in validos" v-bind:key="valido.id">
-                    <td scope="row"><strong>{{valido.id}}</strong></td>
+                    <th scope="row">{{valido.id}}</th>
                     <td><img :src="valido.imgUrl" width="35px"></td>
                     <td>{{valido.codigo}}</td>
                     <td>{{valido.especialidad}}</td>
