@@ -2,16 +2,14 @@
     <div id="app">
         <Navbar/>
         <div class="p-3 bg-dark">
-            <div>
-                <input class="col-lg-7 col-md-7 col-sm-7 col-12 form-control" type="text" :placeholder="'Ingrese el '+relacion(tipo)" v-model="entrada" @keyup.enter="buscar" oninput="this.value = this.value.toUpperCase()">
-                <select class="col-lg-3 col-md-3 col-sm-3 col-8 form-control" v-model="tipo">    
-                    <option value="codigo" selected="selected">Código</option>
-                    <option value="ap">Apellido Paterno</option>
-                    <option value="am">Apellido Materno</option>
-                    <option value="nombre">Nombre</option>
-                </select>
-                <button class="col-lg-2 col-md-2 col-sm-2 col-4 form-control btn btn-outline-success" @click="buscar">Buscar</button> 
-            </div>
+            <input class="col-lg-7 col-md-7 col-sm-7 col-12 form-control" type="text" :placeholder="'Ingrese el '+relacion(tipo)" v-model="entrada" @keyup.enter="buscar" oninput="this.value = this.value.toUpperCase()">
+            <select class="col-lg-3 col-md-3 col-sm-3 col-8 form-control" v-model="tipo">    
+                <option value="codigo">Código</option>
+                <option value="ap">Apellido Paterno</option>
+                <option value="am">Apellido Materno</option>
+                <option value="nombre">Nombre</option>
+            </select>
+            <button class="col-lg-2 col-md-2 col-sm-2 col-4 form-control btn btn-outline-success" @click="buscar">Buscar</button> 
         </div>
         <table class="table bg-dark text-white">
             <thead v-if="validos.length>0">
