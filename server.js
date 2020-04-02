@@ -16,7 +16,7 @@ console.log('Listening on port ' + port)
 //quitar el /dist del gitignore
 //heroku login
 //heroku git:remote -a buscador-alumnos-uni
-//git remote remove origin y git remote add origin git@github.com:TheBestShooter/buscador-alumnos-uni.git
+//o sino git remote remove origin y git remote add origin git@github.com:TheBestShooter/buscador-alumnos-uni.git
 //git add .
 //git commit -m ""
 //git push heroku master -f
