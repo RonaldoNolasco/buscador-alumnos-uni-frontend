@@ -4,7 +4,6 @@ import store from './store'
 import './../node_modules/bootstrap/dist/css/bootstrap.min.css';
 //import './../node_modules/bulma/css/bulma.css';
 
-
 Vue.config.productionTip = false
 
 new Vue({
