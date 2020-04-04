@@ -30,7 +30,7 @@ export default {
     methods:{
         buscar(){
             let response = fetch(
-                'http://localhost:8081/api/registrox?'+'codigo='+this.codigo+'&nombre='+this.nombre+'&ap='+this.ap+'&am='+this.am,
+                'http://localhost:8081/api/alumnos?'+'codigo='+this.codigo+'&nombre='+this.nombre+'&ap='+this.ap+'&am='+this.am,
                 {
                     method:'GET',
                     headers:{
