@@ -10,10 +10,16 @@ for i in range (0,len(f1)):
     for j in range(2, len(x)):
         completo = completo + x[j] if j==2 else completo + " " + x[j] #completo es el nombre completo
     y = completo.split('-')
-    for k in range(0,len(y)):
-        res = res + "," + y[k]
-    print(res)
-#Falta ver los que solo tienen 2 apellidos en y
+    if(len(y)==3):
+        for k in range(0,len(y)):
+            res = res + "," + y[k]
+        final = res.split(',')
+        final[1], final[3] = final[3], final[1]
+        print(','.join(final))
+
+#Tener cuidado con el 20101447E
+
+#Falta ver los que tienen 2 o 4 en y, F
 
 #Pasarlo a json en https://www.csvjson.com/csv2json
 
