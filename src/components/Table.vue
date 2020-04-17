@@ -1,6 +1,6 @@
 <template>
     <div class="table-responsive">
-        <table class="table bg-dark text-white border-white" v-if="validos.length>0">
+        <table class="table bg-dark text-white border-white" v-if="this.$store.state.validos.length>0">
             <thead>
                 <tr>
                     <th scope="col">#</th>
@@ -13,7 +13,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr v-for="valido in validos" v-bind:key="valido.id">
+                <tr v-for="valido in this.$store.state.validos" v-bind:key="valido.id">
                     <th scope="row">{{valido.id}}</th>
                     <td><img :src="valido.imgUrl" width="35px"></td>
                     <td>{{valido.codigo}}</td>
@@ -30,7 +30,6 @@
 <script>
 export default {
     name:'Table',
-    props:['validos']
 }
 </script>
 

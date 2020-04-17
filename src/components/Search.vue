@@ -7,7 +7,7 @@
             <input class="col-lg-2 col-md-2 col-sm-2 col-2 form-control mr-sm-2 mr-2 mb-2" type="text" :placeholder="'Nombre'" v-model="nombre" @keyup.enter="buscar" oninput="this.value = this.value.toUpperCase()">
             <button class="col-lg-1 col-md-2 col-sm-2 col-3 form-control btn btn-outline-success" @click="buscar">Buscar</button>
         </div>
-        <Table :validos="validos"/>
+        <Table/>
     </div>
 </template>
 
@@ -24,7 +24,6 @@ export default {
             ap:"",
             am:"",
             nombre:"",
-            validos:[],
         }
     },
     methods:{
@@ -41,10 +40,10 @@ export default {
             .then(response => response.json())
             .then(data => 
                 {
-                    this.validos = data
-                    for(let [index,value] of this.validos.entries()){
-                        this.validos[index].id = index+1
-                        this.validos[index].imgUrl = "https://www.orce.uni.edu.pe/fotosuni/0060"+this.validos[index].codigo+".jpg"
+                    this.$store.state.validos = data
+                    for(let [index,value] of this.$store.state.validos.entries()){
+                        this.$store.state.validos[index].id = index+1
+                        this.$store.state.validos[index].imgUrl = "https://www.orce.uni.edu.pe/fotosuni/0060"+this.$store.state.validos[index].codigo+".jpg"
                     }
                 }
             );

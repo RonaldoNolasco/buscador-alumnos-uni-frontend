@@ -2,6 +2,9 @@
     <div id="app">
         <Navbar/>
         <Search/>
+        <template v-if="this.$store.state.validos.length > 0">
+            <Footer/>
+        </template>
     </div>
 </template>
 
@@ -10,6 +13,7 @@
 //ver lo del require json
 import Navbar from '@/components/Navbar.vue'
 import Search from '@/components/Search.vue'
+import Footer from '@/components/Footer.vue'
 
 export default {
     name: 'app', 
@@ -19,19 +23,10 @@ export default {
     },
     components: {
         Navbar,
-        Search
+        Search,
+        Footer
     },
 //for in es para objetos, for of es para arreglos
-    methods:{
-        /*
-        relacion(cad){
-            if(cad=="codigo") return "Codigo";
-            else if(cad=="ap") return "Apellido Parteno";
-            else if(cad=="am") return "Apellido Marteno";
-            else return "Nombre";
-        },
-        */ 
-    },
 }
 </script>
 
