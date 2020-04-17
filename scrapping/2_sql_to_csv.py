@@ -4,18 +4,17 @@
 f = open("1_codigos_scrapping.txt","r")
 f1 = f.readlines()
 for i in range (0,len(f1)):
+    test = ""
+    res = ""
     x=f1[i].split()
-    res = x[0] + "," + x[1] #res es el código con la especialidad
-    completo = ""
-    for j in range(2, len(x)):
-        completo = completo + x[j] if j==2 else completo + " " + x[j] #completo es el nombre completo
-    y = completo.split('-')
-    if(len(y)==3):
-        for k in range(0,len(y)):
-            res = res + "," + y[k]
-        final = res.split(',')
-        final[1], final[3] = final[3], final[1]
-        print(','.join(final))
+    test = x[2]
+    for j in range(3, len(x)):
+        test = test + " " + x[j]
+    fin = test.split('-')
+    res = x[0] + "," + x[1]
+    for j in range(0, len(fin)):
+        res = res + "," + fin[j]
+    print(res)
 
 #Tener cuidado con el 20101447E
 

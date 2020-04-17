@@ -18,8 +18,8 @@
                     <td><img :src="valido.imgUrl" width="35px"></td>
                     <td>{{valido.codigo}}</td>
                     <td>{{valido.especialidad}}</td>
-                    <td>{{valido.apellido_paterno}}</td>
-                    <td>{{valido.apellido_materno}}</td>
+                    <td>{{valido.ap}}</td>
+                    <td>{{valido.am}}</td>
                     <td>{{valido.nombre}}</td>
                 </tr>   
             </tbody>
